@@ -1,0 +1,22 @@
+Left issues count, fork count
+
+Star per topic people validated element
+
+repository topics: no of appeareance
+
+function findTags(string description, object possibleTags)  => {possibleTag: boolean}
+    output = {}
+    foreach (possibleTags)
+        if isTaginText(description, possibleTag) output[possibleTag] = true;
+
+Friday 09
+
+0. filter out projects with less than 3 stars.
+    1. countT: some of the topics are the result of mistakes
+and typos. Most of these appear only once or twice - sort
+the topics by appearance and retrieve/store the bad ones
+2.  When trying to find a topic in the description,
+be careful about the multiple-word topics (preprocess them by replacing
+all "-" by " "): Example: "unity-vr" => "unity vr", "unity-vr"
+3. To extract new topics from the description, look at the projects
+with 10 or more stars and manually extract those topics.
