@@ -1,5 +1,5 @@
 var fs = require('fs');
-var AR = require('./Tags_file.json');
+var AR = require('./Tags_file_Final.json');
 
 //var CS = require('./destination.csv')
 
