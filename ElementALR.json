@@ -94,7 +94,7 @@
         "createdAt": "2020-02-28T09:03:36Z",
         "nameWithOwner": "AR-js-org/AR.js",
         "stargazerCount": 2445,
-        "description": "Image tracking, Location Based AR, Marker tracking. All on the Web.",
+        "description": "Image tracking, Location Based AR, Marker tracking. All on the Web .",
         "repositoryTopics_list": [
             "augmented-reality",
             "webar",
@@ -1519,7 +1519,7 @@
         "createdAt": "2018-10-20T22:51:27Z",
         "nameWithOwner": "Carnaux/Web-AR-BIM-Visualization",
         "stargazerCount": 6,
-        "description": "A visualization of a BIM using Web Augmented Reality . (PROTOTYPE)",
+        "description": "webar A visualization of a BIM using Web Augmented Reality . (PROTOTYPE)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -1911,7 +1911,7 @@
             "accessibility",
             "colour-blindness",
             "edge-detection",
-            "webgl-shader",
+            "webgl",
             "ar",
             "yolo",
             "object-detection",
@@ -3587,7 +3587,7 @@
         "createdAt": "2019-02-04T08:49:55Z",
         "nameWithOwner": "IshanManchanda/Hololens",
         "stargazerCount": 8,
-        "description": "Website made for Microsoft Hololens as a school project.",
+        "description": "webar Website made for Microsoft Hololens as a school project.",
         "repositoryTopics_list": [
             "microsoft",
             "hololens",
@@ -4343,7 +4343,7 @@
         "createdAt": "2017-01-24T14:42:05Z",
         "nameWithOwner": "MBHS-Computer-Science-Association/TSA-Web-Development-2017",
         "stargazerCount": 3,
-        "description": "A website about augmented reality",
+        "description": "web A website about augmented reality",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -6649,7 +6649,7 @@
         "createdAt": "2017-07-24T09:28:12Z",
         "nameWithOwner": "Stinkstudios/arkit-web",
         "stargazerCount": 155,
-        "description": "An experimental iOS app for rapidly prototyping ARKit experiences with WebGL.",
+        "description": "web An experimental iOS app for rapidly prototyping ARKit experiences with WebGL.",
         "repositoryTopics_list": [
             "arkit",
             "webgl",
@@ -8285,7 +8285,7 @@
         "createdAt": "2018-06-01T02:40:25Z",
         "nameWithOwner": "acerwebvr/acerwebvr.github.io",
         "stargazerCount": 10,
-        "description": "With your Acer Windows Mixed Reality Headset, you can experience VR in Chrome browser just by clicking a link.",
+        "description": "webar With your Acer Windows Mixed Reality Headset, you can experience VR in Chrome browser just by clicking a link.",
         "repositoryTopics_list": [
             "webvr",
             "webxr",
@@ -8632,7 +8632,7 @@
         "createdAt": "2017-12-06T16:58:57Z",
         "nameWithOwner": "ahmadsayed/node-red-contrib-web-babylonjs",
         "stargazerCount": 4,
-        "description": "null",
+        "description": "web",
         "repositoryTopics_list": [
             "node-red",
             "iot",
@@ -10000,7 +10000,7 @@
         "stargazerCount": 30,
         "description": "A innovative Web editor for Augmented Reality",
         "repositoryTopics_list": [
-            "webglstudio",
+            "webgl",
             "litescenejs",
             "webar",
             "nft",
@@ -10619,7 +10619,7 @@
         "createdAt": "2016-05-08T13:31:10Z",
         "nameWithOwner": "cassell/frozen-web-augmented-reality-demo",
         "stargazerCount": 4,
-        "description": "Tech Demo: 2D Puppet Show Demo Of Augmented Reality Using Javascript",
+        "description": "web Tech Demo: 2D Puppet Show Demo Of Augmented Reality Using Javascript",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -12181,7 +12181,7 @@
         "createdAt": "2018-04-23T06:24:54Z",
         "nameWithOwner": "dikyarga/belajar-WebAR",
         "stargazerCount": 3,
-        "description": "Augmented Reality di platform Web",
+        "description": "webar Augmented Reality di platform Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -12823,7 +12823,7 @@
         "createdAt": "2017-05-07T01:31:51Z",
         "nameWithOwner": "ellatronic/ScoutAR",
         "stargazerCount": 27,
-        "description": "Augmented reality app displays nearby restaurant information in a live camera and map view.",
+        "description": "web Augmented reality app displays nearby restaurant information in a live camera and map view.",
         "repositoryTopics_list": [
             "swift-3",
             "augmented-reality",
@@ -12931,7 +12931,7 @@
         "createdAt": "2016-06-15T14:05:01Z",
         "nameWithOwner": "es605/HTMoLAR",
         "stargazerCount": 11,
-        "description": "A web-based interactive 3D molecular viewer with Augmented Reality & Holographic Display.",
+        "description": "A web -based interactive 3D molecular viewer with Augmented Reality & Holographic Display.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -13100,7 +13100,7 @@
         "createdAt": "2019-08-06T23:33:51Z",
         "nameWithOwner": "exokitxr/exokit-web",
         "stargazerCount": 52,
-        "description": "Exokit WebXR engine for the browser",
+        "description": "web Exokit WebXR engine for the browser",
         "repositoryTopics_list": [
             "metaverse",
             "vr",
@@ -13563,7 +13563,7 @@
         "createdAt": "2017-04-28T10:51:49Z",
         "nameWithOwner": "freinbichler/ar-room-availability",
         "stargazerCount": 10,
-        "description": "A web-based augmented reality application to visualize room availability",
+        "description": "A web -based augmented reality application to visualize room availability",
         "repositoryTopics_list": [
             "augmented-reality",
             "jsartoolkit",
@@ -13845,7 +13845,7 @@
         "createdAt": "2017-11-14T22:05:47Z",
         "nameWithOwner": "google-ar/WebAR-Article",
         "stargazerCount": 228,
-        "description": "WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
+        "description": "webar arkit arcore WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
         "repositoryTopics_list": [
             "webar",
             "augmented-reality",
@@ -13872,7 +13872,7 @@
         "createdAt": "2017-08-25T19:31:06Z",
         "nameWithOwner": "google-ar/WebARonARKit",
         "stargazerCount": 719,
-        "description": "An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
+        "description": "webar arkit An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -13964,7 +13964,7 @@
         "createdAt": "2018-10-18T16:05:16Z",
         "nameWithOwner": "google/model-viewer",
         "stargazerCount": 3077,
-        "description": "Easily display interactive 3D models on the web and in AR! ",
+        "description": "webar Easily display interactive 3D models on the web and in AR! ",
         "repositoryTopics_list": [
             "3d-models",
             "gltf",
@@ -15031,7 +15031,7 @@
         "createdAt": "2019-08-15T22:01:08Z",
         "nameWithOwner": "immersive-web/ar-common",
         "stargazerCount": 9,
-        "description": "xrtk A repo for discussing and capturing information about cross-API aspects of augmented reality ",
+        "description": "web xrtk A repo for discussing and capturing information about cross-API aspects of augmented reality ",
         "repositoryTopics_list": [
             "webxr",
             "augmented-reality",
@@ -15048,7 +15048,7 @@
         "createdAt": "2020-09-08T19:17:53Z",
         "nameWithOwner": "immersive-web/depth-sensing",
         "stargazerCount": 30,
-        "description": "Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
+        "description": "web Specification: https://immersive-web.github.io/depth-sensing/ Explainer: https://github.com/immersive-web/depth-sensing/blob/main/explainer.md",
         "repositoryTopics_list": [
             "webxr",
             "incubation",
@@ -15066,7 +15066,7 @@
         "createdAt": "2018-10-31T17:33:01Z",
         "nameWithOwner": "immersive-web/lighting-estimation",
         "stargazerCount": 17,
-        "description": "A proposal for adding lighting estimation API to WebXR Device API. Feature lead: Kip Gilbert",
+        "description": "web A proposal for adding lighting estimation API to WebXR Device API. Feature lead: Kip Gilbert",
         "repositoryTopics_list": [
             "incubation",
             "webxr",
@@ -15083,7 +15083,7 @@
         "createdAt": "2019-04-08T17:16:59Z",
         "nameWithOwner": "immersive-web/real-world-geometry",
         "stargazerCount": 42,
-        "description": "Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
+        "description": "web Additions to WebXR Device API for exposing real world data (Lead: Piotr Bialecki). Plane detection: https://immersive-web.github.io/real-world-geometry/plane-detection.html",
         "repositoryTopics_list": [
             "incubation",
             "webxr",
@@ -15104,7 +15104,7 @@
         "repositoryTopics_list": [
             "virtual-reality",
             "augmented-reality",
-            "web-api",
+            "web",
             "webxr"
         ],
         "primaryLanguage": "JavaScript",
@@ -15119,7 +15119,7 @@
         "createdAt": "2019-07-30T17:08:09Z",
         "nameWithOwner": "immersive-web/webxr-ar-module",
         "stargazerCount": 64,
-        "description": "Repository for the WebXR Augmented Reality Module",
+        "description": "web Repository for the WebXR Augmented Reality Module",
         "repositoryTopics_list": [
             "webxr",
             "augmented-reality"
@@ -15135,7 +15135,7 @@
         "createdAt": "2019-07-29T20:20:50Z",
         "nameWithOwner": "immersive-web/webxr-gamepads-module",
         "stargazerCount": 20,
-        "description": "Repository for the WebXR Gamepads Module",
+        "description": "web Repository for the WebXR Gamepads Module",
         "repositoryTopics_list": [
             "webxr",
             "gamepad",
@@ -15153,7 +15153,7 @@
         "createdAt": "2019-02-01T03:56:09Z",
         "nameWithOwner": "immersive-web/webxr-input-profiles",
         "stargazerCount": 88,
-        "description": "WebXR Gamepad assets, source library, and schema",
+        "description": "web WebXR Gamepad assets, source library, and schema",
         "repositoryTopics_list": [
             "webxr",
             "gamepad",
@@ -15173,7 +15173,7 @@
         "createdAt": "2018-03-21T23:52:46Z",
         "nameWithOwner": "immersive-web/webxr-polyfill",
         "stargazerCount": 265,
-        "description": "xrtk Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+        "description": "web xrtk Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
         "repositoryTopics_list": [
             "webxr",
             "webvr",
@@ -15194,7 +15194,7 @@
         "createdAt": "2017-08-02T21:34:00Z",
         "nameWithOwner": "immersive-web/webxr-samples",
         "stargazerCount": 525,
-        "description": "Samples to demonstrate use of the WebXR Device API",
+        "description": "web Samples to demonstrate use of the WebXR Device API",
         "repositoryTopics_list": [
             "webxr",
             "virtual-reality",
@@ -15616,7 +15616,7 @@
         "createdAt": "2018-08-02T21:48:42Z",
         "nameWithOwner": "jeeliz/jeelizAR",
         "stargazerCount": 316,
-        "description": "JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL.",
+        "description": "JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL .",
         "repositoryTopics_list": [
             "augmented-reality",
             "object-tracking",
@@ -15649,7 +15649,7 @@
         "createdAt": "2018-02-16T21:43:54Z",
         "nameWithOwner": "jeeliz/jeelizFaceFilter",
         "stargazerCount": 1878,
-        "description": "Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). ",
+        "description": "Javascript/ WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). ",
         "repositoryTopics_list": [
             "face",
             "tracking",
@@ -16503,7 +16503,7 @@
         "createdAt": "2019-02-07T08:01:11Z",
         "nameWithOwner": "kienstra/augmented-reality",
         "stargazerCount": 10,
-        "description": "A WordPress plugin with a block to display web-based augmented reality.",
+        "description": "web A WordPress plugin with a block to display web-based augmented reality.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -16734,7 +16734,7 @@
         "createdAt": "2018-01-11T15:43:10Z",
         "nameWithOwner": "kyle8998/SocialSpend",
         "stargazerCount": 5,
-        "description": "View where you friends are spending in an exiting new visual social media platform with integrated augmented reality and real time data tracking!",
+        "description": "webar View where you friends are spending in an exiting new visual social media platform with integrated augmented reality and real time data tracking!",
         "repositoryTopics_list": [
             "augmented-reality",
             "ios",
@@ -17236,7 +17236,7 @@
         "createdAt": "2020-01-31T01:00:33Z",
         "nameWithOwner": "machado12/googleglass",
         "stargazerCount": 5,
-        "description": "Site feito em aulas do Curso em Vídeo - Nas aulas originais o site foi feito apenas para Web; depois de um tempo refiz todo com responsividade. Agora ele se adapta a dispositivos móveis.",
+        "description": "Site feito em aulas do Curso em Vídeo - Nas aulas originais o site foi feito apenas para Web ; depois de um tempo refiz todo com responsividade. Agora ele se adapta a dispositivos móveis.",
         "repositoryTopics_list": [
             "google-glass",
             "odirlei",
@@ -18276,7 +18276,7 @@
         "createdAt": "2020-03-30T05:05:00Z",
         "nameWithOwner": "mazkaaa/web-ar-slam-3",
         "stargazerCount": 4,
-        "description": "Polished interaction Augmented Reality SLAM",
+        "description": "web webar Polished interaction Augmented Reality SLAM",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -18351,7 +18351,7 @@
             "art",
             "artists",
             "pwa",
-            "web-ar",
+            "webar ",
             "hacktoberfest"
         ],
         "primaryLanguage": "Jinja",
@@ -19303,7 +19303,7 @@
         "createdAt": "2018-09-16T06:55:35Z",
         "nameWithOwner": "mletic/web-mixed-reality",
         "stargazerCount": 3,
-        "description": "null",
+        "description": "web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -19707,7 +19707,7 @@
         "createdAt": "2017-09-11T01:45:25Z",
         "nameWithOwner": "nagam11/WebAR",
         "stargazerCount": 5,
-        "description": "Sample AR project built on Google's new three.ar.js",
+        "description": "webar arkit Sample AR project built on Google's new three.ar.js",
         "repositoryTopics_list": [
             "webaronarkit",
             "three-ar-js",
@@ -20077,7 +20077,7 @@
         "createdAt": "2017-10-03T17:25:44Z",
         "nameWithOwner": "nitin42/React-Web-AR",
         "stargazerCount": 540,
-        "description": "🕶️ Augmented Reality on web with React",
+        "description": "webar Augmented Reality on web with React",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -20153,7 +20153,7 @@
         "createdAt": "2018-07-09T19:54:47Z",
         "nameWithOwner": "noahlevenson/stealing-ur-feelings",
         "stargazerCount": 797,
-        "description": "Winner of Mozilla's $50,000 prize for art and advocacy exploring AI",
+        "description": "webar Winner of Mozilla's $50,000 prize for art and advocacy exploring AI",
         "repositoryTopics_list": [
             "art",
             "snapchat",
@@ -20722,7 +20722,7 @@
         "createdAt": "2020-06-09T07:02:22Z",
         "nameWithOwner": "pamruta/WebAR",
         "stargazerCount": 3,
-        "description": "Augmented Reality Experiments using WebXR , WebVR , AR.JS",
+        "description": "webar Augmented Reality Experiments using WebXR , WebVR , AR.JS",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -21050,7 +21050,6 @@
             "augmented-reality",
             "webar",
             "webgl",
-            "webgl2",
             "webrtc",
             "playcanvas",
             "html5"
@@ -21385,7 +21384,7 @@
             "markers",
             "kids",
             "ar",
-            "web-ar",
+            "webar",
             "education"
         ],
         "primaryLanguage": "JavaScript",
@@ -22288,7 +22287,7 @@
         "createdAt": "2019-02-11T06:12:28Z",
         "nameWithOwner": "rodrigocam/ar-gif",
         "stargazerCount": 51,
-        "description": "Easy to use augmented reality web components",
+        "description": "web Easy to use augmented reality web components",
         "repositoryTopics_list": [
             "threejs",
             "jsartoolkit",
@@ -23759,7 +23758,7 @@
         "createdAt": "2018-05-25T12:52:02Z",
         "nameWithOwner": "stemkoski/AR-Examples",
         "stargazerCount": 367,
-        "description": "Augmented Reality examples for the web.",
+        "description": "Augmented Reality examples for the web .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -24086,7 +24085,7 @@
         "createdAt": "2020-02-23T14:11:34Z",
         "nameWithOwner": "tarukosu/MixedReality-WebRTC-ayame",
         "stargazerCount": 5,
-        "description": "MixedReality-WebRTC にて、シグナリングサーバとして Ayame を利用するためのコード",
+        "description": "MixedReality- WebRTC にて、シグナリングサーバとして Ayame を利用するためのコード",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -24211,7 +24210,7 @@
         "createdAt": "2020-02-03T19:21:39Z",
         "nameWithOwner": "tessrUX/webar-stock-dataviz",
         "stargazerCount": 6,
-        "description": "A 3D Augmented Reality Stock Data Visualization on the Web",
+        "description": "webar A 3D Augmented Reality Stock Data Visualization on the Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -24659,7 +24658,7 @@
         "createdAt": "2016-02-16T17:39:22Z",
         "nameWithOwner": "tweedegolf/web-ar",
         "stargazerCount": 7,
-        "description": "Creating augmented reality applications using solely web technologies and JSAruco or JSARToolkit",
+        "description": "webar Creating augmented reality applications using solely web technologies and JSAruco or JSARToolkit",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -24820,7 +24819,7 @@
         "createdAt": "2017-12-29T20:52:03Z",
         "nameWithOwner": "urish/web-ar-experiment",
         "stargazerCount": 61,
-        "description": "Experimenting with WebAR",
+        "description": "web Experimenting with WebAR",
         "repositoryTopics_list": [
             "webar",
             "google-pixel",
@@ -25178,7 +25177,7 @@
         "createdAt": "2017-11-15T05:52:05Z",
         "nameWithOwner": "viromedia/virocore",
         "stargazerCount": 281,
-        "description": "ViroCore cross-platform AR/VR renderer",
+        "description": "WebAssembly ViroCore cross-platform AR/VR renderer",
         "repositoryTopics_list": [
             "java",
             "android",
@@ -25317,7 +25316,7 @@
         "createdAt": "2020-10-16T19:24:26Z",
         "nameWithOwner": "vriajs/vria",
         "stargazerCount": 20,
-        "description": "A Web-based Framework for Creating Immersive Analytics Experiences",
+        "description": "A Web -based Framework for Creating Immersive Analytics Experiences",
         "repositoryTopics_list": [
             "webxr",
             "data-visualization",
@@ -25557,7 +25556,7 @@
         "createdAt": "2017-08-23T19:18:19Z",
         "nameWithOwner": "walidabazo/Unity-shadow-Augmented-Reality",
         "stargazerCount": 8,
-        "description": "Unity 3d Create shadow to 3d model on  Augmented Reality ",
+        "description": "webar arkit Unity 3d Create shadow to 3d model on  Augmented Reality ",
         "repositoryTopics_list": [
             "shadow",
             "unity3d",
@@ -25686,7 +25685,7 @@
         "createdAt": "2020-04-07T19:08:55Z",
         "nameWithOwner": "webarkit/jsartoolkitNFT",
         "stargazerCount": 57,
-        "description": "jsartolkitNFT is a smaller version of jsartoolkit5 with only NFT support",
+        "description": "webar arkit jsartolkitNFT is a smaller version of jsartoolkit5 with only NFT support",
         "repositoryTopics_list": [
             "jsartoolkit5",
             "jsartoolkitnft",
@@ -25713,7 +25712,7 @@
         "createdAt": "2020-05-06T16:47:37Z",
         "nameWithOwner": "webarkit/webarkit.github.io",
         "stargazerCount": 7,
-        "description": "The official web page of webarkit org",
+        "description": "webar arkit The official web page of webarkit org",
         "repositoryTopics_list": [
             "webarkit",
             "webarkitorg",
@@ -25822,7 +25821,7 @@
         "createdAt": "2017-08-28T13:36:27Z",
         "nameWithOwner": "wimvdc/Tradfri_AR",
         "stargazerCount": 9,
-        "description": "PoC - Controlling Ikea TRÅDFRI lights using (web based) Augmented Reality",
+        "description": "PoC - Controlling Ikea TRÅDFRI lights using ( web based) Augmented Reality",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [

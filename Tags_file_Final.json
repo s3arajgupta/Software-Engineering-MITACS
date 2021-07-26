@@ -758,12 +758,12 @@
             "medicine",
             "unity",
             "unity3d",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-08-21T14:51:31Z",
         "nameWithOwner": "AgrMayank/AidXR",
         "stargazerCount": 3,
-        "description": "Saving lives through XR!! ",
+        "description": "xrtk Saving lives through XR!! ",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -1386,8 +1386,7 @@
             "mlkit",
             "swift",
             "virtual",
-            "vision",
-            "youtube"
+            "vision"
         ],
         "createdAt": "2019-06-19T01:37:37Z",
         "nameWithOwner": "ApolloZhu/AR-Lipstick",
@@ -1646,12 +1645,8 @@
             "personal-project",
             "uwp",
             "viewmodel",
-            "windows-10",
-            "windows-10-mobile",
-            "windows-10-xbox",
-            "windows-phone",
-            "wp8",
-            "xbox-one"
+            "windows",
+            "windows-phone"
         ],
         "createdAt": "2016-01-22T08:30:20Z",
         "nameWithOwner": "AzureKitsune/Crystal",
@@ -1667,9 +1662,7 @@
             "wp8",
             "windows-phone",
             "personal-project",
-            "windows-10",
-            "windows-10-mobile",
-            "windows-10-xbox",
+            "windows",
             "xbox-one",
             "hololens",
             "mixed-reality",
@@ -2147,12 +2140,12 @@
             "unity",
             "virtualreality",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2017-03-05T15:54:59Z",
         "nameWithOwner": "CMDann/hololens-starter",
         "stargazerCount": 6,
-        "description": "A starter project for working with the Microsoft Hololens. You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
+        "description": "xrtk A starter project for working with the Microsoft Hololens. You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
         "repositoryTopics_list": [
             "hololense",
             "hologram",
@@ -2276,12 +2269,13 @@
             "augmented",
             "reality",
             "visualization",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2018-10-20T22:51:27Z",
         "nameWithOwner": "Carnaux/Web-AR-BIM-Visualization",
         "stargazerCount": 6,
-        "description": "A visualization of a BIM using Web Augmented Reality . (PROTOTYPE)",
+        "description": "webar A visualization of a BIM using Web Augmented Reality . (PROTOTYPE)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -2471,8 +2465,7 @@
             "reality",
             "scenekit",
             "solar",
-            "swift",
-            "xcode"
+            "swift"
         ],
         "createdAt": "2019-11-24T19:47:48Z",
         "nameWithOwner": "ClayNegen/IOS-AR-Solar-System",
@@ -2845,9 +2838,7 @@
             "shaders",
             "sobel",
             "vr",
-            "webgl",
-            "webgl-shader",
-            "yolo"
+            "webgl"
         ],
         "createdAt": "2017-10-22T14:20:17Z",
         "nameWithOwner": "DanRuta/WebSight",
@@ -2862,7 +2853,7 @@
             "accessibility",
             "colour-blindness",
             "edge-detection",
-            "webgl-shader",
+            "webgl",
             "ar",
             "yolo",
             "object-detection",
@@ -3015,13 +3006,12 @@
             "webgl",
             "webvr",
             "webxr",
-            "webxr-unity",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-02-15T00:05:34Z",
         "nameWithOwner": "De-Panther/unity-webxr-export",
         "stargazerCount": 216,
-        "description": "Develop and export WebXR experiences using Unity WebGL",
+        "description": "xrtk Develop and export WebXR experiences using Unity WebGL",
         "repositoryTopics_list": [
             "webxr",
             "unity",
@@ -3547,8 +3537,7 @@
             "augmented-reality",
             "urho3d",
             "urhosharp",
-            "xamarin",
-            "xamarin-ios"
+            "xamarin"
         ],
         "createdAt": "2017-07-27T15:40:06Z",
         "nameWithOwner": "EgorBo/ARKitXamarinDemo",
@@ -3572,12 +3561,13 @@
     },
     {
         "Tags": [
-            "demo"
+            "demo",
+            "xamarin"
         ],
         "createdAt": "2017-10-18T09:15:57Z",
         "nameWithOwner": "EgorBo/UrhoArkitTemplate",
         "stargazerCount": 5,
-        "description": "Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
+        "description": "xamarin Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -4697,8 +4687,7 @@
             "metalkit",
             "satin",
             "shaders",
-            "swift",
-            "xcode"
+            "swift"
         ],
         "createdAt": "2019-08-04T23:14:53Z",
         "nameWithOwner": "Hi-Rez/Satin",
@@ -4789,12 +4778,13 @@
             "hololens2",
             "mixed-reality",
             "toolkit",
-            "unity"
+            "unity",
+            "xrtk"
         ],
         "createdAt": "2020-08-17T14:39:36Z",
         "nameWithOwner": "Holo-Light-GmbH/StylusToolKit-Unity",
         "stargazerCount": 3,
-        "description": "Official Stylus ToolKit for Unity by Holo-Light. Makers of the Stylus XR.",
+        "description": "xrtk Official Stylus ToolKit for Unity by Holo-Light. Makers of the Stylus XR.",
         "repositoryTopics_list": [
             "mixed-reality",
             "augementedreality",
@@ -5064,12 +5054,12 @@
             "reality",
             "systems",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-12-18T22:48:25Z",
         "nameWithOwner": "ILLIXR/ILLIXR",
         "stargazerCount": 41,
-        "description": "ILLIXR: Illinois Extended Reality Testbed",
+        "description": "xrtk ILLIXR: Illinois Extended Reality Testbed",
         "repositoryTopics_list": [
             "vr",
             "ar",
@@ -5257,13 +5247,12 @@
             "html-css",
             "html5",
             "microsoft",
-            "webdevelopment",
-            "website"
+            "webar"
         ],
         "createdAt": "2019-02-04T08:49:55Z",
         "nameWithOwner": "IshanManchanda/Hololens",
         "stargazerCount": 8,
-        "description": "Website made for Microsoft Hololens as a school project.",
+        "description": "webar Website made for Microsoft Hololens as a school project.",
         "repositoryTopics_list": [
             "microsoft",
             "hololens",
@@ -5396,12 +5385,12 @@
         "Tags": [
             "ar",
             "ios",
-            "xamarin-forms"
+            "xamarin"
         ],
         "createdAt": "2019-03-15T14:28:00Z",
         "nameWithOwner": "JamestsaiTW/AR-Xamarin.Forms",
         "stargazerCount": 4,
-        "description": "AR (Augmented Reality) on Xamarin.Forms",
+        "description": "AR (Augmented Reality) on Xamarin .Forms",
         "repositoryTopics_list": [
             "ar",
             "xamarin-forms",
@@ -5804,12 +5793,12 @@
             "openxr-cts",
             "virtual-reality",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-05-21T18:07:30Z",
         "nameWithOwner": "KhronosGroup/OpenXR-CTS",
         "stargazerCount": 24,
-        "description": "Conformance test suite for OpenXR",
+        "description": "xrtk Conformance test suite for OpenXR",
         "repositoryTopics_list": [
             "openxr",
             "openxr-cts",
@@ -5876,12 +5865,12 @@
             "openxr-sdk",
             "virtual-reality",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-03-08T12:59:06Z",
         "nameWithOwner": "KhronosGroup/OpenXR-SDK-Source",
         "stargazerCount": 256,
-        "description": "Sources for OpenXR loader, basic API layers, and example code.",
+        "description": "xrtk Sources for OpenXR loader, basic API layers, and example code.",
         "repositoryTopics_list": [
             "openxr",
             "openxr-loader",
@@ -6023,8 +6012,7 @@
             "navigation",
             "point-of-interest",
             "real-time",
-            "reality",
-            "xml"
+            "reality"
         ],
         "createdAt": "2017-11-11T07:24:41Z",
         "nameWithOwner": "KrishAmal/NavAR",
@@ -6202,12 +6190,13 @@
             "app",
             "map",
             "mixed",
-            "reality"
+            "reality",
+            "windows"
         ],
         "createdAt": "2017-07-22T11:34:06Z",
         "nameWithOwner": "LocalJoost/SlippyMapDemo",
         "stargazerCount": 7,
-        "description": "Shows how to make a geographical map on the floor in your HoloLens/Windows Mixed Reality app",
+        "description": "Shows how to make a geographical map on the floor in your HoloLens/ Windows Mixed Reality app",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -6317,8 +6306,7 @@
     {
         "Tags": [
             "augmented",
-            "reality",
-            "website"
+            "reality"
         ],
         "createdAt": "2017-01-24T14:42:05Z",
         "nameWithOwner": "MBHS-Computer-Science-Association/TSA-Web-Development-2017",
@@ -6987,12 +6975,12 @@
             "vr-locomotion",
             "vr-player",
             "vr-solutions",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2019-01-02T18:34:09Z",
         "nameWithOwner": "MoonMotionProject/MoonMotion",
         "stargazerCount": 34,
-        "description": "Moon Motion Toolkit - Free and open source toolkit for VR locomotion",
+        "description": "windows Moon Motion Toolkit - Free and open source toolkit for VR locomotion",
         "repositoryTopics_list": [
             "moon-motion",
             "vr-locomotion",
@@ -7495,12 +7483,12 @@
             "awesome",
             "game-development",
             "virtual-reality",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-02-11T04:34:09Z",
         "nameWithOwner": "NotionTheory/awesome-xr",
         "stargazerCount": 8,
-        "description": "👓 A collection of awesome XR tools, libraries, frameworks, and software.",
+        "description": "xrtk A collection of awesome XR tools, libraries, frameworks, and software.",
         "repositoryTopics_list": [
             "virtual-reality",
             "augmented-reality",
@@ -8360,13 +8348,13 @@
             "valve-index",
             "virtual",
             "virtual-reality",
-            "windows-mixed-reality",
-            "xr"
+            "windows",
+            "xrtk"
         ],
         "createdAt": "2020-02-04T06:48:22Z",
         "nameWithOwner": "RGB-Schemes/Unity-Modern-XR-Sample",
         "stargazerCount": 11,
-        "description": "An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
+        "description": "xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -9419,12 +9407,13 @@
             "mr",
             "unity",
             "unity3d",
-            "vuforia"
+            "vuforia",
+            "xrtk"
         ],
         "createdAt": "2019-08-24T15:49:36Z",
         "nameWithOwner": "Smi1e-man/ARrobot",
         "stargazerCount": 3,
-        "description": "Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR",
+        "description": "xrtk Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -9630,12 +9619,12 @@
             "unity3d-plugin",
             "virtual-reality",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-09-01T15:39:07Z",
         "nameWithOwner": "StephenHodgson/Native-Unity-API",
         "stargazerCount": 3,
-        "description": "C++ Headers for Unity Native Plugins",
+        "description": "xrtk C++ Headers for Unity Native Plugins",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -9887,12 +9876,12 @@
             "tibco",
             "tibco-labs",
             "unity3d",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-02-25T07:20:15Z",
         "nameWithOwner": "TIBCOSoftware/Augmented-Reality",
         "stargazerCount": 10,
-        "description": "TIBCO LABS™ Project ART",
+        "description": "xrtk TIBCO LABS™ Project ART",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -10811,8 +10800,7 @@
             "iot",
             "mixed",
             "reality",
-            "sonos-devices",
-            "wink"
+            "sonos-devices"
         ],
         "createdAt": "2016-11-03T21:13:39Z",
         "nameWithOwner": "VentanaIoT/Ventana",
@@ -11158,12 +11146,12 @@
             "openvr",
             "waveengine",
             "waveengine-mrtk",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-01-27T12:27:41Z",
         "nameWithOwner": "WaveEngine/MixedRealityToolkit-WaveEngine",
         "stargazerCount": 25,
-        "description": "WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
+        "description": "xrtk WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
         "repositoryTopics_list": [
             "waveengine",
             "mixedrealitytoolkit-waveengine",
@@ -11341,7 +11329,6 @@
             "upm-package",
             "uwp",
             "windows",
-            "windows-universal",
             "xrtk"
         ],
         "createdAt": "2019-03-28T17:34:12Z",
@@ -11386,13 +11373,12 @@
             "upm",
             "upm-package",
             "vr",
-            "xr",
             "xrtk"
         ],
         "createdAt": "2019-01-06T21:37:13Z",
         "nameWithOwner": "XRTK/XRTK-Core",
         "stargazerCount": 235,
-        "description": "The Official Mixed Reality Framework for Unity",
+        "description": "xrtk The Official Mixed Reality Framework for Unity",
         "repositoryTopics_list": [
             "mixed-reality",
             "ar",
@@ -11519,13 +11505,13 @@
             "mixedreality-uxtools-unreal",
             "unreal",
             "unrealengine",
-            "windows-mixed-reality",
-            "xr"
+            "windows",
+            "xrtk"
         ],
         "createdAt": "2020-05-25T06:56:08Z",
         "nameWithOwner": "Yonet/30DaysOfUnrealEngine",
         "stargazerCount": 15,
-        "description": "30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
+        "description": "xrtk windows 30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
         "repositoryTopics_list": [
             "unrealengine",
             "mixedreality",
@@ -11604,13 +11590,12 @@
             "virtual-reality",
             "webvr",
             "webxr",
-            "webxr-youtube-channel",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2019-06-01T00:47:01Z",
         "nameWithOwner": "Yonet/MixedRealityResources",
         "stargazerCount": 148,
-        "description": "Mixed Reality related resources",
+        "description": "windows Mixed Reality related resources",
         "repositoryTopics_list": [
             "mixed-reality",
             "webxr",
@@ -11841,7 +11826,6 @@
             "mixed-reality",
             "model",
             "threejs",
-            "webaverse",
             "webxr"
         ],
         "createdAt": "2020-05-26T08:05:36Z",
@@ -12086,18 +12070,15 @@
             "reality",
             "virtual-reality",
             "vr",
-            "webarchive-discovery",
-            "website",
+            "webar",
             "webvr",
             "webxr",
-            "windows",
-            "windows-mixed-reality",
-            "windows-uwp"
+            "windows"
         ],
         "createdAt": "2018-06-01T02:40:25Z",
         "nameWithOwner": "acerwebvr/acerwebvr.github.io",
         "stargazerCount": 10,
-        "description": "With your Acer Windows Mixed Reality Headset, you can experience VR in Chrome browser just by clicking a link.",
+        "description": "webar With your Acer Windows Mixed Reality Headset, you can experience VR in Chrome browser just by clicking a link.",
         "repositoryTopics_list": [
             "webvr",
             "webxr",
@@ -13275,9 +13256,7 @@
             "plane",
             "project",
             "scenekit",
-            "swift",
-            "whiteboard",
-            "xcode"
+            "swift"
         ],
         "createdAt": "2017-10-21T02:26:53Z",
         "nameWithOwner": "anthonyanader/timeboARd",
@@ -13386,8 +13365,7 @@
             "augmented-reality",
             "ios11",
             "iphone",
-            "macbook-pro",
-            "xcode9"
+            "macbook-pro"
         ],
         "createdAt": "2017-11-07T01:47:08Z",
         "nameWithOwner": "anujdutt9/iOS-ARKit",
@@ -13475,8 +13453,7 @@
             "demo",
             "ios-app",
             "persistence",
-            "swift",
-            "xcode"
+            "swift"
         ],
         "createdAt": "2018-08-17T09:25:15Z",
         "nameWithOwner": "appcoda/ARKit-Persistence-Demo",
@@ -13503,8 +13480,7 @@
             "demo",
             "ios11",
             "physics",
-            "tutorial-code",
-            "xcode9"
+            "tutorial-code"
         ],
         "createdAt": "2018-01-10T15:56:37Z",
         "nameWithOwner": "appcoda/ARKitPhysics",
@@ -13882,8 +13858,7 @@
             "macos",
             "sdk",
             "visual-studio",
-            "windows-10",
-            "xcode"
+            "windows"
         ],
         "createdAt": "2018-03-13T01:57:08Z",
         "nameWithOwner": "artoolkitx/artoolkitx",
@@ -13896,7 +13871,7 @@
             "java",
             "android",
             "ios",
-            "windows-10",
+            "windows",
             "macos",
             "visual-studio",
             "xcode",
@@ -14578,14 +14553,14 @@
             "reality",
             "web",
             "webar",
-            "webglstudio"
+            "webgl"
         ],
         "createdAt": "2020-01-13T08:51:29Z",
         "nameWithOwner": "augmentmy-world/arStudio",
         "stargazerCount": 30,
         "description": "A innovative Web editor for Augmented Reality",
         "repositoryTopics_list": [
-            "webglstudio",
+            "webgl",
             "litescenejs",
             "webar",
             "nft",
@@ -14716,8 +14691,7 @@
             "augmented",
             "project",
             "reality",
-            "sample",
-            "xcode"
+            "sample"
         ],
         "createdAt": "2017-11-20T08:13:50Z",
         "nameWithOwner": "aws-samples/amazon-sumerian-arkit-starter-app",
@@ -15408,8 +15382,7 @@
             "gorilla",
             "gorilla-websocket",
             "mixed-reality",
-            "networking",
-            "websockets"
+            "networking"
         ],
         "createdAt": "2017-09-19T19:20:42Z",
         "nameWithOwner": "carrot-ar/carrot",
@@ -16091,8 +16064,7 @@
             "random-dots",
             "reality",
             "seamless",
-            "uchiya",
-            "yuv"
+            "uchiya"
         ],
         "createdAt": "2018-01-19T13:48:28Z",
         "nameWithOwner": "chili-epfl/qml-ar",
@@ -16704,9 +16676,7 @@
             "app",
             "augmented-reality",
             "ios",
-            "spritekit",
-            "xcode",
-            "xcode10"
+            "spritekit"
         ],
         "createdAt": "2018-12-30T03:53:05Z",
         "nameWithOwner": "cousinmango/fantastic-verbose-journey",
@@ -17312,8 +17282,7 @@
             "virtual-reality",
             "vive",
             "vr",
-            "windows",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2018-12-17T19:22:17Z",
         "nameWithOwner": "debowin/ironman-vr",
@@ -17390,9 +17359,7 @@
             "help",
             "instant-messaging",
             "local-network",
-            "reality",
-            "wifi-direct",
-            "wifi-direct-service-discovery"
+            "reality"
         ],
         "createdAt": "2018-10-25T14:28:37Z",
         "nameWithOwner": "deepaktalwardt/im-here-app",
@@ -17462,10 +17429,7 @@
             "onnx",
             "scene",
             "unity",
-            "unity3d",
-            "yolo",
-            "yolov2",
-            "yolov3"
+            "unity3d"
         ],
         "createdAt": "2020-10-11T21:45:06Z",
         "nameWithOwner": "derenlei/Unity_Detection2AR",
@@ -17578,9 +17542,7 @@
             "playgroundbook",
             "scenekit",
             "swift",
-            "swift-playgrounds",
-            "wwdc",
-            "wwdc2020"
+            "swift-playgrounds"
         ],
         "createdAt": "2020-05-17T10:47:37Z",
         "nameWithOwner": "devjoseadolfo/LearnWithAR",
@@ -17612,7 +17574,7 @@
             "project",
             "reality",
             "realsense-camera",
-            "zed-camera"
+            "zed-mini"
         ],
         "createdAt": "2016-06-02T10:43:25Z",
         "nameWithOwner": "dgavedissian/RiftAR",
@@ -17624,7 +17586,7 @@
             "gpgpu",
             "oculus-rift",
             "realsense-camera",
-            "zed-camera"
+            "zed-mini"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -17726,12 +17688,13 @@
         "Tags": [
             "augmented",
             "reality",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2018-04-23T06:24:54Z",
         "nameWithOwner": "dikyarga/belajar-WebAR",
         "stargazerCount": 3,
-        "description": "Augmented Reality di platform Web",
+        "description": "webar Augmented Reality di platform Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -17898,12 +17861,12 @@
             "scene",
             "template",
             "unity",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-04-21T18:56:27Z",
         "nameWithOwner": "dilmerv/MagicLeapTemplate",
         "stargazerCount": 7,
-        "description": "Basic template project which includes Magic Leap Unity Package, XR Legacy Input Helpers, and a sample scene with camera and head pose canvas",
+        "description": "xrtk Basic template project which includes Magic Leap Unity Package, XR Legacy Input Helpers, and a sample scene with camera and head pose canvas",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -18675,8 +18638,7 @@
             "restaurants",
             "swift",
             "swift-3",
-            "swift3",
-            "xcode"
+            "swift3"
         ],
         "createdAt": "2017-05-07T01:31:51Z",
         "nameWithOwner": "ellatronic/ScoutAR",
@@ -18759,14 +18721,7 @@
             "summary",
             "swift",
             "swift4",
-            "swiftui",
-            "wwdc",
-            "wwdc17",
-            "wwdc19",
-            "wwdc2017",
-            "wwdc2019",
-            "wwdc2020",
-            "xcode"
+            "swiftui"
         ],
         "createdAt": "2017-06-06T23:07:41Z",
         "nameWithOwner": "erenkabakci/WWDC-Recap",
@@ -19440,8 +19395,7 @@
             "chemistry",
             "education",
             "reality",
-            "threejs",
-            "website"
+            "threejs"
         ],
         "createdAt": "2020-04-01T16:02:08Z",
         "nameWithOwner": "fcor/molecular-mirror-app",
@@ -19638,8 +19592,7 @@
     },
     {
         "Tags": [
-            "reality",
-            "workshop"
+            "reality"
         ],
         "createdAt": "2019-04-09T08:54:21Z",
         "nameWithOwner": "fizruk/lambdaconf-2019-workshop",
@@ -20060,12 +20013,12 @@
             "nvidia-optix",
             "raytracing",
             "real-time",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-11-17T20:43:22Z",
         "nameWithOwner": "gizemdal/remote-rendering",
         "stargazerCount": 7,
-        "description": "Remote real-time GPU ray tracing powered by NVIDIA OptiX 7.2.0 for XR Platforms",
+        "description": "xrtk Remote real-time GPU ray tracing powered by NVIDIA OptiX 7.2.0 for XR Platforms",
         "repositoryTopics_list": [
             "nvidia-optix",
             "mixed-reality",
@@ -20141,6 +20094,8 @@
     {
         "Tags": [
             "ar",
+            "arcore",
+            "arkit",
             "augmented",
             "augmented-reality",
             "information",
@@ -20148,17 +20103,14 @@
             "vr",
             "web",
             "webar",
-            "webaronarcore",
-            "webaronarkit",
             "webgl",
-            "website",
             "webvr",
             "webxr"
         ],
         "createdAt": "2017-11-14T22:05:47Z",
         "nameWithOwner": "google-ar/WebAR-Article",
         "stargazerCount": 228,
-        "description": "WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
+        "description": "webar arkit arcore WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
         "repositoryTopics_list": [
             "webar",
             "augmented-reality",
@@ -20184,15 +20136,17 @@
     {
         "Tags": [
             "app",
+            "arkit",
             "augmented",
             "ios",
             "reality",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2017-08-25T19:31:06Z",
         "nameWithOwner": "google-ar/WebARonARKit",
         "stargazerCount": 719,
-        "description": "An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
+        "description": "webar arkit An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -20329,13 +20283,13 @@
             "model-viewer",
             "three-js",
             "web",
-            "webcomponents",
+            "webar",
             "webxr"
         ],
         "createdAt": "2018-10-18T16:05:16Z",
         "nameWithOwner": "google/model-viewer",
         "stargazerCount": 3077,
-        "description": "Easily display interactive 3D models on the web and in AR! ",
+        "description": "webar Easily display interactive 3D models on the web and in AR! ",
         "repositoryTopics_list": [
             "3d-models",
             "gltf",
@@ -20654,8 +20608,7 @@
             "piano",
             "project",
             "unity3d",
-            "video",
-            "youtube"
+            "video"
         ],
         "createdAt": "2020-07-07T03:00:50Z",
         "nameWithOwner": "hamzafarooq009/PianoTunesAR",
@@ -21825,12 +21778,12 @@
             "mixed-reality",
             "samples",
             "sdk",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-06-07T04:54:53Z",
         "nameWithOwner": "immersal/arcloud-sdk-samples",
         "stargazerCount": 54,
-        "description": "Immersal AR Cloud SDK Samples",
+        "description": "xrtk Immersal AR Cloud SDK Samples",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -21884,12 +21837,12 @@
             "virtual-reality",
             "w3c",
             "webxr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-08-15T22:01:08Z",
         "nameWithOwner": "immersive-web/ar-common",
         "stargazerCount": 9,
-        "description": "A repo for discussing and capturing information about cross-API aspects of augmented reality ",
+        "description": "xrtk A repo for discussing and capturing information about cross-API aspects of augmented reality ",
         "repositoryTopics_list": [
             "webxr",
             "augmented-reality",
@@ -21980,7 +21933,7 @@
             "api",
             "augmented-reality",
             "virtual-reality",
-            "web-api",
+            "web",
             "webxr"
         ],
         "createdAt": "2016-03-14T23:30:00Z",
@@ -21990,7 +21943,7 @@
         "repositoryTopics_list": [
             "virtual-reality",
             "augmented-reality",
-            "web-api",
+            "web",
             "webxr"
         ],
         "primaryLanguage": "JavaScript",
@@ -22086,12 +22039,12 @@
             "vr",
             "webvr",
             "webxr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2018-03-21T23:52:46Z",
         "nameWithOwner": "immersive-web/webxr-polyfill",
         "stargazerCount": 265,
-        "description": "Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+        "description": "xrtk Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
         "repositoryTopics_list": [
             "webxr",
             "webvr",
@@ -22227,8 +22180,6 @@
             "javascript",
             "threejs",
             "webar",
-            "webcam",
-            "webcam-capture",
             "webrtc"
         ],
         "createdAt": "2019-04-21T16:57:40Z",
@@ -22745,13 +22696,14 @@
             "video",
             "vr",
             "web",
+            "webgl",
             "webrtc",
             "webxr"
         ],
         "createdAt": "2018-08-02T21:48:42Z",
         "nameWithOwner": "jeeliz/jeelizAR",
         "stargazerCount": 316,
-        "description": "JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL.",
+        "description": "JavaScript object detection lightweight library for augmented reality (WebXR demos included). It uses convolutional neural networks running on the GPU with WebGL .",
         "repositoryTopics_list": [
             "augmented-reality",
             "object-tracking",
@@ -22805,13 +22757,12 @@
             "threejs",
             "tracking",
             "web",
-            "webcam",
             "webgl"
         ],
         "createdAt": "2018-02-16T21:43:54Z",
         "nameWithOwner": "jeeliz/jeelizFaceFilter",
         "stargazerCount": 1878,
-        "description": "Javascript/WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). ",
+        "description": "Javascript/ WebGL lightweight face tracking library designed for augmented reality webcam filters. Features : multiple faces detection, rotation, mouth opening. Various integration examples are provided (Three.js, Babylon.js, FaceSwap, Canvas2D, CSS3D...). ",
         "repositoryTopics_list": [
             "face",
             "tracking",
@@ -22982,12 +22933,13 @@
         "Tags": [
             "mixed",
             "reality",
-            "unity"
+            "unity",
+            "xrtk"
         ],
         "createdAt": "2019-03-29T16:31:01Z",
         "nameWithOwner": "jhu-dvrk/dvrk-xr",
         "stargazerCount": 10,
-        "description": "Mixed reality extension to dVRK framework, built on top of Unity",
+        "description": "xrtk Mixed reality extension to dVRK framework, built on top of Unity",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -23105,8 +23057,7 @@
             "realtime",
             "skeleton-tracking",
             "unity",
-            "unity-arfoundation",
-            "websocket"
+            "unity-arfoundation"
         ],
         "createdAt": "2020-09-24T05:22:54Z",
         "nameWithOwner": "jneless/wireless_AR_skeleton_realtime_sync",
@@ -23287,9 +23238,7 @@
             "javascript",
             "qrcode",
             "talk",
-            "watermarking",
-            "wifi-password",
-            "workshop"
+            "watermarking"
         ],
         "createdAt": "2019-11-18T21:03:42Z",
         "nameWithOwner": "jorcuad/Cybercamp2019-SecurityAR-Workshop",
@@ -23390,8 +23339,7 @@
             "augmented-reality",
             "sample",
             "waveengine",
-            "xamarin",
-            "xamarin-forms"
+            "xamarin"
         ],
         "createdAt": "2018-05-25T17:40:06Z",
         "nameWithOwner": "jsuarezruiz/xamarin-forms-arcore-sample",
@@ -23418,8 +23366,7 @@
             "augmented-reality",
             "reality",
             "sample",
-            "xamarin",
-            "xamarin-forms"
+            "xamarin"
         ],
         "createdAt": "2018-10-22T18:59:51Z",
         "nameWithOwner": "jsuarezruiz/xamarin-forms-waveengine-ar-sample",
@@ -23780,8 +23727,7 @@
             "model-viewer",
             "piping-server",
             "threejs",
-            "webgl",
-            "website"
+            "webgl"
         ],
         "createdAt": "2020-09-26T09:29:05Z",
         "nameWithOwner": "karanganesan/model-viewer-bridge",
@@ -24384,12 +24330,12 @@
             "reality",
             "social",
             "social-media",
-            "webapp"
+            "webar"
         ],
         "createdAt": "2018-01-11T15:43:10Z",
         "nameWithOwner": "kyle8998/SocialSpend",
         "stargazerCount": 5,
-        "description": "View where you friends are spending in an exiting new visual social media platform with integrated augmented reality and real time data tracking!",
+        "description": "webar View where you friends are spending in an exiting new visual social media platform with integrated augmented reality and real time data tracking!",
         "repositoryTopics_list": [
             "augmented-reality",
             "ios",
@@ -25060,8 +25006,7 @@
             "computer-vision",
             "convolutional-neural-networks",
             "tensorflow",
-            "training-dataset",
-            "yolo2"
+            "training-dataset"
         ],
         "createdAt": "2017-07-31T13:57:12Z",
         "nameWithOwner": "m4nh/ars",
@@ -25777,8 +25722,7 @@
         "Tags": [
             "detection",
             "hololens",
-            "microsoft",
-            "yolov3"
+            "microsoft"
         ],
         "createdAt": "2018-06-19T07:18:13Z",
         "nameWithOwner": "mareklinka/holoyolo",
@@ -25960,12 +25904,13 @@
             "threejs",
             "virtual",
             "vr",
-            "webxr"
+            "webxr",
+            "xrtk"
         ],
         "createdAt": "2019-10-11T10:21:45Z",
         "nameWithOwner": "marlon360/xr-graph",
         "stargazerCount": 80,
-        "description": "📈🥽 View mathematical function graphs in Virtual Reality and Augmented Reality.",
+        "description": "xrtk View mathematical function graphs in Virtual Reality and Augmented Reality.",
         "repositoryTopics_list": [
             "webxr",
             "vr",
@@ -26599,12 +26544,13 @@
             "augmented",
             "interaction",
             "reality",
-            "slam"
+            "slam",
+            "webar"
         ],
         "createdAt": "2020-03-30T05:05:00Z",
         "nameWithOwner": "mazkaaa/web-ar-slam-3",
         "stargazerCount": 4,
-        "description": "Polished interaction Augmented Reality SLAM",
+        "description": "webar Polished interaction Augmented Reality SLAM",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -26699,8 +26645,7 @@
             "hacktoberfest",
             "pwa",
             "virtual",
-            "web",
-            "web-ar"
+            "web"
         ],
         "createdAt": "2018-08-15T21:17:08Z",
         "nameWithOwner": "memeLab/Jandig",
@@ -26712,7 +26657,7 @@
             "art",
             "artists",
             "pwa",
-            "web-ar",
+            "webar ",
             "hacktoberfest"
         ],
         "primaryLanguage": "Jinja",
@@ -26844,9 +26789,7 @@
             "indoor-maps",
             "micds",
             "pear",
-            "reality",
-            "wwt-hackathon",
-            "wwt-hackathon-2017"
+            "reality"
         ],
         "createdAt": "2018-01-20T00:30:50Z",
         "nameWithOwner": "michaelgira23/navigatAR",
@@ -26989,8 +26932,7 @@
             "recognition",
             "tourist-assistant",
             "tourist-attractions",
-            "tourist-guide",
-            "world-heritage"
+            "tourist-guide"
         ],
         "createdAt": "2018-06-04T05:35:50Z",
         "nameWithOwner": "michaelvogt/ARAuthor",
@@ -27999,12 +27941,12 @@
             "unity3d",
             "virtual-reality",
             "vr",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2018-01-31T17:06:38Z",
         "nameWithOwner": "microsoft/spatial-computing",
         "stargazerCount": 66,
-        "description": "Samples showing how to use Azure and AI services in Mixed Reality projects",
+        "description": "windows Samples showing how to use Azure and AI services in Mixed Reality projects",
         "repositoryTopics_list": [
             "windows-mixed-reality",
             "azure",
@@ -28138,9 +28080,7 @@
             "tutorial",
             "tutorials",
             "video",
-            "vision",
-            "webcam",
-            "youtube"
+            "vision"
         ],
         "createdAt": "2018-11-29T01:35:59Z",
         "nameWithOwner": "molyswu/hand_detection",
@@ -28693,19 +28633,19 @@
     {
         "Tags": [
             "ar",
+            "arkit",
             "augmented-reality",
             "augmentedreality",
             "project",
             "sample",
             "sample-ar",
             "three-ar-js",
-            "webar",
-            "webaronarkit"
+            "webar"
         ],
         "createdAt": "2017-09-11T01:45:25Z",
         "nameWithOwner": "nagam11/WebAR",
         "stargazerCount": 5,
-        "description": "Sample AR project built on Google's new three.ar.js",
+        "description": "webar arkit Sample AR project built on Google's new three.ar.js",
         "repositoryTopics_list": [
             "webaronarkit",
             "three-ar-js",
@@ -28890,12 +28830,12 @@
             "unity-editor",
             "unity3d",
             "unity3d-plugin",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-05-30T20:48:56Z",
         "nameWithOwner": "needle-tools/ar-simulation",
         "stargazerCount": 42,
-        "description": "AR Simulation for Unity • Right in the Editor • Minimally Invasive",
+        "description": "xrtk AR Simulation for Unity • Right in the Editor • Minimally Invasive",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity3d",
@@ -29240,12 +29180,13 @@
             "react-ar",
             "reality",
             "three-js",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2017-10-03T17:25:44Z",
         "nameWithOwner": "nitin42/React-Web-AR",
         "stargazerCount": 540,
-        "description": "🕶️ Augmented Reality on web with React",
+        "description": "webar Augmented Reality on web with React",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -29362,13 +29303,12 @@
             "privacy",
             "snapchat",
             "video",
-            "webbys",
-            "webcam"
+            "webar"
         ],
         "createdAt": "2018-07-09T19:54:47Z",
         "nameWithOwner": "noahlevenson/stealing-ur-feelings",
         "stargazerCount": 797,
-        "description": "Winner of Mozilla's $50,000 prize for art and advocacy exploring AI",
+        "description": "webar Winner of Mozilla's $50,000 prize for art and advocacy exploring AI",
         "repositoryTopics_list": [
             "art",
             "snapchat",
@@ -29875,8 +29815,7 @@
             "scenebuilder",
             "shaderlab",
             "unity3d",
-            "vscode",
-            "windowbuilder"
+            "vscode"
         ],
         "createdAt": "2018-09-27T01:09:48Z",
         "nameWithOwner": "open-minds/Hacktober-2018",
@@ -30179,12 +30118,15 @@
     {
         "Tags": [
             "augmented",
-            "reality"
+            "reality",
+            "webar",
+            "webvr",
+            "webxr"
         ],
         "createdAt": "2020-06-09T07:02:22Z",
         "nameWithOwner": "pamruta/WebAR",
         "stargazerCount": 3,
-        "description": "Augmented Reality Experiments using WebXR, WebVR, AR.JS",
+        "description": "webar Augmented Reality Experiments using WebXR , WebVR , AR.JS",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -30248,7 +30190,7 @@
         "createdAt": "2017-12-15T11:08:40Z",
         "nameWithOwner": "pbreuss/wikitude-ionic-3-starter-app",
         "stargazerCount": 23,
-        "description": "This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
+        "description": "Wikitude This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TypeScript",
         "languages_list": [
@@ -30291,8 +30233,7 @@
             "augmented",
             "google",
             "reality",
-            "vision",
-            "workshop"
+            "vision"
         ],
         "createdAt": "2018-09-12T11:17:40Z",
         "nameWithOwner": "pedreviljoen/init-prep-AR",
@@ -30343,8 +30284,7 @@
             "mixed-reality",
             "real-time",
             "translator",
-            "unity",
-            "websocket"
+            "unity"
         ],
         "createdAt": "2018-02-05T16:50:31Z",
         "nameWithOwner": "peted70/mr-realtime-translator",
@@ -30400,8 +30340,7 @@
             "c-sharp",
             "reality",
             "toolkit",
-            "xamarin",
-            "xamarin-forms"
+            "xamarin"
         ],
         "createdAt": "2017-05-03T01:21:03Z",
         "nameWithOwner": "peter-mourfield/Xamarin.Forms.ARToolkit",
@@ -30696,7 +30635,6 @@
             "web",
             "webar",
             "webgl",
-            "webgl2",
             "webrtc"
         ],
         "createdAt": "2017-08-14T23:57:51Z",
@@ -30707,7 +30645,6 @@
             "augmented-reality",
             "webar",
             "webgl",
-            "webgl2",
             "webrtc",
             "playcanvas",
             "html5"
@@ -30924,7 +30861,6 @@
             "threejs",
             "tracking",
             "trackingjs",
-            "webcam",
             "webgl"
         ],
         "createdAt": "2018-09-03T03:04:10Z",
@@ -30975,8 +30911,7 @@
             "mobile",
             "north-calibration",
             "objective-c",
-            "scale",
-            "xcode"
+            "scale"
         ],
         "createdAt": "2018-08-18T08:29:55Z",
         "nameWithOwner": "powermobileweb/ARKit-CoreLocation",
@@ -31211,7 +31146,7 @@
             "mobile",
             "reality",
             "web",
-            "web-ar"
+            "webar"
         ],
         "createdAt": "2017-12-22T13:11:31Z",
         "nameWithOwner": "prashant-andani/AR-Alphabets",
@@ -31226,7 +31161,7 @@
             "markers",
             "kids",
             "ar",
-            "web-ar",
+            "webar",
             "education"
         ],
         "primaryLanguage": "JavaScript",
@@ -31346,8 +31281,7 @@
             "mixed",
             "mixed-reality",
             "reality",
-            "unity3d",
-            "wot"
+            "unity3d"
         ],
         "createdAt": "2018-02-24T14:01:38Z",
         "nameWithOwner": "pslabunibo/mirage",
@@ -32551,14 +32485,12 @@
             "mp4",
             "reality",
             "threejs",
-            "web",
-            "web-component",
-            "webm"
+            "web"
         ],
         "createdAt": "2019-02-11T06:12:28Z",
         "nameWithOwner": "rodrigocam/ar-gif",
         "stargazerCount": 51,
-        "description": "Easy to use augmented reality web components",
+        "description": "web Easy to use augmented reality web components",
         "repositoryTopics_list": [
             "threejs",
             "jsartoolkit",
@@ -32684,12 +32616,12 @@
             "virtual",
             "visualization",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2017-11-08T19:39:46Z",
         "nameWithOwner": "ronellsicat/DxR",
         "stargazerCount": 144,
-        "description": "DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR) or XR for short.",
+        "description": "xrtk DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR) or XR for short.",
         "repositoryTopics_list": [
             "immersive",
             "visualization",
@@ -32746,8 +32678,7 @@
             "arkit",
             "augmented-reality",
             "rosberry",
-            "swift4",
-            "xcode9"
+            "swift4"
         ],
         "createdAt": "2017-09-05T02:40:07Z",
         "nameWithOwner": "rosberry/pARtfolio",
@@ -32878,8 +32809,7 @@
             "mixed",
             "mixed-reality",
             "reality",
-            "unity3d",
-            "x3d"
+            "unity3d"
         ],
         "createdAt": "2017-06-25T15:17:44Z",
         "nameWithOwner": "rwth-acis/GaMR",
@@ -34128,8 +34058,7 @@
             "mixed",
             "reality",
             "video",
-            "vision",
-            "webcam"
+            "vision"
         ],
         "createdAt": "2019-11-03T23:24:08Z",
         "nameWithOwner": "smaerdlatigid/ArtificialGreenScreen",
@@ -34309,8 +34238,7 @@
             "project",
             "reality",
             "swift",
-            "ui",
-            "xcode"
+            "ui"
         ],
         "createdAt": "2018-06-22T05:11:56Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel",
@@ -34333,8 +34261,7 @@
             "project",
             "reality",
             "swift",
-            "ui",
-            "xcode"
+            "ui"
         ],
         "createdAt": "2018-06-22T20:46:20Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel01",
@@ -34357,8 +34284,7 @@
             "reality",
             "scenekit",
             "swift",
-            "ui",
-            "xcode"
+            "ui"
         ],
         "createdAt": "2018-06-13T21:00:25Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitNew3DModels",
@@ -34445,14 +34371,12 @@
             "space",
             "virtual-reality",
             "vr",
-            "xr",
-            "xr-applications-tracker",
-            "xr-space"
+            "xrtk"
         ],
         "createdAt": "2018-10-25T23:34:29Z",
         "nameWithOwner": "sorianog/xr-applications-tracker",
         "stargazerCount": 6,
-        "description": "A list of applications in the XR space",
+        "description": "A list of applications in the XRtk space",
         "repositoryTopics_list": [
             "extended-reality",
             "xr-space",
@@ -34535,7 +34459,6 @@
             "shaders",
             "spark-ar",
             "spark-ar-studio",
-            "webcam",
             "webpack"
         ],
         "createdAt": "2019-06-02T09:02:19Z",
@@ -34747,7 +34670,7 @@
             "mixed-reality",
             "ue4",
             "unreal-engine-4",
-            "zed-camera"
+            "zed-mini"
         ],
         "createdAt": "2018-01-19T14:47:18Z",
         "nameWithOwner": "stereolabs/zed-unreal-examples",
@@ -34755,7 +34678,7 @@
         "description": "Stereolabs ZED - UE4 Examples",
         "repositoryTopics_list": [
             "unreal-engine-4",
-            "zed-camera",
+            "zed-mini",
             "mixed-reality"
         ],
         "primaryLanguage": "C++",
@@ -34774,7 +34697,7 @@
             "ue4",
             "ue4-plugin",
             "unreal-engine-4",
-            "zed-camera"
+            "zed-mini"
         ],
         "createdAt": "2018-01-19T14:45:17Z",
         "nameWithOwner": "stereolabs/zed-unreal-plugin",
@@ -34782,7 +34705,7 @@
         "description": "Stereolabs ZED - UE4 Plugin",
         "repositoryTopics_list": [
             "unreal-engine-4",
-            "zed-camera",
+            "zed-mini",
             "mixed-reality",
             "ue4-plugin"
         ],
@@ -34839,8 +34762,7 @@
             "vrcontroller",
             "webvr",
             "webxr",
-            "windows",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2017-04-26T14:04:11Z",
         "nameWithOwner": "stewdio/THREE.VRController",
@@ -35190,11 +35112,13 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "webrtc"
+        ],
         "createdAt": "2020-02-23T14:11:34Z",
         "nameWithOwner": "tarukosu/MixedReality-WebRTC-ayame",
         "stargazerCount": 5,
-        "description": "MixedReality-WebRTC にて、シグナリングサーバとして Ayame を利用するためのコード",
+        "description": "MixedReality- WebRTC にて、シグナリングサーバとして Ayame を利用するためのコード",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -35261,8 +35185,7 @@
             "react-native",
             "react-native-maps",
             "reality",
-            "redux",
-            "xcode"
+            "redux"
         ],
         "createdAt": "2017-09-27T16:14:36Z",
         "nameWithOwner": "team-copper/captAR",
@@ -35382,12 +35305,13 @@
             "data",
             "reality",
             "visualization",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2020-02-03T19:21:39Z",
         "nameWithOwner": "tessrUX/webar-stock-dataviz",
         "stargazerCount": 6,
-        "description": "A 3D Augmented Reality Stock Data Visualization on the Web",
+        "description": "webar A 3D Augmented Reality Stock Data Visualization on the Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -35663,8 +35587,7 @@
             "unity",
             "unreal-engine-4",
             "vr",
-            "windows",
-            "windows-mixed-reality"
+            "windows"
         ],
         "createdAt": "2017-09-11T08:54:44Z",
         "nameWithOwner": "tomzorz/awesome-mixedreality",
@@ -36035,12 +35958,13 @@
             "augmented",
             "jsartoolkit",
             "reality",
-            "web"
+            "web",
+            "webar"
         ],
         "createdAt": "2016-02-16T17:39:22Z",
         "nameWithOwner": "tweedegolf/web-ar",
         "stargazerCount": 7,
-        "description": "Creating augmented reality applications using solely web technologies and JSAruco or JSARToolkit",
+        "description": "webar Creating augmented reality applications using solely web technologies and JSAruco or JSARToolkit",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -36184,8 +36108,7 @@
             "ios",
             "ios11",
             "swift4",
-            "travel",
-            "xcode9"
+            "travel"
         ],
         "createdAt": "2017-09-17T05:37:51Z",
         "nameWithOwner": "upandey3/TravelAR",
@@ -36291,12 +36214,13 @@
     {
         "Tags": [
             "detection",
-            "microsoft"
+            "microsoft",
+            "webvr"
         ],
         "createdAt": "2019-03-16T07:30:37Z",
         "nameWithOwner": "usamamuneeb/hololens-webvr-holographic-object-detection",
         "stargazerCount": 4,
-        "description": "Detection of real-life objects and holographic labelling using Microsoft Hololens.",
+        "description": "webvr Detection of real-life objects and holographic labelling using Microsoft Hololens.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -36814,12 +36738,13 @@
             "scenekit",
             "virocore",
             "virtual-reality",
-            "vr"
+            "vr",
+            "webassembly"
         ],
         "createdAt": "2017-11-15T05:52:05Z",
         "nameWithOwner": "viromedia/virocore",
         "stargazerCount": 281,
-        "description": "ViroCore cross-platform AR/VR renderer",
+        "description": "WebAssembly ViroCore cross-platform AR/VR renderer",
         "repositoryTopics_list": [
             "java",
             "android",
@@ -36924,8 +36849,7 @@
             "learning",
             "reality",
             "unity3d",
-            "vuforia-sdk",
-            "zoo"
+            "vuforia-sdk"
         ],
         "createdAt": "2018-03-20T16:34:52Z",
         "nameWithOwner": "vivekghanchi/ARGeeks",
@@ -36964,8 +36888,7 @@
             "uwp",
             "video",
             "virtual-reality",
-            "windows",
-            "windows-10"
+            "windows"
         ],
         "createdAt": "2017-08-09T16:50:39Z",
         "nameWithOwner": "vladkol/MediaPlayback",
@@ -36973,7 +36896,7 @@
         "description": "Media Playback plugin for Unity on Windows 10",
         "repositoryTopics_list": [
             "media-playback",
-            "windows-10",
+            "windows",
             "unity",
             "unity3d-plugin",
             "uwp",
@@ -37067,8 +36990,7 @@
             "swift",
             "tesseract",
             "tesseract-ocr",
-            "vision",
-            "youtube"
+            "vision"
         ],
         "createdAt": "2018-08-15T07:09:20Z",
         "nameWithOwner": "waitingcheung/ARTrailer",
@@ -37162,8 +37084,7 @@
             "vuforia",
             "vuforia-sdk",
             "webar",
-            "webxr",
-            "zoom"
+            "webxr"
         ],
         "createdAt": "2018-04-11T12:18:02Z",
         "nameWithOwner": "walidabazo/AR_change_Scaling_and_Moving",
@@ -37367,13 +37288,12 @@
             "unity3d",
             "unity3d-script",
             "vuforia",
-            "website",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2019-03-27T23:54:51Z",
         "nameWithOwner": "walidabazo/Unity-3D-AR-to-get-drug-information",
         "stargazerCount": 8,
-        "description": "Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
+        "description": "xrtk Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
         "repositoryTopics_list": [
             "augmentedreality",
             "augmented-reality",
@@ -37404,6 +37324,7 @@
             "3d-models",
             "andriod",
             "ar",
+            "arkit",
             "augmented",
             "augmented-reality",
             "model",
@@ -37418,13 +37339,12 @@
             "unity3d",
             "unlitshadowreceive",
             "video",
-            "webar",
-            "webarkit"
+            "webar"
         ],
         "createdAt": "2017-08-23T19:18:19Z",
         "nameWithOwner": "walidabazo/Unity-shadow-Augmented-Reality",
         "stargazerCount": 8,
-        "description": "Unity 3d Create shadow to 3d model on  Augmented Reality ",
+        "description": "webar arkit Unity 3d Create shadow to 3d model on  Augmented Reality ",
         "repositoryTopics_list": [
             "shadow",
             "unity3d",
@@ -37601,6 +37521,7 @@
     },
     {
         "Tags": [
+            "arkit",
             "augmented-reality",
             "es6",
             "image-tracking",
@@ -37608,13 +37529,12 @@
             "jsartoolkitnft",
             "markerless",
             "nft",
-            "webapp",
             "webar"
         ],
         "createdAt": "2020-04-07T19:08:55Z",
         "nameWithOwner": "webarkit/jsartoolkitNFT",
         "stargazerCount": 57,
-        "description": "jsartolkitNFT is a smaller version of jsartoolkit5 with only NFT support",
+        "description": "webar arkit jsartolkitNFT is a smaller version of jsartoolkit5 with only NFT support",
         "repositoryTopics_list": [
             "jsartoolkit5",
             "jsartoolkitnft",
@@ -37639,16 +37559,15 @@
     },
     {
         "Tags": [
+            "arkit",
             "augmented-reality",
             "web",
-            "webar",
-            "webarkit",
-            "webarkitorg"
+            "webar"
         ],
         "createdAt": "2020-05-06T16:47:37Z",
         "nameWithOwner": "webarkit/webarkit.github.io",
         "stargazerCount": 7,
-        "description": "The official web page of webarkit org",
+        "description": "webar arkit The official web page of webarkit org",
         "repositoryTopics_list": [
             "webarkit",
             "webarkitorg",
@@ -37764,7 +37683,6 @@
             "project",
             "research",
             "unity3d",
-            "zed-camera",
             "zed-mini"
         ],
         "createdAt": "2018-03-26T03:22:13Z",
@@ -37773,7 +37691,7 @@
         "description": "A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
         "repositoryTopics_list": [
             "mixed-reality",
-            "zed-camera",
+            "zed-mini",
             "zed-mini",
             "htc-vive",
             "oculus-rift",
@@ -38043,8 +37961,7 @@
             "toolkit",
             "unity",
             "unity3d",
-            "virtual",
-            "yale-university"
+            "virtual"
         ],
         "createdAt": "2019-08-07T21:09:14Z",
         "nameWithOwner": "yale-ccam/verb-collective",
@@ -38117,8 +38034,7 @@
             "arcore-android",
             "augmented-reality",
             "java",
-            "painting",
-            "xml"
+            "painting"
         ],
         "createdAt": "2020-05-10T16:41:36Z",
         "nameWithOwner": "yashk2000/ARPaint",
@@ -38240,12 +38156,12 @@
             "virtual",
             "virtual-reality",
             "vr",
-            "xr"
+            "xrtk"
         ],
         "createdAt": "2020-05-09T09:52:23Z",
         "nameWithOwner": "yitzikc/mre-alarm-timer",
         "stargazerCount": 3,
-        "description": "A countdown timer for display in VR / XR using Microsoft's Virtual Reality extensions",
+        "description": "xrtk A countdown timer for display in VR / XR using Microsoft's Virtual Reality extensions",
         "repositoryTopics_list": [
             "virtual-reality",
             "3d",
@@ -38421,8 +38337,7 @@
             "history",
             "ios",
             "swift",
-            "testflight",
-            "xcode"
+            "testflight"
         ],
         "createdAt": "2020-04-12T04:11:18Z",
         "nameWithOwner": "zhumingcheng697/Metro-ARchive",
