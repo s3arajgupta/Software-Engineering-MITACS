@@ -43,6 +43,8 @@ for (var i = 0; i < AR.length; i++) {
     }
     Tags = uniq(tags);
     relatedTopics_list = "null";
+    repositoryTopics_list = "null";
+    languages_list = "null";
     if(stargazerCount>=3){
         //output.push({ Tags, createdAt, nameWithOwner, description});
         output.push({ Tags, createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list });

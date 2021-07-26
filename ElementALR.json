@@ -27,7 +27,7 @@
         "createdAt": "2017-03-16T18:54:17Z",
         "nameWithOwner": "4refr0nt/ARplus",
         "stargazerCount": 6,
-        "description": "Augmented Reality Demo mobile app",
+        "description": "Augmented Reality Demo phone app",
         "repositoryTopics_list": [
             "ionic",
             "ionic-framework",
@@ -75,13 +75,14 @@
         "description": ":roller_coaster: program to write text in the air with finger and then save it in a text file",
         "repositoryTopics_list": [
             "python3",
-            "opencv-python",
+            "opencv",
             "ocr-recognition",
             "flask",
             "augmented-reality"
         ],
         "primaryLanguage": "Python",
         "languages_list": [
+            "python3",
             "Python",
             "CSS",
             "JavaScript",
@@ -167,13 +168,13 @@
         "createdAt": "2017-12-01T01:59:59Z",
         "nameWithOwner": "ARKrew/workingArgo",
         "stargazerCount": 6,
-        "description": "Argo | Mobile AR Game for iOS",
+        "description": "Argo | phone AR Game for iOS",
         "repositoryTopics_list": [
             "augmented-reality",
             "viromedia",
             "react-native",
             "redux",
-            "react-navigation",
+            "react-native",
             "firebase",
             "firebase-database",
             "firebase-auth",
@@ -454,7 +455,7 @@
             "bot",
             "microsoft-bot-framework",
             "microsoft-cognitive-services",
-            "microsoft-hololens",
+            "hololens",
             "speech-recognition",
             "luis"
         ],
@@ -678,7 +679,7 @@
         "createdAt": "2016-05-26T06:32:03Z",
         "nameWithOwner": "AlexOuyang/AtomAR",
         "stargazerCount": 5,
-        "description": "Augmented reality app for chemistry education using OpengGL and OpenCV.",
+        "description": "Augmented reality app for chemistry education using OpengGL and OpenCV .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -704,7 +705,7 @@
         "createdAt": "2019-04-04T15:17:12Z",
         "nameWithOwner": "AlexanderKub/arkit-ml-occlusion",
         "stargazerCount": 10,
-        "description": "ARKit proof-of-concept project for handle occlusion in augmented reality using a machine learning",
+        "description": "ml ARKit proof-of-concept project for handle occlusion in augmented reality using a machine learning",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -733,7 +734,7 @@
         "stargazerCount": 87,
         "description": "An augmented reality sudoku solver using OpenCV",
         "repositoryTopics_list": [
-            "opencv-python",
+            "opencv",
             "opencv",
             "machine-learning"
         ],
@@ -945,7 +946,7 @@
             "makeup",
             "augmented-reality",
             "firebase",
-            "mlkit",
+            "ml",
             "hacktoberfest"
         ],
         "primaryLanguage": "Swift",
@@ -1084,8 +1085,8 @@
             "augmented-reality",
             "augmented-reality-applications",
             "extended-reality",
-            "mobile-app",
-            "mobile-development",
+            "phone",
+            "phone",
             "camera-app"
         ],
         "primaryLanguage": "C#",
@@ -1423,7 +1424,7 @@
         "createdAt": "2017-03-05T15:54:59Z",
         "nameWithOwner": "CMDann/hololens-starter",
         "stargazerCount": 6,
-        "description": "xrtk A starter project for working with the Microsoft Hololens. You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
+        "description": "xrtk A starter project for working with the Microsoft Hololens . You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
         "repositoryTopics_list": [
             "hololense",
             "hologram",
@@ -2231,7 +2232,7 @@
         "createdAt": "2018-12-06T14:36:55Z",
         "nameWithOwner": "Dr-LYK/Pokimoni",
         "stargazerCount": 4,
-        "description": "Pokimoni is an Android application based on the famous Pokémon Go mobile game published by Niantic. ARCore Google's platform is used in order to build an augmented reality experience. ",
+        "description": "Pokimoni is an Android application based on the famous Pokémon Go phone game published by Niantic. ARCore Google's platform is used in order to build an augmented reality experience. ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Kotlin",
         "languages_list": [
@@ -2325,7 +2326,6 @@
         "description": "Augmented Reality NativeScript plugin",
         "repositoryTopics_list": [
             "nativescript",
-            "nativescript-plugin",
             "augmented-reality",
             "arkit",
             "arcore",
@@ -2455,7 +2455,7 @@
         "description": "GoogleVR With OpenCVForUnity Example",
         "repositoryTopics_list": [
             "googlevr",
-            "oepncv",
+            "opencv",
             "unity",
             "cardboard",
             "augmented-reality",
@@ -2592,7 +2592,7 @@
         "description": "Vuforia with OpenCV for Unity Example",
         "repositoryTopics_list": [
             "unity",
-            "oepncv",
+            "opencv",
             "vuforia",
             "vuforia-sdk",
             "augmented-reality"
@@ -2664,7 +2664,7 @@
             "qml"
         ],
         "primaryLanguage": "null",
-        "languages_list": "null",
+        "languages_list":["qml"],
         "diskUsage": 21,
         "relatedTopics_list": "null"
     },
@@ -2679,7 +2679,7 @@
             "augmented-reality",
             "arcgis",
             "qml",
-            "native-development"
+            "nativescript"
         ],
         "primaryLanguage": "QML",
         "languages_list": [
@@ -2796,7 +2796,7 @@
         "repositoryTopics_list": [
             "java",
             "kotlin",
-            "opencv-android-sdk",
+            "opencv",
             "opengl",
             "arcore-android",
             "photo-editing",
@@ -3043,7 +3043,7 @@
         "createdAt": "2016-08-09T14:57:03Z",
         "nameWithOwner": "Generalkidd/Halo-Forge-In-Real-Life",
         "stargazerCount": 4,
-        "description": "The favorite game mode Forge, first introduced in Halo 3, is now available in real life thanks to the Microsoft HoloLens! ",
+        "description": "The favorite game mode Forge, first introduced in Halo 3, is now available in real life thanks to the Microsoft HoloLens ! ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -3313,7 +3313,7 @@
         "createdAt": "2019-11-17T06:56:05Z",
         "nameWithOwner": "HoloLabInc/MRTKExtensionForMagicLeap",
         "stargazerCount": 23,
-        "description": "Mixed Reality Toolkit (MRTK) extension for Magic Leap",
+        "description": "Mixed Reality Toolkit ( MRTK ) extension for Magic Leap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -3326,7 +3326,7 @@
         "createdAt": "2020-01-06T16:44:18Z",
         "nameWithOwner": "HoloLabInc/MRTKExtensionForNrealLight",
         "stargazerCount": 30,
-        "description": "Mixed Reality Toolkit (MRTK) extension for Nreal Light",
+        "description": "Mixed Reality Toolkit ( MRTK ) extension for Nreal Light",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -3339,7 +3339,7 @@
         "createdAt": "2019-12-12T10:08:15Z",
         "nameWithOwner": "HoloLabInc/MRTKExtensionForOculusQuest",
         "stargazerCount": 118,
-        "description": "Mixed Reality Toolkit (MRTK) extension for Oculus Quest",
+        "description": "oculus Mixed Reality Toolkit ( MRTK ) extension for Oculus-Quest",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -3426,7 +3426,7 @@
             "unity",
             "unb",
             "app",
-            "mobile"
+            "phone"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -3624,7 +3624,7 @@
         "createdAt": "2016-10-02T16:17:52Z",
         "nameWithOwner": "JGL/APieceOfArtAsBigAsIndia",
         "stargazerCount": 8,
-        "description": "An augmented reality sculpture accessible via the WWW, SMS and Mobile Devices.",
+        "description": "An augmented reality sculpture accessible via the WWW, SMS and phone Devices.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -4605,7 +4605,7 @@
         "stargazerCount": 61,
         "description": "SLAM AR based on ORB_SLAM2 for Android platform (Licenced under GPL v3). Check video demo here https://www.bilibili.com/video/av56266271",
         "repositoryTopics_list": [
-            "orb-slam2",
+            "slam",
             "slam-ar",
             "android",
             "augmented-reality"
@@ -4794,7 +4794,6 @@
         "stargazerCount": 19,
         "description": "Simple python AR marker generator and detector",
         "repositoryTopics_list": [
-            "python2",
             "python3",
             "ar",
             "augmented-reality",
@@ -4802,6 +4801,8 @@
         ],
         "primaryLanguage": "Python",
         "languages_list": [
+            "python2",
+            "python3",
             "Python"
         ],
         "diskUsage": 160,
@@ -5147,7 +5148,7 @@
         "createdAt": "2018-08-14T10:26:25Z",
         "nameWithOwner": "NormandErwan/HandheldVesadPresentation",
         "stargazerCount": 3,
-        "description": "Extension of a mobile screen by augmented reality.",
+        "description": "Extension of a phone screen by augmented reality.",
         "repositoryTopics_list": [
             "augmented-reality",
             "human-computer-interaction",
@@ -5182,7 +5183,7 @@
         "createdAt": "2017-03-29T07:15:08Z",
         "nameWithOwner": "Nualiian/CameraApp",
         "stargazerCount": 11,
-        "description": "Simple augmented reality app built in React Native",
+        "description": "Simple augmented reality app built in React-Native",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -5353,7 +5354,7 @@
         "createdAt": "2016-11-28T06:45:53Z",
         "nameWithOwner": "PacktPublishing/Microsoft-HoloLens-By-Example",
         "stargazerCount": 24,
-        "description": "Microsoft HoloLens By Example, published by Packt",
+        "description": "hololens By Example, published by Packt",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -5370,7 +5371,7 @@
         "createdAt": "2017-07-18T07:22:07Z",
         "nameWithOwner": "PacktPublishing/Microsoft-HoloLens-Developers-Guide",
         "stargazerCount": 7,
-        "description": "Microsoft HoloLens Developers Guide, published by Packt",
+        "description": "hololens Developers Guide, published by Packt",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -5554,7 +5555,7 @@
         "createdAt": "2018-01-11T23:20:31Z",
         "nameWithOwner": "Placenote/PlacenoteSDK-iOS",
         "stargazerCount": 82,
-        "description": "PlacenoteSDK Sample app in native iOS using ARKit, written primarily in Swift",
+        "description": "PlacenoteSDK Sample app in nativescript iOS using ARKit, written primarily in Swift",
         "repositoryTopics_list": [
             "arkit",
             "slam",
@@ -5622,7 +5623,7 @@
         "createdAt": "2018-07-23T21:35:17Z",
         "nameWithOwner": "PracticalVR/KEYSDK-WH",
         "stargazerCount": 12,
-        "description": "Simplified mapping with KEY SDK.",
+        "description": "mrtk Simplified mapping with KEY SDK.",
         "repositoryTopics_list": [
             "hololens",
             "mixedrealitytookit-unity",
@@ -5671,7 +5672,7 @@
         "createdAt": "2018-04-02T01:38:58Z",
         "nameWithOwner": "ProProgramming101/PolySnap",
         "stargazerCount": 29,
-        "description": "Augmented Reality application using Expo and Google Poly",
+        "description": "Augmented Reality application using Expo and Google google-poly",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -5735,7 +5736,7 @@
         "createdAt": "2016-07-22T08:51:29Z",
         "nameWithOwner": "Pulkit-Khandelwal/Augmented-Reality-and-Graph-Cut-OpenCV",
         "stargazerCount": 6,
-        "description": "Detection of Features to Track Objects and Segmentation Using GrabCut for Application in Marker-less Augmented Reality ",
+        "description": "opencv Detection of Features to Track Objects and Segmentation Using GrabCut for Application in Marker-less Augmented Reality ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -5748,7 +5749,7 @@
         "createdAt": "2017-02-08T19:10:20Z",
         "nameWithOwner": "PyrusMed/Pear-Interaction-Engine",
         "stargazerCount": 10,
-        "description": "PIE was made to give designers and developers an easier way to create, share and modify user interactions",
+        "description": "oculus PIE was made to give designers and developers an easier way to create, share and modify user interactions",
         "repositoryTopics_list": [
             "interactions",
             "unity3d",
@@ -5772,7 +5773,7 @@
         "createdAt": "2020-02-04T06:48:22Z",
         "nameWithOwner": "RGB-Schemes/Unity-Modern-XR-Sample",
         "stargazerCount": 11,
-        "description": "vive xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
+        "description": "oculus vive xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -6131,7 +6132,7 @@
         "createdAt": "2016-10-14T06:09:48Z",
         "nameWithOwner": "Rogersyp/CS_Capstone_VR-AR_In_Our_Pocket",
         "stargazerCount": 6,
-        "description": "Optimizing Virtual Reality vr and Augmented Reality (AR) performance on Mobile Web",
+        "description": "Optimizing Virtual Reality vr and Augmented Reality (AR) performance on phone Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TeX",
         "languages_list": [
@@ -6202,7 +6203,7 @@
         "createdAt": "2020-06-09T17:56:13Z",
         "nameWithOwner": "Rufus31415/Simple-WebXR-Unity",
         "stargazerCount": 270,
-        "description": "⭐ Bringing WebXR to Unity 3D ! B-)",
+        "description": "oculus Bringing WebXR to Unity 3D ! B-)",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity",
@@ -6282,7 +6283,7 @@
         "createdAt": "2017-09-18T16:10:39Z",
         "nameWithOwner": "STBTony/AR-Mobile-Workspace",
         "stargazerCount": 4,
-        "description": "Mobile markerless augmented reality of google maps and weather using Unity in a HUD manner",
+        "description": "phone markerless augmented reality of google maps and weather using Unity in a HUD manner",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -6425,7 +6426,7 @@
         "repositoryTopics_list": [
             "dlib",
             "opencv",
-            "opengles",
+            "opengl",
             "rajawali",
             "augmented-reality"
         ],
@@ -6559,7 +6560,7 @@
         "createdAt": "2018-06-21T16:07:58Z",
         "nameWithOwner": "Space-Cowboy-2018/AR-Shooter-FrontEnd",
         "stargazerCount": 15,
-        "description": "Space Cowboy is a React Native app, that incorporates augmented reality, along with three.js for 3d graphics and sockets to provide users with a seamless and realistic laser tag experience. ",
+        "description": "Space Cowboy is a React-Native app, that incorporates augmented reality, along with three.js for 3d graphics and sockets to provide users with a seamless and realistic laser tag experience. ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -6617,7 +6618,7 @@
         "createdAt": "2020-09-01T15:39:07Z",
         "nameWithOwner": "StephenHodgson/Native-Unity-API",
         "stargazerCount": 3,
-        "description": "xrtk C++ Headers for Unity Native Plugins",
+        "description": " xrtk C++ Headers for Unity Native Plugins",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -6781,7 +6782,7 @@
         "description": "WorkAR is a prototype of an augmented reality application for a work environment (Bachelor's Thesis)",
         "repositoryTopics_list": [
             "augmented-reality",
-            "microsoft-hololens",
+            "hololens",
             "unity"
         ],
         "primaryLanguage": "C#",
@@ -6909,7 +6910,7 @@
         "repositoryTopics_list": [
             "ionic",
             "augmented-reality",
-            "mobile",
+            "phone",
             "wikitude",
             "ionic-plugin"
         ],
@@ -6933,7 +6934,7 @@
             "react-native-maps",
             "redux",
             "sequelize",
-            "node-js",
+            "nodejs",
             "express-js",
             "postgresql",
             "augmented-reality-applications",
@@ -7256,7 +7257,7 @@
         "createdAt": "2017-10-30T23:36:32Z",
         "nameWithOwner": "Unity-Technologies/experimental-ARInterface",
         "stargazerCount": 276,
-        "description": "Experimental cross-platform framework for mobile AR shown as part of \"So You Think You Can Augment Reality?\" talk at Unite Austin 2017",
+        "description": "Experimental cross-platform framework for phone AR shown as part of \"So You Think You Can Augment Reality?\" talk at Unite Austin 2017",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -7650,7 +7651,7 @@
         "createdAt": "2020-01-27T12:27:41Z",
         "nameWithOwner": "WaveEngine/MixedRealityToolkit-WaveEngine",
         "stargazerCount": 25,
-        "description": "xrtk WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
+        "description": "mrtk WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
         "repositoryTopics_list": [
             "waveengine",
             "mixedrealitytoolkit-waveengine",
@@ -7897,7 +7898,7 @@
         "createdAt": "2020-05-25T06:56:08Z",
         "nameWithOwner": "Yonet/30DaysOfUnrealEngine",
         "stargazerCount": 15,
-        "description": "xrtk windows 30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
+        "description": "xrtk mrtk windows 30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
         "repositoryTopics_list": [
             "unreal",
             "mixedreality",
@@ -7926,7 +7927,7 @@
         "createdAt": "2019-09-09T21:19:49Z",
         "nameWithOwner": "Yonet/AzureMixedRealityDocs",
         "stargazerCount": 13,
-        "description": "Open Sourced Mixed Reality Course Curriculum.",
+        "description": "mrtk Open Sourced Mixed Reality Course Curriculum.",
         "repositoryTopics_list": [
             "mixed-reality",
             "mixedrealitytookit-unity",
@@ -8065,7 +8066,7 @@
         "createdAt": "2017-08-04T00:07:46Z",
         "nameWithOwner": "ZappenVDNS/zappen-camera-app",
         "stargazerCount": 4,
-        "description": "Cross-platform React Native wrapper app for client-side mobile visual search / computer vision tool.",
+        "description": "Cross-platform React-Native wrapper app for client-side phone visual search / computer vision tool.",
         "repositoryTopics_list": [
             "visual-search",
             "computer-vision",
@@ -8301,7 +8302,7 @@
             "babylonjs",
             "facebook",
             "bootstrap",
-            "reactjs"
+            "react"
         ],
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -8316,7 +8317,7 @@
         "createdAt": "2017-08-21T02:54:28Z",
         "nameWithOwner": "acidrainstudios/TrueReality",
         "stargazerCount": 12,
-        "description": "True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL. It runs on all Windows platforms and GNU/Linux. OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
+        "description": "True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL . It runs on all Windows platforms and GNU/Linux. OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
         "repositoryTopics_list": [
             "openscenegraph",
             "simulation-engine",
@@ -8630,7 +8631,7 @@
         "createdAt": "2017-12-06T16:58:57Z",
         "nameWithOwner": "ahmadsayed/node-red-contrib-web-babylonjs",
         "stargazerCount": 4,
-        "description": "web",
+        "description": "web nodejs",
         "repositoryTopics_list": [
             "node-red",
             "iot",
@@ -8840,7 +8841,7 @@
             "mongodb",
             "vr",
             "express",
-            "node"
+            "nodejs"
         ],
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -8887,7 +8888,7 @@
         "createdAt": "2019-08-18T19:54:22Z",
         "nameWithOwner": "anavmehta/ARChessAnalyzer",
         "stargazerCount": 7,
-        "description": "An Augmented Reality App to detect chessboard and pieces and predict best move (using OpenCV, Caffe and StockFish)",
+        "description": "An Augmented Reality App to detect chessboard and pieces and predict best move (using OpenCV , Caffe and StockFish)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -8904,7 +8905,7 @@
         "createdAt": "2016-10-26T13:09:53Z",
         "nameWithOwner": "anderm/holo-assisted-training",
         "stargazerCount": 7,
-        "description": "A holographic assembly line training prototype based on Microsoft HoloLens.",
+        "description": "A holographic assembly line training prototype based on Microsoft HoloLens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -8949,7 +8950,7 @@
             "cardboard",
             "vr",
             "6dof",
-            "mobile",
+            "phone",
             "ar"
         ],
         "primaryLanguage": "C++",
@@ -8993,7 +8994,7 @@
         "createdAt": "2020-02-17T05:30:28Z",
         "nameWithOwner": "andypotato/artoolkit5-js",
         "stargazerCount": 14,
-        "description": "Node.JS / ES6 module port of artoolkit5",
+        "description": "NodeJS / ES6 module port of artoolkit5",
         "repositoryTopics_list": [
             "augmented-reality",
             "ar",
@@ -9086,7 +9087,7 @@
         "createdAt": "2017-10-21T02:26:53Z",
         "nameWithOwner": "anthonyanader/timeboARd",
         "stargazerCount": 11,
-        "description": "Hackathon: HackHarvard 2017 Project | Wanting to change the way teams catalog brainstorming sessions, we developed Team Bo[AR]d, a native iOS app, that enables users to collaborate, share and upload a series of 3D whiteboard sessions through Augmented Reality. ",
+        "description": "Hackathon: HackHarvard 2017 Project | Wanting to change the way teams catalog brainstorming sessions, we developed Team Bo[AR]d, a nativescript iOS app, that enables users to collaborate, share and upload a series of 3D whiteboard sessions through Augmented Reality. ",
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
@@ -9411,7 +9412,7 @@
         "createdAt": "2018-03-19T05:29:08Z",
         "nameWithOwner": "armag-pro/Bandit-Girl-AR",
         "stargazerCount": 11,
-        "description": ":video_game: Augmented Reality mobile game with classic third person and AR gameplay modes. :gun:",
+        "description": ":video_game: Augmented Reality phone game with classic third person and AR gameplay modes. :gun:",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -9419,7 +9420,7 @@
             "vuforia",
             "augmented-reality",
             "augmented-game",
-            "mobile-game",
+            "phone",
             "android",
             "android-game",
             "csharp",
@@ -9623,7 +9624,7 @@
         "createdAt": "2016-10-09T19:50:03Z",
         "nameWithOwner": "aschwtzr/SilverUnicorn",
         "stargazerCount": 4,
-        "description": "Silver Unicorn is an interface for robots and humans that uses a Sphero, Microsoft Hololens, Mac server and more! ",
+        "description": "Silver Unicorn is an interface for robots and humans that uses a Sphero, Microsoft Hololens , Mac server and more! ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -9765,7 +9766,7 @@
         "createdAt": "2017-09-29T09:01:32Z",
         "nameWithOwner": "ashislaha/Shape-Detection-in-AR",
         "stargazerCount": 50,
-        "description": "Detect the shape of drawing objects (classes - line, triangle, rectangle, pentagon, Hexagon, circle) and draw in Augmented Reality.",
+        "description": "ml Detect the shape of drawing objects (classes - line, triangle, rectangle, pentagon, Hexagon, circle) and draw in Augmented Reality.",
         "repositoryTopics_list": [
             "opencv",
             "coreml-ar",
@@ -10021,7 +10022,7 @@
         "createdAt": "2018-03-19T20:13:22Z",
         "nameWithOwner": "avaer/magicleap",
         "stargazerCount": 5,
-        "description": "Magic Leap SDK for Node.js",
+        "description": "Magic Leap SDK for nodejs",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -10073,7 +10074,7 @@
         "createdAt": "2020-03-08T16:43:01Z",
         "nameWithOwner": "avrcoelho/augmented-reality-react-native",
         "stargazerCount": 3,
-        "description": "null",
+        "description": "react-native",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TypeScript",
         "languages_list": [
@@ -10115,7 +10116,7 @@
         "createdAt": "2020-09-16T19:13:19Z",
         "nameWithOwner": "azizamari/AR-Visualizer",
         "stargazerCount": 4,
-        "description": "Project submission for AlgoExpert's SWE contest. An augmented reality (AR) mobile app to virtually visualize famous algorithms like sorting algorithms.",
+        "description": "Project submission for AlgoExpert's SWE contest. An augmented reality (AR) phone app to virtually visualize famous algorithms like sorting algorithms.",
         "repositoryTopics_list": [
             "android",
             "unity",
@@ -10307,13 +10308,13 @@
         "createdAt": "2018-10-17T13:59:45Z",
         "nameWithOwner": "blippar/blippar-ar-sdk",
         "stargazerCount": 5,
-        "description": "The Blippar Mobile AR SDK",
+        "description": "The Blippar phone AR SDK",
         "repositoryTopics_list": [
             "augmented-reality",
             "ar",
             "blippar",
             "blipper",
-            "mobile",
+            "phone",
             "app-development"
         ],
         "primaryLanguage": "Shell",
@@ -10523,7 +10524,7 @@
         "createdAt": "2017-01-29T15:09:46Z",
         "nameWithOwner": "c-goettert/OSG-OpenCV-ARDemo",
         "stargazerCount": 8,
-        "description": "Very basic project which might server as a template for augmented reality Scenes using OpenSceneGraph for 3D Visualisation and OpenCV to grab Webcam-frames for the scene background",
+        "description": "opencv Very basic project which might server as a template for augmented reality Scenes using OpenSceneGraph for 3D Visualisation and OpenCV to grab Webcam-frames for the scene background",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -10537,7 +10538,7 @@
         "createdAt": "2018-01-15T02:37:08Z",
         "nameWithOwner": "c-marinos/Sapphire",
         "stargazerCount": 4,
-        "description": "Chemical visualization for the Microsoft HoloLens.",
+        "description": "Chemical visualization for the Microsoft HoloLens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -11197,7 +11198,7 @@
         "createdAt": "2018-06-22T22:21:37Z",
         "nameWithOwner": "cjthom03/Peekaboo-Penguin",
         "stargazerCount": 10,
-        "description": "Mobile hide-n-seek style game played in augmented reality.",
+        "description": "phone hide-n-seek style game played in augmented reality.",
         "repositoryTopics_list": [
             "game",
             "swift",
@@ -11625,7 +11626,7 @@
         "createdAt": "2017-10-28T16:25:50Z",
         "nameWithOwner": "daleotar/augmented-reality-opencv-qt-opengl",
         "stargazerCount": 12,
-        "description": "null",
+        "description": "qt opengl opencv",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -11684,7 +11685,7 @@
         "createdAt": "2019-04-19T13:16:49Z",
         "nameWithOwner": "danieldimit/6d-pose-estimation-with-ml-in-ar",
         "stargazerCount": 6,
-        "description": "This is my Master thesis which evaluates 6D pose estimating deep learning methods for usage in an AR use case. It includes 2 new proxies for Gabriel in order to make the Deep Learning methods usable in AR-enabled devices.",
+        "description": "ml pose-estimation This is my Master thesis which evaluates 6D pose estimating deep learning methods for usage in an AR use case. It includes 2 new proxies for Gabriel in order to make the Deep Learning methods usable in AR-enabled devices.",
         "repositoryTopics_list": [
             "machine-learning",
             "deep-learning",
@@ -11771,12 +11772,12 @@
         "createdAt": "2017-06-24T18:54:39Z",
         "nameWithOwner": "davidezordan/MixedRealitySamples",
         "stargazerCount": 7,
-        "description": "My mixed reality playground using Unity, the Mixed Reality Toolkit (MRTK) and OpenVR.",
+        "description": "oculus My mixed reality playground using Unity, the Mixed Reality Toolkit ( MRTK ) and OpenVR .",
         "repositoryTopics_list": [
             "hololens",
             "steamvr",
             "unity3d",
-            "oculus-vr-sdk",
+            "oculus",
             "mrtk",
             "vr",
             "virtual-reality",
@@ -12040,7 +12041,7 @@
             "desktop",
             "augmented-reality",
             "opengl",
-            "opengles",
+            "opengl",
             "qt"
         ],
         "primaryLanguage": "C++",
@@ -12091,7 +12092,7 @@
         "createdAt": "2016-06-02T10:43:25Z",
         "nameWithOwner": "dgavedissian/RiftAR",
         "stargazerCount": 3,
-        "description": "Final Year Project for Imperial College London - Marker-free Augmented Reality using CUDA and OpenCV.",
+        "description": "oculus Final Year Project for Imperial College London - Marker-free Augmented Reality using CUDA and OpenCV .",
         "repositoryTopics_list": [
             "opencv",
             "cuda",
@@ -12580,7 +12581,7 @@
             "3d-graphics",
             "sensor-fusion",
             "augmented-reality-applications",
-            "mobile-development",
+            "phone",
             "gradle",
             "computer-vision",
             "object-detection",
@@ -12678,7 +12679,7 @@
         "createdAt": "2019-01-20T16:24:16Z",
         "nameWithOwner": "ebellumat/ar-native",
         "stargazerCount": 6,
-        "description": "A Sample of Augmented Reality With NativeScript-Vue",
+        "description": "A Sample of Augmented Reality With NativeScript -Vue",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -12825,7 +12826,7 @@
         "repositoryTopics_list": [
             "swift",
             "augmented-reality",
-            "mobile-app",
+            "phone",
             "maps",
             "food",
             "restaurants",
@@ -12839,7 +12840,7 @@
             "ios-app",
             "ios-swift",
             "ios10",
-            "mobile",
+            "phone",
             "xcode",
             "location-services"
         ],
@@ -13010,7 +13011,7 @@
         "createdAt": "2019-07-08T14:07:55Z",
         "nameWithOwner": "ex-agora/ExploreAgora",
         "stargazerCount": 9,
-        "description": "Explore Agora is an educational mobile application using augmented reality, that allows children to learn from the real world in a way that is interactive and engaging by using Unity engine. ",
+        "description": "Explore Agora is an educational phone application using augmented reality, that allows children to learn from the real world in a way that is interactive and engaging by using Unity engine. ",
         "repositoryTopics_list": [
             "agumentedreality",
             "educational-game",
@@ -13172,7 +13173,7 @@
         "createdAt": "2020-10-18T17:21:12Z",
         "nameWithOwner": "fabio914/RealityMixer",
         "stargazerCount": 571,
-        "description": "Mixed Reality app for iOS",
+        "description": "oculus Mixed Reality app for iOS",
         "repositoryTopics_list": [
             "ios",
             "oculus-quest",
@@ -13233,7 +13234,7 @@
         "createdAt": "2018-09-27T01:49:21Z",
         "nameWithOwner": "fanoping/Computer-Vision",
         "stargazerCount": 9,
-        "description": "Computer Vision: from Recognition to Geometry @ National Taiwan University (2018, Fall)",
+        "description": "projection Computer Vision: from Recognition to Geometry @ National Taiwan University (2018, Fall)",
         "repositoryTopics_list": [
             "color-conversion",
             "pca",
@@ -13536,7 +13537,7 @@
         "repositoryTopics_list": [
             "opencv",
             "opengl",
-            "opengl-es",
+            "opengl",
             "augmented-reality",
             "augmented-reality-applications",
             "android",
@@ -13762,7 +13763,7 @@
             "augmented-reality",
             "opencv",
             "opengl",
-            "opengl-es",
+            "opengl",
             "java",
             "android",
             "image",
@@ -14172,7 +14173,7 @@
         "createdAt": "2017-01-17T16:49:14Z",
         "nameWithOwner": "hamza-ghufran/ar_sandbox",
         "stargazerCount": 3,
-        "description": "Realtime Terrain Manipulation. Using Kinect and a Projector. ",
+        "description": "Realtime Terrain Manipulation. Using Kinect and a projection .",
         "repositoryTopics_list": [
             "augmented-reality",
             "opencv",
@@ -14274,7 +14275,7 @@
         "createdAt": "2017-07-08T12:51:21Z",
         "nameWithOwner": "hanleyweng/iOS-ARKit-Headset-View",
         "stargazerCount": 122,
-        "description": "Make your ARKit experiment compatible with mobile VR /AR headsets*. A Template using SceneKit . Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.",
+        "description": "Make your ARKit experiment compatible with phone VR /AR headsets*. A Template using SceneKit . Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -14287,7 +14288,7 @@
         "createdAt": "2017-07-01T09:59:20Z",
         "nameWithOwner": "hanleyweng/iOS-Stereoscopic-ARKit-Template",
         "stargazerCount": 68,
-        "description": "iOS Augmented Reality App template, modified to support a basic stereoscopic (two side-by-side camera) view. A few lines of code (and storyboard tweaks) to make your ARKit experiment compatible with cheap mobile VR headsets* .",
+        "description": "iOS Augmented Reality App template, modified to support a basic stereoscopic (two side-by-side camera) view. A few lines of code (and storyboard tweaks) to make your ARKit experiment compatible with cheap phone VR headsets* .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -14706,13 +14707,13 @@
         "createdAt": "2018-01-09T11:55:38Z",
         "nameWithOwner": "horefice/MATERIAL",
         "stargazerCount": 3,
-        "description": "Mobile Augmented Reality App for Anatomy Learning made with Unity",
+        "description": "phone Augmented Reality App for Anatomy Learning made with Unity",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity",
             "vuforia",
             "anatomy-learning",
-            "mobile-app"
+            "phone"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -14731,8 +14732,7 @@
             "hardware",
             "augmented-reality",
             "drone",
-            "projection",
-            "projector"
+            "projection"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -15170,7 +15170,7 @@
         "createdAt": "2018-03-21T23:52:46Z",
         "nameWithOwner": "immersive-web/webxr-polyfill",
         "stargazerCount": 265,
-        "description": "web xrtk Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+        "description": "web xrtk Use the WebXR Device API today, providing fallbacks to react-native WebVR 1.1 and Cardboard",
         "repositoryTopics_list": [
             "webxr",
             "webvr",
@@ -15308,7 +15308,7 @@
         "createdAt": "2018-07-11T08:54:27Z",
         "nameWithOwner": "itspk/findmycar",
         "stargazerCount": 3,
-        "description": "Find My Car - An Augmented Reality (AR) cross platform mobile app to assist with finding car indoor and outdoor using inertial measurements or gps.",
+        "description": "Find My Car - An Augmented Reality (AR) cross platform phone app to assist with finding car indoor and outdoor using inertial measurements or gps.",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -15397,7 +15397,7 @@
         "createdAt": "2020-12-02T02:10:27Z",
         "nameWithOwner": "ivedants/Magic-Media-native-iOS-iPadOS-AR-App",
         "stargazerCount": 6,
-        "description": "Magic Media is an award-winning experimental native iOS/iPadOS application based on Augmented Reality (AR) that focuses on augmenting physical forms of media such as magazines, dollar bills, instruction manuals, etc. It delivers its users various options to interact with several sections of the physical media with images/text and then convert them into videos or 3D models specifically. This will help the user understand the information better in various ways of interaction, which is majorly made possible by AR. It also supports voice commands to help the user navigate through the app and have a more friendly and immersive experience.",
+        "description": "Magic Media is an award-winning experimental nativescript iOS/iPadOS application based on Augmented Reality (AR) that focuses on augmenting physical forms of media such as magazines, dollar bills, instruction manuals, etc. It delivers its users various options to interact with several sections of the physical media with images/text and then convert them into videos or 3D models specifically. This will help the user understand the information better in various ways of interaction, which is majorly made possible by AR. It also supports voice commands to help the user navigate through the app and have a more friendly and immersive experience.",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -15435,7 +15435,7 @@
         "createdAt": "2019-01-26T16:37:52Z",
         "nameWithOwner": "jacobrs/HEAR",
         "stargazerCount": 11,
-        "description": "Augmented reality application that allows people hard of hearing to see conversational subtitles through their phone's camera.",
+        "description": "Augmented reality application that allows people hard of hearing to see conversational subtitles through their phone camera.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -15699,7 +15699,7 @@
         "createdAt": "2018-08-29T13:35:34Z",
         "nameWithOwner": "jeff-da/opengl-ar",
         "stargazerCount": 3,
-        "description": "Augmented reality on mobile with OpenGL and Mapbox.",
+        "description": "Augmented reality on phone with OpenGL and Mapbox.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -15712,7 +15712,7 @@
         "createdAt": "2017-02-17T10:27:59Z",
         "nameWithOwner": "jeromeetienne/AR.js",
         "stargazerCount": 15286,
-        "description": "Efficient Augmented Reality for the Web - 60fps on mobile!",
+        "description": "Efficient Augmented Reality for the Web - 60fps on phone !",
         "repositoryTopics_list": [
             "a-frame",
             "three-js",
@@ -15955,7 +15955,7 @@
         "createdAt": "2020-05-09T13:41:44Z",
         "nameWithOwner": "joncohenproducer/MRTK-Audio",
         "stargazerCount": 4,
-        "description": "Audio Assets for Open Source Mixed Reality Interactions",
+        "description": "mrtk Audio Assets for Open Source Mixed Reality Interactions",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -16044,7 +16044,7 @@
         "createdAt": "2019-09-12T20:50:57Z",
         "nameWithOwner": "jpaik7/AR-ML-Drawing",
         "stargazerCount": 4,
-        "description": "iOS application that uses semantic segmentation with deep learning to recognize hand movements and allows the user to draw in 3D augmented reality in real time. ",
+        "description": "ml iOS application that uses semantic segmentation with deep learning to recognize hand movements and allows the user to draw in 3D augmented reality in real time. ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -16159,7 +16159,7 @@
         "createdAt": "2016-05-18T16:05:38Z",
         "nameWithOwner": "kahunalu/artsapp",
         "stargazerCount": 4,
-        "description": "Augmented Reality Tagging System Mobile Application",
+        "description": "Augmented Reality Tagging System phone Application",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -16326,14 +16326,14 @@
         "createdAt": "2020-09-26T09:29:05Z",
         "nameWithOwner": "karanganesan/model-viewer-bridge",
         "stargazerCount": 12,
-        "description": "An easy to use bridge between your 3D models on desktop and 3D viewer in your mobile + View in AR.",
+        "description": "An easy to use bridge between your 3D models on desktop and 3D viewer in your phone + View in AR.",
         "repositoryTopics_list": [
             "model-viewer",
             "three-js",
             "webgl",
             "gltf",
             "augmented-reality",
-            "mobile",
+            "phone",
             "desktop",
             "website",
             "piping-server"
@@ -16355,7 +16355,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "ar",
-            "opencv-python",
+            "opencv",
             "opencv",
             "air-drums",
             "tutorial",
@@ -16375,7 +16375,7 @@
         "createdAt": "2018-07-06T22:37:01Z",
         "nameWithOwner": "kennethlng/wizards-duel-ar",
         "stargazerCount": 10,
-        "description": "Augmented reality mobile game where players battle each other in real-time using spells and shields. Made with Unity, ARCore, and AWS GameSparks.",
+        "description": "Augmented reality phone game where players battle each other in real-time using spells and shields. Made with Unity, ARCore, and AWS GameSparks.",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity3d",
@@ -16446,7 +16446,7 @@
         "createdAt": "2019-08-12T10:11:06Z",
         "nameWithOwner": "khoben/ar.core",
         "stargazerCount": 4,
-        "description": "Mobile/PC Markerless AR detector&tracker core app",
+        "description": "phone /PC Markerless AR detector&tracker core app",
         "repositoryTopics_list": [
             "android",
             "ndk-cmake",
@@ -16486,7 +16486,7 @@
             "android",
             "easyar",
             "opengl",
-            "opengl-es",
+            "opengl",
             "ndk"
         ],
         "primaryLanguage": "Java",
@@ -16708,7 +16708,6 @@
             "neural-radiance-fields",
             "view-synthesis",
             "pytorch",
-            "pytorch-lightning",
             "mesh",
             "3d-reconstruction",
             "volume-rendering",
@@ -16717,7 +16716,7 @@
             "colab",
             "ray-tracing",
             "nerf-in-the-wild",
-            "nerf-w"
+            "nerf"
         ],
         "primaryLanguage": "Jupyter Notebook",
         "languages_list": [
@@ -16868,7 +16867,7 @@
         "createdAt": "2020-10-27T20:56:41Z",
         "nameWithOwner": "leoncvlt/ar-button",
         "stargazerCount": 5,
-        "description": "🔲 Web component to easily display 3D models in native AR across browsers and mobile devices",
+        "description": "🔲 Web component to easily display 3D models in react-native AR across browsers and phone devices",
         "repositoryTopics_list": [
             "augmented-reality",
             "gtlf",
@@ -16936,7 +16935,7 @@
         "createdAt": "2016-08-30T11:34:16Z",
         "nameWithOwner": "liu-wenwu/ARUnity",
         "stargazerCount": 11,
-        "description": "A framework using unity to achieve augmented reality based on OpenCV.",
+        "description": "A framework using unity to achieve augmented reality based on OpenCV .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -17052,7 +17051,7 @@
         "createdAt": "2017-02-01T10:37:56Z",
         "nameWithOwner": "lostjared/Acid.Cam.v2.Qt",
         "stargazerCount": 35,
-        "description": "Cross Platform version of Acid Cam for MacOS, Linux, and Windows",
+        "description": "qt Cross Platform version of Acid Cam for MacOS, Linux, and Windows",
         "repositoryTopics_list": [
             "augmented-reality",
             "glitch-art",
@@ -17278,12 +17277,12 @@
         "description": "Introduction to Augmented Reality (AR) with Python 3 and OpenCV 4.2.",
         "repositoryTopics_list": [
             "augmented-reality",
-            "python3",
-            "opencv-python",
+            "opencv",
             "opencv"
         ],
         "primaryLanguage": "Jupyter Notebook",
         "languages_list": [
+            "python3",
             "Jupyter Notebook",
             "Python"
         ],
@@ -17393,8 +17392,8 @@
         "description": "null",
         "repositoryTopics_list": [
             "augmented-reality",
-            "opencv4android",
-            "opengles",
+            "opencv",
+            "opengl",
             "android",
             "camera",
             "opencv"
@@ -17410,7 +17409,7 @@
         "createdAt": "2019-06-28T18:45:01Z",
         "nameWithOwner": "maluoi/OpenXRSamples",
         "stargazerCount": 29,
-        "description": "Concise and documented examples of using OpenXR to build native Mixed Reality applications!",
+        "description": "Concise and documented examples of using OpenXR to build react-native Mixed Reality applications!",
         "repositoryTopics_list": [
             "openxr",
             "mr",
@@ -17430,7 +17429,7 @@
         "createdAt": "2019-07-09T22:54:27Z",
         "nameWithOwner": "maluoi/StereoKit",
         "stargazerCount": 224,
-        "description": "stereokit An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!",
+        "description": "stereokit An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR !",
         "repositoryTopics_list": [
             "openxr",
             "vr",
@@ -17665,7 +17664,7 @@
         "createdAt": "2018-03-30T19:01:26Z",
         "nameWithOwner": "mapbox/react-native-mapbox-ar",
         "stargazerCount": 212,
-        "description": "Location based augmented reality components using React Native, viromedia and Mapbox",
+        "description": "Location based augmented reality components using React-Native , viromedia and Mapbox",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -17866,7 +17865,7 @@
         "createdAt": "2017-05-29T13:57:10Z",
         "nameWithOwner": "marmelab/sketch-by-phone",
         "stargazerCount": 96,
-        "description": "A proof-of-concept of Augmented Reality with HTML5",
+        "description": "phone A proof-of-concept of Augmented Reality with HTML5",
         "repositoryTopics_list": [
             "augmented-reality",
             "arjs",
@@ -18255,7 +18254,7 @@
         "createdAt": "2018-01-22T00:15:52Z",
         "nameWithOwner": "maxynroseleitner/immersive-ed",
         "stargazerCount": 3,
-        "description": "Immersive affecting computing and speech recognition platform for Microsoft hololens.",
+        "description": "Immersive affecting computing and speech recognition platform for Microsoft hololens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -18494,7 +18493,7 @@
         "createdAt": "2016-09-18T10:05:10Z",
         "nameWithOwner": "michaeltroger/feature-matching-native",
         "stargazerCount": 7,
-        "description": "Augmented Reality Feature Matching using the NDK and an async approach for >= Android 4.0",
+        "description": "react-native Augmented Reality Feature Matching using the NDK and an async approach for >= Android 4.0",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -19029,7 +19028,7 @@
         "createdAt": "2016-01-28T18:54:58Z",
         "nameWithOwner": "microsoft/MixedRealityToolkit-Unity",
         "stargazerCount": 4418,
-        "description": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
+        "description": "Mixed Reality Toolkit ( MRTK ) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
         "repositoryTopics_list": [
             "holotoolkit",
             "holotoolkit-unity",
@@ -19060,7 +19059,7 @@
         "createdAt": "2020-01-29T16:13:17Z",
         "nameWithOwner": "microsoft/MixedRealityToolkit-Unreal",
         "stargazerCount": 86,
-        "description": "The Mixed Reality Toolkit for Unreal provides a set of components and features to accelerate Mixed Reality app development with Unreal .",
+        "description": "unreal The Mixed Reality Toolkit mrtk for Unreal provides a set of components and features to accelerate Mixed Reality app development with Unreal .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -19152,7 +19151,7 @@
             "reality",
             "altspacevr",
             "gltf",
-            "node",
+            "nodejs",
             "typescript"
         ],
         "primaryLanguage": "TypeScript",
@@ -19176,7 +19175,7 @@
             "mixed",
             "reality",
             "altspacevr",
-            "node",
+            "nodejs",
             "typescript",
             "samples",
             "sdk"
@@ -19327,7 +19326,7 @@
         "createdAt": "2018-11-29T01:35:59Z",
         "nameWithOwner": "molyswu/hand_detection",
         "stargazerCount": 137,
-        "description": "tensorflow using Neural Networks (SSD) on Tensorflow .  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive (and riskiest) part of the process has to do with finding or creating the right (annotated) dataset. I was interested mainly in detecting hands on a table (egocentric view point). I experimented first with the [Oxford Hands Dataset](http://www.robots.ox.ac.uk/~vgg/data/hands/) (the results were not good). I then tried the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) which was a much better fit to my requirements.  The goal of this repo/post is to demonstrate how neural networks can be applied to the (hard) problem of tracking hands (egocentric and other views). Better still, provide code that can be adapted to other uses cases.  If you use this tutorial or models in your research or project, please cite [this](#citing-this-tutorial).  Here is the detector in action.  <img src=\"images/hand1.gif\" width=\"33.3%\"><img src=\"images/hand2.gif\" width=\"33.3%\"><img src=\"images/hand3.gif\" width=\"33.3%\"> Realtime detection on video stream from a webcam .  <img src=\"images/chess1.gif\" width=\"33.3%\"><img src=\"images/chess2.gif\" width=\"33.3%\"><img src=\"images/chess3.gif\" width=\"33.3%\"> Detection on a Youtube video.  Both examples above were run on a macbook pro **CPU** (i7, 2.5GHz, 16GB). Some fps numbers are:   | FPS  | Image Size | Device| Comments| | ------------- | ------------- | ------------- | ------------- | | 21  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run without visualizing results| | 16  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) | | 11  | 640 * 480  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) |  > Note: The code in this repo is written and tested with Tensorflow `1.4.0-rc0`. Using a different version may result in [some errors](https://github.com/tensorflow/models/issues/1581). You may need to [generate your own frozen model](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/) graph using the [model checkpoints](model-checkpoint) in the repo to fit your TF version.    **Content of this document** - Motivation - Why Track/Detect hands with Neural Networks - Data preparation and network training in Tensorflow (Dataset, Import, Training) - Training the hand detection Model - Using the Detector to Detect/Track hands - Thoughts on Optimizations.  > P.S if you are using or have used the models provided here, feel free to reach out on twitter ([@vykthur](https://twitter.com/vykthur)) and share your work!  ## Motivation - Why Track/Detect hands with Neural Networks?  There are several existing approaches to tracking hands in the computer vision domain. Incidentally, many of these approaches are rule based (e.g extracting background based on texture and boundary features, distinguishing between hands and background using color histograms and HOG classifiers,) making them not very robust. For example, these algorithms might get confused if the background is unusual or in situations where sharp changes in lighting conditions cause sharp changes in skin color or the tracked object becomes occluded.(see [here for a review](https://www.cse.unr.edu/~bebis/handposerev.pdf) paper on hand pose estimation from the HCI perspective)  With sufficiently large datasets, neural networks provide opportunity to train models that perform well and address challenges of existing object tracking/detection algorithms - varied/poor lighting, noisy environments, diverse viewpoints and even occlusion. The main drawbacks to usage for real-time tracking/detection is that they can be complex, are relatively slow compared to tracking-only algorithms and it can be quite expensive to assemble a good dataset. But things are changing with advances in fast neural networks.  Furthermore, this entire area of work has been made more approachable by deep learning frameworks (such as the tensorflow object detection api) that simplify the process of training a model for custom object detection. More importantly, the advent of fast neural network models like ssd, faster r-cnn, rfcn (see [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models) ) etc make neural networks an attractive candidate for real-time detection (and tracking) applications. Hopefully, this repo demonstrates this.  > If you are not interested in the process of training the detector, you can skip straight to applying the [pretrained model I provide in detecting hands](#detecting-hands).  Training a model is a multi-stage process (assembling dataset, cleaning, splitting into training/test partitions and generating an inference graph). While I lightly touch on the details of these parts, there are a few other tutorials cover training a custom object detector using the tensorflow object detection api in more detail[ see [here](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) and [here](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9) ]. I recommend you walk through those if interested in training a custom object detector from scratch.  ## Data preparation and network training in Tensorflow (Dataset, Import, Training)  **The Egohands Dataset**  The hand detector model is built using data from the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) dataset. This dataset works well for several reasons. It contains high quality, pixel level annotations (>15000 ground truth labels) where hands are located across 4800 images. All images are captured from an egocentric view (Google glass) across 48 different environments (indoor, outdoor) and activities (playing cards, chess, jenga, solving puzzles etc).  <img src=\"images/egohandstrain.jpg\" width=\"100%\">  If you will be using the Egohands dataset, you can cite them as follows:  > Bambach, Sven, et al. \"Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions.\" Proceedings of the IEEE International Conference on Computer Vision. 2015.  The Egohands dataset (zip file with labelled data) contains 48 folders of locations where video data was collected (100 images per folder). ``` -- LOCATION_X   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder -- LOCATION_Y   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder   ```  **Converting data to Tensorflow Format**  Some initial work needs to be done to the Egohands dataset to transform it into the format (`tfrecord`) which Tensorflow needs to train a model. This repo contains `egohands_dataset_clean.py` a script that will help you generate these csv files.  - Downloads the egohands datasets - Renames all files to include their directory names to ensure each filename is unique - Splits the dataset into train (80%), test (10%) and eval (10%) folders. - Reads in `polygons.mat` for each folder, generates bounding boxes and visualizes them to ensure correctness (see image above). - Once the script is done running, you should have an images folder containing three folders - train, test and eval. Each of these folders should also contain a csv label document each - `train_labels.csv`, `test_labels.csv`  that can be used to generate `tfrecords`  Note: While the egohands dataset provides four separate labels for hands (own left, own right, other left, and other right), for my purpose, I am only interested in the general `hand` class and label all training data as `hand`. You can modify the data prep script to generate `tfrecords` that support 4 labels.  Next: convert your dataset + csv files to tfrecords. A helpful guide on this can be found [here](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/).For each folder, you should be able to generate  `train.record`, `test.record` required in the training process.   ## Training the hand detection Model  Now that the dataset has been assembled (and your tfrecords), the next task is to train a model based on this. With neural networks, it is possible to use a process called [transfer learning](https://www.tensorflow.org/tutorials/image_retraining) to shorten the amount of time needed to train the entire model. This means we can take an existing model (that has been trained well on a related domain (here image classification) and retrain its final layer(s) to detect hands for us. Sweet!. Given that neural networks sometimes have thousands or millions of parameters that can take weeks or months to train, transfer learning helps shorten training time to possibly hours. Tensorflow does offer a few models (in the tensorflow [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models)) and I chose to use the `ssd_mobilenet_v1_coco` model as my start point given it is currently (one of) the fastest models (read the SSD research [paper here](https://arxiv.org/pdf/1512.02325.pdf)). The training process can be done locally on your CPU machine which may take a while or better on a (cloud) GPU machine (which is what I did). For reference, training on my macbook pro (tensorflow compiled from source to take advantage of the mac's cpu architecture) the maximum speed I got was 5 seconds per step as opposed to the ~0.5 seconds per step I got with a GPU. For reference it would take about 12 days to run 200k steps on my mac (i7, 2.5GHz, 16GB) compared to ~5hrs on a GPU.  > **Training on your own images**: Please use the [guide provided by Harrison from pythonprogramming](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) on how to generate tfrecords given your label csv files and your images. The guide also covers how to start the training process if training locally. [see [here] (https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)]. If training in the cloud using a service like GCP, see the [guide here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_cloud.md).  As the training process progresses, the expectation is that total loss (errors) gets reduced to its possible minimum (about a value of 1 or thereabout). By observing the tensorboard graphs for total loss(see image below), it should be possible to get an idea of when the training process is complete (total loss does not decrease with further iterations/steps). I ran my training job for 200k steps (took about 5 hours) and stopped at a total Loss (errors) value of 2.575.(In retrospect, I could have stopped the training at about 50k steps and gotten a similar total loss value). With tensorflow, you can also run an evaluation concurrently that assesses your model to see how well it performs on the test data. A commonly used metric for performance is mean average precision (mAP) which is single number used to summarize the area under the precision-recall curve.  mAP is a measure of how well the model generates a bounding box that has at least a 50% overlap with the ground truth bounding box in our test dataset. For the hand detector trained here, the mAP value was **0.9686@0.5IOU**. mAP values range from 0-1, the higher the better.     <img src=\"images/accuracy.jpg\" width=\"100%\">  Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported (see the earlier referenced guides for how to do this) and saved in the `hand_inference_graph` folder. Now its time to do some interesting detection.  ## Using the Detector to Detect/Track hands   If you have not done this yet, please following the guide on installing [Tensorflow and the Tensorflow object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md). This will walk you through setting up the tensorflow framework, cloning the tensorflow github repo and a guide on    - Load the `frozen_inference_graph.pb` trained on the hands dataset as well as the corresponding label map. In this repo, this is done in the `utils/detector_utils.py` script by the `load_inference_graph` method.   ```python   detection_graph = tf.Graph()     with detection_graph.as_default():         od_graph_def = tf.GraphDef()         with tf.gfile.GFile(PATH_TO_CKPT, 'rb') as fid:             serialized_graph = fid.read()             od_graph_def.ParseFromString(serialized_graph)             tf.import_graph_def(od_graph_def, name='')         sess = tf.Session(graph=detection_graph)     print(\">  ====== Hand Inference graph loaded.\")   ``` - Detect hands. In this repo, this is done in the `utils/detector_utils.py` script by the `detect_objects` method.   ```python   (boxes, scores, classes, num) = sess.run(         [detection_boxes, detection_scores,             detection_classes, num_detections],         feed_dict={image_tensor: image_np_expanded})   ``` - Visualize detected bounding detection_boxes. In this repo, this is done in the `utils/detector_utils.py` script by the `draw_box_on_image` method.   This repo contains two scripts that tie all these steps together.  - detect_multi_threaded.py : A threaded implementation for reading camera video input detection and detecting. Takes a set of command line flags to set parameters such as `--display` (visualize detections), image parameters `--width` and `--height`, videe `--source` (0 for camera) etc. - detect_single_threaded.py : Same as above, but single threaded. This script works for video files by setting the video source parameter videe `--source` (path to a video file).   ```cmd   # load and run detection on video at path \"videos/chess.mov\"   python detect_single_threaded.py --source videos/chess.mov ```  > Update: If you do have errors loading the frozen inference graph in this repo, feel free to generate a new graph that fits your TF version from the model-checkpoint in this repo. Use the [export_inference_graph.py](https://github.com/tensorflow/models/blob/master/research/object_detection/export_inference_graph.py) script provided in the tensorflow object detection api repo. More guidance on this [here](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/).  ## Thoughts on Optimization. A few things that led to noticeable performance increases.  - Threading: Turns out that reading images from a webcam is a heavy I/O event and if run on the main application thread can slow down the program. I implemented some good ideas from [Adrian Rosebuck](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/) on parrallelizing image capture across multiple worker threads. This mostly led to an FPS increase of about 5 points. - For those new to Opencv, images from the `cv2.read()` method return images in [BGR format](https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/). Ensure you convert to RGB before detection (accuracy will be much reduced if you dont). ```python cv2.cvtColor(image_np, cv2.COLOR_BGR2RGB) ``` - Keeping your input image small will increase fps without any significant accuracy drop.(I used about 320 x 240 compared to the 1280 x 720 which my webcam provides).  - Model Quantization. Moving from the current 32 bit to 8 bit can achieve up to 4x reduction in memory required to load and store models. One way to further speed up this model is to explore the use of [8-bit fixed point quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd).  Performance can also be increased by a clever combination of tracking algorithms with the already decent detection and this is something I am still experimenting with. Have ideas for optimizing better, please share!  <img src=\"images/general.jpg\" width=\"100%\"> Note: The detector does reflect some limitations associated with the training set. This includes non-egocentric viewpoints, very noisy backgrounds (e.g in a sea of hands) and sometimes skin tone.  There is opportunity to improve these with additional data.   ## Integrating Multiple DNNs.  One way to make things more interesting is to integrate our new knowledge of where \"hands\" are with other detectors trained to recognize other objects. Unfortunately, while our hand detector can in fact detect hands, it cannot detect other objects (a factor or how it is trained). To create a detector that classifies multiple different objects would mean a long involved process of assembling datasets for each class and a lengthy training process.    > Given the above, a potential strategy is to explore structures that allow us **efficiently** interleave output form multiple pretrained models for various object classes and have them detect multiple objects on a single image.    An example of this is with my primary use case where I am interested in understanding the position of objects on a table with respect to hands on same table. I am currently doing some work on a threaded application that loads multiple detectors and outputs bounding boxes on a single image. More on this soon.",
+        "description": "phone opencv tensorflow using Neural Networks (SSD) on Tensorflow .  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive (and riskiest) part of the process has to do with finding or creating the right (annotated) dataset. I was interested mainly in detecting hands on a table (egocentric view point). I experimented first with the [Oxford Hands Dataset](http://www.robots.ox.ac.uk/~vgg/data/hands/) (the results were not good). I then tried the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) which was a much better fit to my requirements.  The goal of this repo/post is to demonstrate how neural networks can be applied to the (hard) problem of tracking hands (egocentric and other views). Better still, provide code that can be adapted to other uses cases.  If you use this tutorial or models in your research or project, please cite [this](#citing-this-tutorial).  Here is the detector in action.  <img src=\"images/hand1.gif\" width=\"33.3%\"><img src=\"images/hand2.gif\" width=\"33.3%\"><img src=\"images/hand3.gif\" width=\"33.3%\"> Realtime detection on video stream from a webcam .  <img src=\"images/chess1.gif\" width=\"33.3%\"><img src=\"images/chess2.gif\" width=\"33.3%\"><img src=\"images/chess3.gif\" width=\"33.3%\"> Detection on a Youtube video.  Both examples above were run on a macbook pro **CPU** (i7, 2.5GHz, 16GB). Some fps numbers are:   | FPS  | Image Size | Device| Comments| | ------------- | ------------- | ------------- | ------------- | | 21  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run without visualizing results| | 16  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) | | 11  | 640 * 480  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) |  > Note: The code in this repo is written and tested with Tensorflow `1.4.0-rc0`. Using a different version may result in [some errors](https://github.com/tensorflow/models/issues/1581). You may need to [generate your own frozen model](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/) graph using the [model checkpoints](model-checkpoint) in the repo to fit your TF version.    **Content of this document** - Motivation - Why Track/Detect hands with Neural Networks - Data preparation and network training in Tensorflow (Dataset, Import, Training) - Training the hand detection Model - Using the Detector to Detect/Track hands - Thoughts on Optimizations.  > P.S if you are using or have used the models provided here, feel free to reach out on twitter ([@vykthur](https://twitter.com/vykthur)) and share your work!  ## Motivation - Why Track/Detect hands with Neural Networks?  There are several existing approaches to tracking hands in the computer vision domain. Incidentally, many of these approaches are rule based (e.g extracting background based on texture and boundary features, distinguishing between hands and background using color histograms and HOG classifiers,) making them not very robust. For example, these algorithms might get confused if the background is unusual or in situations where sharp changes in lighting conditions cause sharp changes in skin color or the tracked object becomes occluded.(see [here for a review](https://www.cse.unr.edu/~bebis/handposerev.pdf) paper on hand pose estimation from the HCI perspective)  With sufficiently large datasets, neural networks provide opportunity to train models that perform well and address challenges of existing object tracking/detection algorithms - varied/poor lighting, noisy environments, diverse viewpoints and even occlusion. The main drawbacks to usage for real-time tracking/detection is that they can be complex, are relatively slow compared to tracking-only algorithms and it can be quite expensive to assemble a good dataset. But things are changing with advances in fast neural networks.  Furthermore, this entire area of work has been made more approachable by deep learning frameworks (such as the tensorflow object detection api) that simplify the process of training a model for custom object detection. More importantly, the advent of fast neural network models like ssd, faster r-cnn, rfcn (see [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models) ) etc make neural networks an attractive candidate for real-time detection (and tracking) applications. Hopefully, this repo demonstrates this.  > If you are not interested in the process of training the detector, you can skip straight to applying the [pretrained model I provide in detecting hands](#detecting-hands).  Training a model is a multi-stage process (assembling dataset, cleaning, splitting into training/test partitions and generating an inference graph). While I lightly touch on the details of these parts, there are a few other tutorials cover training a custom object detector using the tensorflow object detection api in more detail[ see [here](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) and [here](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9) ]. I recommend you walk through those if interested in training a custom object detector from scratch.  ## Data preparation and network training in Tensorflow (Dataset, Import, Training)  **The Egohands Dataset**  The hand detector model is built using data from the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) dataset. This dataset works well for several reasons. It contains high quality, pixel level annotations (>15000 ground truth labels) where hands are located across 4800 images. All images are captured from an egocentric view (Google glass) across 48 different environments (indoor, outdoor) and activities (playing cards, chess, jenga, solving puzzles etc).  <img src=\"images/egohandstrain.jpg\" width=\"100%\">  If you will be using the Egohands dataset, you can cite them as follows:  > Bambach, Sven, et al. \"Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions.\" Proceedings of the IEEE International Conference on Computer Vision. 2015.  The Egohands dataset (zip file with labelled data) contains 48 folders of locations where video data was collected (100 images per folder). ``` -- LOCATION_X   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder -- LOCATION_Y   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder   ```  **Converting data to Tensorflow Format**  Some initial work needs to be done to the Egohands dataset to transform it into the format (`tfrecord`) which Tensorflow needs to train a model. This repo contains `egohands_dataset_clean.py` a script that will help you generate these csv files.  - Downloads the egohands datasets - Renames all files to include their directory names to ensure each filename is unique - Splits the dataset into train (80%), test (10%) and eval (10%) folders. - Reads in `polygons.mat` for each folder, generates bounding boxes and visualizes them to ensure correctness (see image above). - Once the script is done running, you should have an images folder containing three folders - train, test and eval. Each of these folders should also contain a csv label document each - `train_labels.csv`, `test_labels.csv`  that can be used to generate `tfrecords`  Note: While the egohands dataset provides four separate labels for hands (own left, own right, other left, and other right), for my purpose, I am only interested in the general `hand` class and label all training data as `hand`. You can modify the data prep script to generate `tfrecords` that support 4 labels.  Next: convert your dataset + csv files to tfrecords. A helpful guide on this can be found [here](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/).For each folder, you should be able to generate  `train.record`, `test.record` required in the training process.   ## Training the hand detection Model  Now that the dataset has been assembled (and your tfrecords), the next task is to train a model based on this. With neural networks, it is possible to use a process called [transfer learning](https://www.tensorflow.org/tutorials/image_retraining) to shorten the amount of time needed to train the entire model. This means we can take an existing model (that has been trained well on a related domain (here image classification) and retrain its final layer(s) to detect hands for us. Sweet!. Given that neural networks sometimes have thousands or millions of parameters that can take weeks or months to train, transfer learning helps shorten training time to possibly hours. Tensorflow does offer a few models (in the tensorflow [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models)) and I chose to use the `ssd_mobilenet_v1_coco` model as my start point given it is currently (one of) the fastest models (read the SSD research [paper here](https://arxiv.org/pdf/1512.02325.pdf)). The training process can be done locally on your CPU machine which may take a while or better on a (cloud) GPU machine (which is what I did). For reference, training on my macbook pro (tensorflow compiled from source to take advantage of the mac's cpu architecture) the maximum speed I got was 5 seconds per step as opposed to the ~0.5 seconds per step I got with a GPU. For reference it would take about 12 days to run 200k steps on my mac (i7, 2.5GHz, 16GB) compared to ~5hrs on a GPU.  > **Training on your own images**: Please use the [guide provided by Harrison from pythonprogramming](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) on how to generate tfrecords given your label csv files and your images. The guide also covers how to start the training process if training locally. [see [here] (https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)]. If training in the cloud using a service like GCP, see the [guide here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_cloud.md).  As the training process progresses, the expectation is that total loss (errors) gets reduced to its possible minimum (about a value of 1 or thereabout). By observing the tensorboard graphs for total loss(see image below), it should be possible to get an idea of when the training process is complete (total loss does not decrease with further iterations/steps). I ran my training job for 200k steps (took about 5 hours) and stopped at a total Loss (errors) value of 2.575.(In retrospect, I could have stopped the training at about 50k steps and gotten a similar total loss value). With tensorflow, you can also run an evaluation concurrently that assesses your model to see how well it performs on the test data. A commonly used metric for performance is mean average precision (mAP) which is single number used to summarize the area under the precision-recall curve.  mAP is a measure of how well the model generates a bounding box that has at least a 50% overlap with the ground truth bounding box in our test dataset. For the hand detector trained here, the mAP value was **0.9686@0.5IOU**. mAP values range from 0-1, the higher the better.     <img src=\"images/accuracy.jpg\" width=\"100%\">  Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported (see the earlier referenced guides for how to do this) and saved in the `hand_inference_graph` folder. Now its time to do some interesting detection.  ## Using the Detector to Detect/Track hands   If you have not done this yet, please following the guide on installing [Tensorflow and the Tensorflow object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md). This will walk you through setting up the tensorflow framework, cloning the tensorflow github repo and a guide on    - Load the `frozen_inference_graph.pb` trained on the hands dataset as well as the corresponding label map. In this repo, this is done in the `utils/detector_utils.py` script by the `load_inference_graph` method.   ```python   detection_graph = tf.Graph()     with detection_graph.as_default():         od_graph_def = tf.GraphDef()         with tf.gfile.GFile(PATH_TO_CKPT, 'rb') as fid:             serialized_graph = fid.read()             od_graph_def.ParseFromString(serialized_graph)             tf.import_graph_def(od_graph_def, name='')         sess = tf.Session(graph=detection_graph)     print(\">  ====== Hand Inference graph loaded.\")   ``` - Detect hands. In this repo, this is done in the `utils/detector_utils.py` script by the `detect_objects` method.   ```python   (boxes, scores, classes, num) = sess.run(         [detection_boxes, detection_scores,             detection_classes, num_detections],         feed_dict={image_tensor: image_np_expanded})   ``` - Visualize detected bounding detection_boxes. In this repo, this is done in the `utils/detector_utils.py` script by the `draw_box_on_image` method.   This repo contains two scripts that tie all these steps together.  - detect_multi_threaded.py : A threaded implementation for reading camera video input detection and detecting. Takes a set of command line flags to set parameters such as `--display` (visualize detections), image parameters `--width` and `--height`, videe `--source` (0 for camera) etc. - detect_single_threaded.py : Same as above, but single threaded. This script works for video files by setting the video source parameter videe `--source` (path to a video file).   ```cmd   # load and run detection on video at path \"videos/chess.mov\"   python detect_single_threaded.py --source videos/chess.mov ```  > Update: If you do have errors loading the frozen inference graph in this repo, feel free to generate a new graph that fits your TF version from the model-checkpoint in this repo. Use the [export_inference_graph.py](https://github.com/tensorflow/models/blob/master/research/object_detection/export_inference_graph.py) script provided in the tensorflow object detection api repo. More guidance on this [here](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/).  ## Thoughts on Optimization. A few things that led to noticeable performance increases.  - Threading: Turns out that reading images from a webcam is a heavy I/O event and if run on the main application thread can slow down the program. I implemented some good ideas from [Adrian Rosebuck](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/) on parrallelizing image capture across multiple worker threads. This mostly led to an FPS increase of about 5 points. - For those new to Opencv, images from the `cv2.read()` method return images in [BGR format](https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/). Ensure you convert to RGB before detection (accuracy will be much reduced if you dont). ```python cv2.cvtColor(image_np, cv2.COLOR_BGR2RGB) ``` - Keeping your input image small will increase fps without any significant accuracy drop.(I used about 320 x 240 compared to the 1280 x 720 which my webcam provides).  - Model Quantization. Moving from the current 32 bit to 8 bit can achieve up to 4x reduction in memory required to load and store models. One way to further speed up this model is to explore the use of [8-bit fixed point quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd).  Performance can also be increased by a clever combination of tracking algorithms with the already decent detection and this is something I am still experimenting with. Have ideas for optimizing better, please share!  <img src=\"images/general.jpg\" width=\"100%\"> Note: The detector does reflect some limitations associated with the training set. This includes non-egocentric viewpoints, very noisy backgrounds (e.g in a sea of hands) and sometimes skin tone.  There is opportunity to improve these with additional data.   ## Integrating Multiple DNNs.  One way to make things more interesting is to integrate our new knowledge of where \"hands\" are with other detectors trained to recognize other objects. Unfortunately, while our hand detector can in fact detect hands, it cannot detect other objects (a factor or how it is trained). To create a detector that classifies multiple different objects would mean a long involved process of assembling datasets for each class and a lengthy training process.    > Given the above, a potential strategy is to explore structures that allow us **efficiently** interleave output form multiple pretrained models for various object classes and have them detect multiple objects on a single image.    An example of this is with my primary use case where I am interested in understanding the position of objects on a table with respect to hands on same table. I am currently doing some work on a threaded application that loads multiple detectors and outputs bounding boxes on a single image. More on this soon.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -19486,7 +19485,7 @@
         "createdAt": "2018-05-25T16:47:23Z",
         "nameWithOwner": "mrturck/aframe-joystick",
         "stargazerCount": 20,
-        "description": "An aframe component for \"wasd\"-like motion on mobile",
+        "description": "An aframe component for \"wasd\"-like motion on phone",
         "repositoryTopics_list": [
             "augmented-reality",
             "aframe-component",
@@ -19518,7 +19517,7 @@
         "createdAt": "2020-04-28T16:25:24Z",
         "nameWithOwner": "ms-iot/ros_msft_mrtk",
         "stargazerCount": 10,
-        "description": "This repository contains ROS2 bindings for the Mixed Reality Toolkit - allowing you to create VR and AR applications which reflect sensor data from a Robot or provide command and control",
+        "description": "mrtk This repository contains ROS2 bindings for the Mixed Reality Toolkit - allowing you to create VR and AR applications which reflect sensor data from a Robot or provide command and control",
         "repositoryTopics_list": [
             "ros",
             "mrtk-ros-application",
@@ -19592,7 +19591,7 @@
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "mobile",
+            "phone",
             "ios"
         ],
         "primaryLanguage": "Swift",
@@ -19992,7 +19991,6 @@
             "augmented-reality",
             "augmented-reality-applications",
             "react",
-            "reactjs",
             "javascript"
         ],
         "primaryLanguage": "JavaScript",
@@ -20063,7 +20061,7 @@
         "createdAt": "2019-02-07T06:26:15Z",
         "nameWithOwner": "nishants906/AR-ML",
         "stargazerCount": 10,
-        "description": "Augmented Reality application that gets enhanced by Machine learning.",
+        "description": "ml Augmented Reality application that gets enhanced by Machine learning.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -20081,7 +20079,6 @@
             "augmented-reality",
             "augmented-reality-applications",
             "react",
-            "react-ar",
             "web",
             "three-js",
             "graphics",
@@ -20215,7 +20212,7 @@
         "createdAt": "2018-01-22T12:41:20Z",
         "nameWithOwner": "nordprojects/lantern",
         "stargazerCount": 409,
-        "description": "Transform any surface into mixed-reality using Raspberry Pi, a laser projector, and Android Things.",
+        "description": "Transform any surface into mixed-reality using Raspberry Pi, a laser projection , and Android Things.",
         "repositoryTopics_list": [
             "android-things",
             "kotlin",
@@ -20405,7 +20402,7 @@
             "augmented-reality",
             "arcore",
             "android",
-            "mobile"
+            "phone"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -20457,7 +20454,7 @@
         "stargazerCount": 726,
         "description": "🎰 A curated list of machine learning resources, preferably CoreML",
         "repositoryTopics_list": [
-            "core-ml",
+            "ml",
             "machine",
             "learning",
             "model",
@@ -20659,7 +20656,7 @@
         "repositoryTopics_list": [
             "unity",
             "augmented-reality",
-            "mobile",
+            "phone",
             "csharp"
         ],
         "primaryLanguage": "C++",
@@ -20781,7 +20778,7 @@
         "createdAt": "2019-07-20T05:19:35Z",
         "nameWithOwner": "pearsonkyle/Data-VisualizAR",
         "stargazerCount": 297,
-        "description": "Visualize data or 3D models (.obj) in augmented reality through the web with Google Poly, AR.js, flask.py (Mobile compatible)",
+        "description": "Visualize data or 3D models (.obj) in augmented reality through the web with Google-Poly , AR.js, flask.py ( phone compatible)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -20925,7 +20922,7 @@
         "createdAt": "2018-05-01T20:56:27Z",
         "nameWithOwner": "piemonte/Poly",
         "stargazerCount": 77,
-        "description": "🦕 Unofficial Google Poly SDK in Swift – search, discover, and download 3D models and scenes",
+        "description": "🦕 Unofficial google-poly SDK in Swift – search, discover, and download 3D models and scenes",
         "repositoryTopics_list": [
             "poly",
             "google",
@@ -20982,7 +20979,7 @@
         "createdAt": "2016-04-10T03:47:53Z",
         "nameWithOwner": "pirahansiah/opencv",
         "stargazerCount": 11,
-        "description": "OpenCV 3 , Visual C++ 2015 , win 64x , computer vision, image processing, webcam,video,motion,frame,edge,vector  image processing with opencv 3 & c++  Find Faces , Modify Videos and Photos Automatically , Identify, Count & Measure , Realtime Augmented Reality Technology, An introduction to Image Processing, Tutorial Real-Time Object Tracking Using OpenCV, Face Features Detection System, Fast Object Tracking in C++ using OpenCV, How to install OpenCV and Create Sample Project in Visual Studio, Camera calibration With OpenCV, Chessboard or asymmetrical circle pattern, Installing OpenCV 3.2.0 with Visual Studio 2015 and configuring OpenCV project, OpenCv Stereo Vision, Machine Learning,Getting Started with Neural Network,Pattern Recognition and Application,Computer Vision Real-time Pattern Recognition using C++,Deep Neural Networks for Speech and Image Processing,Introduction to Segmentation,Deep Learning,Computer Vision & Machine Learning, Pattern Recognition, Camera Calibration, Optical Flow, Humanoid Robot, Image Processing, iOS developer, Augmented Reality, C++, Java, Matlab,   keywords: digital image processing, OpenCV C++ Computer program tutorial, augmented virtual reality (augmented reality), deep machine learning, computer vision with C++ Programming Language, JSON, machine vision, opencv stereo camera calibration, optical flow,  video analysis, Image Processing (IP) [OpenCV], Intelligent Systems, Deep Learning, Artificial Intelligence (AI)  www.tiziran.com پردازش تصویر , روبوتیک , برنامه نویسی موبایل",
+        "description": "OpenCV 3 , Visual C++ 2015 , win 64x , computer vision, image processing, webcam,video,motion,frame,edge,vector  image processing with opencv 3 & c++  Find Faces , Modify Videos and Photos Automatically , Identify, Count & Measure , Realtime Augmented Reality Technology, An introduction to Image Processing, Tutorial Real-Time Object Tracking Using OpenCV , Face Features Detection System, Fast Object Tracking in C++ using OpenCV, How to install OpenCV and Create Sample Project in Visual Studio, Camera calibration With OpenCV, Chessboard or asymmetrical circle pattern, Installing OpenCV 3.2.0 with Visual Studio 2015 and configuring OpenCV project, OpenCv Stereo Vision, Machine Learning,Getting Started with Neural Network,Pattern Recognition and Application,Computer Vision Real-time Pattern Recognition using C++,Deep Neural Networks for Speech and Image Processing,Introduction to Segmentation,Deep Learning,Computer Vision & Machine Learning, Pattern Recognition, Camera Calibration, Optical Flow, Humanoid Robot, Image Processing, iOS developer, Augmented Reality, C++, Java, Matlab,   keywords: digital image processing, OpenCV C++ Computer program tutorial, augmented virtual reality (augmented reality), deep machine learning, computer vision with C++ Programming Language, JSON, machine vision, opencv stereo camera calibration, optical flow,  video analysis, Image Processing (IP) [OpenCV], Intelligent Systems, Deep Learning, Artificial Intelligence (AI)  www.tiziran.com پردازش تصویر , روبوتیک , برنامه نویسی موبایل",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -21229,7 +21226,7 @@
             "ios",
             "objective-c",
             "iphone",
-            "mobile"
+            "phone"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -21372,7 +21369,7 @@
         "createdAt": "2017-12-22T13:11:31Z",
         "nameWithOwner": "prashant-andani/AR-Alphabets",
         "stargazerCount": 102,
-        "description": "Augmented Reality on Web (Web AR) for Kids to learn Alphabets with fun. AR on all Mobile Devices",
+        "description": "Augmented Reality on Web (Web AR) for Kids to learn Alphabets with fun. AR on all phone Devices",
         "repositoryTopics_list": [
             "augmented-reality",
             "aframe",
@@ -21657,7 +21654,7 @@
         "createdAt": "2018-12-12T13:58:37Z",
         "nameWithOwner": "rajandeepsingh13/6DOF-Mobile-VR-Using-GVR-and-ARCore",
         "stargazerCount": 4,
-        "description": "vr Complete head and movement tracking achieved in Google Cardboard using ARCore",
+        "description": "phone vr Complete head and movement tracking achieved in Google Cardboard using ARCore",
         "repositoryTopics_list": [
             "augmented-reality",
             "virtual-reality",
@@ -22008,7 +22005,7 @@
         "createdAt": "2018-01-18T13:50:03Z",
         "nameWithOwner": "rishshah/Photo-realistic-rendering-in-AR-",
         "stargazerCount": 6,
-        "description": "Photorealistic rendering in Augmented Reality",
+        "description": "qt Photorealistic rendering in Augmented Reality",
         "repositoryTopics_list": [
             "augmented-reality-applications",
             "slam",
@@ -22062,7 +22059,7 @@
             "hackathon",
             "augmented-reality",
             "ionic",
-            "mobile-app",
+            "phone",
             "jsartoolkit"
         ],
         "primaryLanguage": "JavaScript",
@@ -22247,7 +22244,7 @@
         "createdAt": "2020-02-12T19:03:47Z",
         "nameWithOwner": "rocketseat-content/youtube-challenge-arkit",
         "stargazerCount": 9,
-        "description": "Augmented Reality (AR) with React Native for ARKit (iOS)",
+        "description": "Augmented Reality (AR) with React-Native for ARKit (iOS)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -22314,7 +22311,7 @@
         "createdAt": "2019-05-09T07:47:13Z",
         "nameWithOwner": "rohangupta/ar-authentication",
         "stargazerCount": 3,
-        "description": "Android App for Augmented Reality Pattern Lock Authentication. Developed using C#, Unity and OpenCV.",
+        "description": "Android App for Augmented Reality Pattern Lock Authentication. Developed using C#, Unity and OpenCV .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -22686,7 +22683,7 @@
         "createdAt": "2019-10-22T21:12:02Z",
         "nameWithOwner": "salememd/AR-Engine",
         "stargazerCount": 3,
-        "description": "Resources Sharing Platform Using Augmented Reality",
+        "description": "slam Resources Sharing Platform Using Augmented Reality",
         "repositoryTopics_list": [
             "opencv",
             "augmented-reality",
@@ -22705,7 +22702,7 @@
         "createdAt": "2017-01-11T07:45:08Z",
         "nameWithOwner": "salman-bhai/NotesNearby",
         "stargazerCount": 4,
-        "description": "Augmented Reality App built both for Android which allows users to navigate a particular area using the phone's camera and assisted by Google Maps..",
+        "description": "Augmented Reality App built both for Android which allows users to navigate a particular area using the phone 's camera and assisted by Google Maps..",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -22986,7 +22983,7 @@
         "createdAt": "2019-07-21T03:47:50Z",
         "nameWithOwner": "serhanio/UnityARFoundationGooglePolyViewer",
         "stargazerCount": 12,
-        "description": "An augmented reality viewer for 3d models published on Google's Poly platform. The project is built in Unity C# using the ARFoundation packages. It includes a custom ui to query searches through the google poly api. The project is compatible on both iOS as well as Android devices that support ARKit and ARCore respectively. Google Poly is a platform for digital artists to publish their artworks primarily created in either Tiltbrush or Blocks. This app aims to provide a suitable foundation to view these artworks in AR, and build new features on top.",
+        "description": "An augmented reality viewer for 3d models published on google-poly  platform. The project is built in Unity C# using the ARFoundation packages. It includes a custom ui to query searches through the google-poly api. The project is compatible on both iOS as well as Android devices that support ARKit and ARCore respectively. Google Poly is a platform for digital artists to publish their artworks primarily created in either Tiltbrush or Blocks. This app aims to provide a suitable foundation to view these artworks in AR, and build new features on top.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -23220,7 +23217,7 @@
         "createdAt": "2019-04-17T08:36:42Z",
         "nameWithOwner": "simform-solutions/IoTAR",
         "stargazerCount": 6,
-        "description": "This repository contains demos built on Augmented reality using OpenCV, Unity3d with Vuforia with deep learning.",
+        "description": "This repository contains demos built on Augmented reality using OpenCV , Unity3d with Vuforia with deep learning.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -23539,7 +23536,7 @@
         "stargazerCount": 3,
         "description": "AR Museum App on iOS with ARKit and Image Recognition",
         "repositoryTopics_list": [
-            "mobileapp",
+            "phone",
             "ios",
             "swift",
             "arkit",
@@ -23742,7 +23739,7 @@
             "augmented-reality",
             "vuforia",
             "vuforia",
-            "opengles"
+            "opengl"
         ],
         "primaryLanguage": "Java",
         "languages_list": [
@@ -24042,7 +24039,7 @@
         "createdAt": "2019-04-03T05:28:20Z",
         "nameWithOwner": "syalanurag1991/ProcamCalibration",
         "stargazerCount": 4,
-        "description": "A method to calibrate camera (kinect) and projector for creating augmented reality environments",
+        "description": "A method to calibrate camera (kinect) and projection for creating augmented reality environments",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -24119,7 +24116,7 @@
         "createdAt": "2017-09-27T16:14:36Z",
         "nameWithOwner": "team-copper/captAR",
         "stargazerCount": 24,
-        "description": "Augmented Reality Geolocation Capture-the-Flag Mobile Game Capstone Project",
+        "description": "Augmented Reality Geolocation Capture-the-Flag phone Game Capstone Project",
         "repositoryTopics_list": [
             "augmented-reality",
             "react-native",
@@ -24129,10 +24126,9 @@
             "ios",
             "android",
             "capture-the-flag",
-            "mobile-game",
-            "mobile-app",
+            "phone",
+            "phone",
             "geolocation",
-            "react-native-maps",
             "geolib",
             "xcode",
             "android-studio"
@@ -24240,7 +24236,7 @@
         "description": "Simple augmented reality demo using OpenCV",
         "repositoryTopics_list": [
             "augmented-reality",
-            "opencv-python",
+            "opencv",
             "image-processing",
             "object-detection",
             "object-tracking"
@@ -24269,7 +24265,7 @@
         "createdAt": "2018-12-07T21:01:58Z",
         "nameWithOwner": "thejdss/workshop-mobile",
         "stargazerCount": 3,
-        "description": "A mobile game using augmented reality - Workshop/PUC Minas",
+        "description": "A phone game using augmented reality - Workshop/PUC Minas",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -24458,7 +24454,7 @@
         "createdAt": "2020-07-22T15:29:58Z",
         "nameWithOwner": "torynfarr/hololens",
         "stargazerCount": 7,
-        "description": "This repository contains various sample Unity projects designed for the HoloLens 2 spatial computing device.",
+        "description": "mrtk This repository contains various sample Unity projects designed for the HoloLens 2 spatial computing device.",
         "repositoryTopics_list": [
             "hololens",
             "hololens2",
@@ -24630,7 +24626,7 @@
         "createdAt": "2017-12-05T21:26:52Z",
         "nameWithOwner": "tuarua/AR-ANE",
         "stargazerCount": 35,
-        "description": "ARKit Adobe Air Native Extension for iOS11",
+        "description": "nativescript ARKit Adobe Air nativescript Extension for iOS11",
         "repositoryTopics_list": [
             "arkit",
             "swift",
@@ -24781,7 +24777,7 @@
         "createdAt": "2017-04-07T10:45:16Z",
         "nameWithOwner": "upm-space/geo-video-projection",
         "stargazerCount": 3,
-        "description": "Work in progress for a Web App that will enable augmented reality elements on RPAS video broadcasts.",
+        "description": "projection Work in progress for a Web App that will enable augmented reality elements on RPAS video broadcasts.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -24852,7 +24848,7 @@
         "createdAt": "2020-09-16T09:14:28Z",
         "nameWithOwner": "uzunb/AR-Tank-Visualizer",
         "stargazerCount": 3,
-        "description": "Augmented reality project with a tank object that can scale, translate and act. The mobile application was made in Unity with Vuforia, a Unity extension. Contain tank visualizer and moves by finger gestures.",
+        "description": "Augmented reality project with a tank object that can scale, translate and act. The phone application was made in Unity with Vuforia, a Unity extension. Contain tank visualizer and moves by finger gestures.",
         "repositoryTopics_list": [
             "vuforia",
             "unity",
@@ -24982,10 +24978,10 @@
         "createdAt": "2018-02-18T00:14:26Z",
         "nameWithOwner": "vbaicu/react-native-arcore",
         "stargazerCount": 34,
-        "description": "React native bindings for Android ArCore as UI Component with support for model rendering and manipulation",
+        "description": "React-native bindings for Android ArCore as UI Component with support for model rendering and manipulation",
         "repositoryTopics_list": [
             "react-native",
-            "reactjs",
+            "react",
             "android",
             "arcore",
             "arcore-android",
@@ -25009,7 +25005,7 @@
         "createdAt": "2020-07-20T11:54:33Z",
         "nameWithOwner": "vevenom/ScanNet-Layout",
         "stargazerCount": 18,
-        "description": "We introduce the ScanNet -Layout dataset for benchmarking general 3D room layout estimation from single view. ",
+        "description": "projection We introduce the ScanNet -Layout dataset for benchmarking general 3D room layout estimation from single view. ",
         "repositoryTopics_list": [
             "3d-vision",
             "room-layout",
@@ -25146,7 +25142,7 @@
             "cardboard",
             "oculus",
             "react",
-            "mobile-vr",
+            "phone",
             "vr",
             "viromedia",
             "viro",
@@ -25190,7 +25186,7 @@
             "augmented-reality",
             "virtual-reality",
             "arcore",
-            "mobile-vr",
+            "phone",
             "scene-graph",
             "3d-engine",
             "3d-models",
@@ -25337,7 +25333,7 @@
         "createdAt": "2017-06-21T02:21:49Z",
         "nameWithOwner": "wadetgong/Saga",
         "stargazerCount": 3,
-        "description": "Saga is a mobile app that lets users team up and compete in local scavenger hunts comprised of challenging riddles, augmented reality games, and geolocation puzzles. It's like Escape Room, but for the outdoors!",
+        "description": "Saga is a phone app that lets users team up and compete in local scavenger hunts comprised of challenging riddles, augmented reality games, and geolocation puzzles. It's like Escape Room, but for the outdoors!",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -25788,7 +25784,7 @@
         "createdAt": "2018-03-26T03:22:13Z",
         "nameWithOwner": "wilmol/Mixed-Reality-Piano-Tutor",
         "stargazerCount": 6,
-        "description": "vive A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
+        "description": "oculus vive A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
         "repositoryTopics_list": [
             "mixed-reality",
             "zed-mini",
@@ -25915,7 +25911,7 @@
         "description": "HoloLens plugin for ARCOR system - https://github.com/robofit/arcor",
         "repositoryTopics_list": [
             "artable",
-            "microsoft-hololens",
+            "hololens",
             "augmented-reality",
             "mixed-reality",
             "human-robot-interaction",
@@ -25937,7 +25933,7 @@
         "description": "🤳 Augmented Reality iOS Application using Ionic 2",
         "repositoryTopics_list": [
             "ios",
-            "mobile",
+            "phone",
             "app",
             "augmented-reality",
             "ar",
@@ -26261,7 +26257,7 @@
         "createdAt": "2020-03-28T18:59:20Z",
         "nameWithOwner": "ziyi-zhu/optical-bouncer",
         "stargazerCount": 3,
-        "description": "A simple augmented reality game made with Matter.js and OpenCV.",
+        "description": "A simple augmented reality game made with Matter.js and OpenCV .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
