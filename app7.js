@@ -1,6 +1,6 @@
 var fs = require('fs');
-var AR = require('./Element.json');
-var result = 'Tags_file_25.json';
+var AR = require('./ElementALR.json');
+var result = 'Tags_file_Final.json';
 var output = [];
 
 var possible = require('./RepoTopics.json');
@@ -42,7 +42,7 @@ for (var i = 0; i < AR.length; i++) {
         });
     }
     Tags = uniq(tags);
-    
+    relatedTopics_list = "null";
     if(stargazerCount>=3){
         //output.push({ Tags, createdAt, nameWithOwner, description});
         output.push({ Tags, createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list });
