@@ -515,7 +515,7 @@
         "createdAt": "2019-08-21T14:51:31Z",
         "nameWithOwner": "AgrMayank/AidXR",
         "stargazerCount": 3,
-        "description": "Saving lives through XR!! ",
+        "description": "xrtk Saving lives through XR!! ",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -1111,9 +1111,7 @@
             "wp8",
             "windows-phone",
             "personal-project",
-            "windows-10",
-            "windows-10-mobile",
-            "windows-10-xbox",
+            "windows",
             "xbox-one",
             "hololens",
             "mixed-reality",
@@ -1425,7 +1423,7 @@
         "createdAt": "2017-03-05T15:54:59Z",
         "nameWithOwner": "CMDann/hololens-starter",
         "stargazerCount": 6,
-        "description": "A starter project for working with the Microsoft Hololens. You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
+        "description": "xrtk A starter project for working with the Microsoft Hololens. You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
         "repositoryTopics_list": [
             "hololense",
             "hologram",
@@ -2019,7 +2017,7 @@
         "createdAt": "2020-02-15T00:05:34Z",
         "nameWithOwner": "De-Panther/unity-webxr-export",
         "stargazerCount": 216,
-        "description": "Develop and export WebXR experiences using Unity WebGL",
+        "description": "xrtk Develop and export WebXR experiences using Unity WebGL",
         "repositoryTopics_list": [
             "webxr",
             "unity",
@@ -2410,7 +2408,7 @@
         "createdAt": "2017-10-18T09:15:57Z",
         "nameWithOwner": "EgorBo/UrhoArkitTemplate",
         "stargazerCount": 5,
-        "description": "Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
+        "description": "xamarin Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -3260,7 +3258,7 @@
         "createdAt": "2020-08-17T14:39:36Z",
         "nameWithOwner": "Holo-Light-GmbH/StylusToolKit-Unity",
         "stargazerCount": 3,
-        "description": "Official Stylus ToolKit for Unity by Holo-Light. Makers of the Stylus XR.",
+        "description": "xrtk Official Stylus ToolKit for Unity by Holo-Light. Makers of the Stylus XR.",
         "repositoryTopics_list": [
             "mixed-reality",
             "augementedreality",
@@ -3447,7 +3445,7 @@
         "createdAt": "2019-12-18T22:48:25Z",
         "nameWithOwner": "ILLIXR/ILLIXR",
         "stargazerCount": 41,
-        "description": "ILLIXR: Illinois Extended Reality Testbed",
+        "description": "xrtk ILLIXR: Illinois Extended Reality Testbed",
         "repositoryTopics_list": [
             "vr",
             "ar",
@@ -3976,7 +3974,7 @@
         "createdAt": "2020-05-21T18:07:30Z",
         "nameWithOwner": "KhronosGroup/OpenXR-CTS",
         "stargazerCount": 24,
-        "description": "Conformance test suite for OpenXR",
+        "description": "xrtk Conformance test suite for OpenXR",
         "repositoryTopics_list": [
             "openxr",
             "openxr-cts",
@@ -4029,7 +4027,7 @@
         "createdAt": "2019-03-08T12:59:06Z",
         "nameWithOwner": "KhronosGroup/OpenXR-SDK-Source",
         "stargazerCount": 256,
-        "description": "Sources for OpenXR loader, basic API layers, and example code.",
+        "description": "xrtk Sources for OpenXR loader, basic API layers, and example code.",
         "repositoryTopics_list": [
             "openxr",
             "openxr-loader",
@@ -4261,7 +4259,7 @@
         "createdAt": "2017-07-22T11:34:06Z",
         "nameWithOwner": "LocalJoost/SlippyMapDemo",
         "stargazerCount": 7,
-        "description": "Shows how to make a geographical map on the floor in your HoloLens/Windows Mixed Reality app",
+        "description": "Shows how to make a geographical map on the floor in your HoloLens/ Windows Mixed Reality app",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -4813,7 +4811,7 @@
         "createdAt": "2019-01-02T18:34:09Z",
         "nameWithOwner": "MoonMotionProject/MoonMotion",
         "stargazerCount": 34,
-        "description": "Moon Motion Toolkit - Free and open source toolkit for VR locomotion",
+        "description": "windows Moon Motion Toolkit - Free and open source toolkit for VR locomotion",
         "repositoryTopics_list": [
             "moon-motion",
             "vr-locomotion",
@@ -5168,7 +5166,7 @@
         "createdAt": "2019-02-11T04:34:09Z",
         "nameWithOwner": "NotionTheory/awesome-xr",
         "stargazerCount": 8,
-        "description": "👓 A collection of awesome XR tools, libraries, frameworks, and software.",
+        "description": "xrtk A collection of awesome XR tools, libraries, frameworks, and software.",
         "repositoryTopics_list": [
             "virtual-reality",
             "augmented-reality",
@@ -5774,7 +5772,7 @@
         "createdAt": "2020-02-04T06:48:22Z",
         "nameWithOwner": "RGB-Schemes/Unity-Modern-XR-Sample",
         "stargazerCount": 11,
-        "description": "An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
+        "description": "xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -6486,7 +6484,7 @@
         "createdAt": "2019-08-24T15:49:36Z",
         "nameWithOwner": "Smi1e-man/ARrobot",
         "stargazerCount": 3,
-        "description": "Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR",
+        "description": "xrtk Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -6620,7 +6618,7 @@
         "createdAt": "2020-09-01T15:39:07Z",
         "nameWithOwner": "StephenHodgson/Native-Unity-API",
         "stargazerCount": 3,
-        "description": "C++ Headers for Unity Native Plugins",
+        "description": "xrtk C++ Headers for Unity Native Plugins",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -6800,7 +6798,7 @@
         "createdAt": "2019-02-25T07:20:15Z",
         "nameWithOwner": "TIBCOSoftware/Augmented-Reality",
         "stargazerCount": 10,
-        "description": "TIBCO LABS™ Project ART",
+        "description": "xrtk TIBCO LABS™ Project ART",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -7654,7 +7652,7 @@
         "createdAt": "2020-01-27T12:27:41Z",
         "nameWithOwner": "WaveEngine/MixedRealityToolkit-WaveEngine",
         "stargazerCount": 25,
-        "description": "WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
+        "description": "xrtk WaveEngine.MRTK provides a set of components and features to accelerate cross-platform XR application development in Wave Engine.",
         "repositoryTopics_list": [
             "waveengine",
             "mixedrealitytoolkit-waveengine",
@@ -7802,7 +7800,7 @@
         "createdAt": "2019-01-06T21:37:13Z",
         "nameWithOwner": "XRTK/XRTK-Core",
         "stargazerCount": 235,
-        "description": "The Official Mixed Reality Framework for Unity",
+        "description": "xrtk The Official Mixed Reality Framework for Unity",
         "repositoryTopics_list": [
             "mixed-reality",
             "ar",
@@ -7901,7 +7899,7 @@
         "createdAt": "2020-05-25T06:56:08Z",
         "nameWithOwner": "Yonet/30DaysOfUnrealEngine",
         "stargazerCount": 15,
-        "description": "30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
+        "description": "xrtk windows 30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
         "repositoryTopics_list": [
             "unrealengine",
             "mixedreality",
@@ -7951,7 +7949,7 @@
         "createdAt": "2019-06-01T00:47:01Z",
         "nameWithOwner": "Yonet/MixedRealityResources",
         "stargazerCount": 148,
-        "description": "Mixed Reality related resources",
+        "description": "windows Mixed Reality related resources",
         "repositoryTopics_list": [
             "mixed-reality",
             "webxr",
@@ -9529,7 +9527,7 @@
             "java",
             "android",
             "ios",
-            "windows-10",
+            "windows",
             "macos",
             "visual-studio",
             "xcode",
@@ -12102,7 +12100,7 @@
             "gpgpu",
             "oculus-rift",
             "realsense-camera",
-            "zed-camera"
+            "zed-mini"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -12309,7 +12307,7 @@
         "createdAt": "2019-04-21T18:56:27Z",
         "nameWithOwner": "dilmerv/MagicLeapTemplate",
         "stargazerCount": 7,
-        "description": "Basic template project which includes Magic Leap Unity Package, XR Legacy Input Helpers, and a sample scene with camera and head pose canvas",
+        "description": "xrtk Basic template project which includes Magic Leap Unity Package, XR Legacy Input Helpers, and a sample scene with camera and head pose canvas",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -13787,7 +13785,7 @@
         "createdAt": "2020-11-17T20:43:22Z",
         "nameWithOwner": "gizemdal/remote-rendering",
         "stargazerCount": 7,
-        "description": "Remote real-time GPU ray tracing powered by NVIDIA OptiX 7.2.0 for XR Platforms",
+        "description": "xrtk Remote real-time GPU ray tracing powered by NVIDIA OptiX 7.2.0 for XR Platforms",
         "repositoryTopics_list": [
             "nvidia-optix",
             "mixed-reality",
@@ -14990,7 +14988,7 @@
         "createdAt": "2019-06-07T04:54:53Z",
         "nameWithOwner": "immersal/arcloud-sdk-samples",
         "stargazerCount": 54,
-        "description": "Immersal AR Cloud SDK Samples",
+        "description": "xrtk Immersal AR Cloud SDK Samples",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmented-reality-applications",
@@ -15033,7 +15031,7 @@
         "createdAt": "2019-08-15T22:01:08Z",
         "nameWithOwner": "immersive-web/ar-common",
         "stargazerCount": 9,
-        "description": "A repo for discussing and capturing information about cross-API aspects of augmented reality ",
+        "description": "xrtk A repo for discussing and capturing information about cross-API aspects of augmented reality ",
         "repositoryTopics_list": [
             "webxr",
             "augmented-reality",
@@ -15175,7 +15173,7 @@
         "createdAt": "2018-03-21T23:52:46Z",
         "nameWithOwner": "immersive-web/webxr-polyfill",
         "stargazerCount": 265,
-        "description": "Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
+        "description": "xrtk Use the WebXR Device API today, providing fallbacks to native WebVR 1.1 and Cardboard",
         "repositoryTopics_list": [
             "webxr",
             "webvr",
@@ -15776,7 +15774,7 @@
         "createdAt": "2019-03-29T16:31:01Z",
         "nameWithOwner": "jhu-dvrk/dvrk-xr",
         "stargazerCount": 10,
-        "description": "Mixed reality extension to dVRK framework, built on top of Unity",
+        "description": "xrtk Mixed reality extension to dVRK framework, built on top of Unity",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -17847,7 +17845,7 @@
         "createdAt": "2019-10-11T10:21:45Z",
         "nameWithOwner": "marlon360/xr-graph",
         "stargazerCount": 80,
-        "description": "📈🥽 View mathematical function graphs in Virtual Reality and Augmented Reality.",
+        "description": "xrtk View mathematical function graphs in Virtual Reality and Augmented Reality.",
         "repositoryTopics_list": [
             "webxr",
             "vr",
@@ -19250,7 +19248,7 @@
         "createdAt": "2018-01-31T17:06:38Z",
         "nameWithOwner": "microsoft/spatial-computing",
         "stargazerCount": 66,
-        "description": "Samples showing how to use Azure and AI services in Mixed Reality projects",
+        "description": "windows Samples showing how to use Azure and AI services in Mixed Reality projects",
         "repositoryTopics_list": [
             "windows-mixed-reality",
             "azure",
@@ -19838,7 +19836,7 @@
         "createdAt": "2020-05-30T20:48:56Z",
         "nameWithOwner": "needle-tools/ar-simulation",
         "stargazerCount": 42,
-        "description": "AR Simulation for Unity • Right in the Editor • Minimally Invasive",
+        "description": "xrtk AR Simulation for Unity • Right in the Editor • Minimally Invasive",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity3d",
@@ -20724,7 +20722,7 @@
         "createdAt": "2020-06-09T07:02:22Z",
         "nameWithOwner": "pamruta/WebAR",
         "stargazerCount": 3,
-        "description": "Augmented Reality Experiments using WebXR, WebVR, AR.JS",
+        "description": "Augmented Reality Experiments using WebXR , WebVR , AR.JS",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -20768,7 +20766,7 @@
         "createdAt": "2017-12-15T11:08:40Z",
         "nameWithOwner": "pbreuss/wikitude-ionic-3-starter-app",
         "stargazerCount": 23,
-        "description": "This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
+        "description": "Wikitude This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TypeScript",
         "languages_list": [
@@ -22376,7 +22374,7 @@
         "createdAt": "2017-11-08T19:39:46Z",
         "nameWithOwner": "ronellsicat/DxR",
         "stargazerCount": 144,
-        "description": "DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR) or XR for short.",
+        "description": "xrtk DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR) or XR for short.",
         "repositoryTopics_list": [
             "immersive",
             "visualization",
@@ -23779,7 +23777,7 @@
         "description": "Stereolabs ZED - UE4 Examples",
         "repositoryTopics_list": [
             "unreal-engine-4",
-            "zed-camera",
+            "zed-mini",
             "mixed-reality"
         ],
         "primaryLanguage": "C++",
@@ -23798,7 +23796,7 @@
         "description": "Stereolabs ZED - UE4 Plugin",
         "repositoryTopics_list": [
             "unreal-engine-4",
-            "zed-camera",
+            "zed-mini",
             "mixed-reality",
             "ue4-plugin"
         ],
@@ -24842,7 +24840,7 @@
         "createdAt": "2019-03-16T07:30:37Z",
         "nameWithOwner": "usamamuneeb/hololens-webvr-holographic-object-detection",
         "stargazerCount": 4,
-        "description": "Detection of real-life objects and holographic labelling using Microsoft Hololens.",
+        "description": "webvr Detection of real-life objects and holographic labelling using Microsoft Hololens.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -25293,7 +25291,7 @@
         "description": "Media Playback plugin for Unity on Windows 10",
         "repositoryTopics_list": [
             "media-playback",
-            "windows-10",
+            "windows",
             "unity",
             "unity3d-plugin",
             "uwp",
@@ -25531,7 +25529,7 @@
         "createdAt": "2019-03-27T23:54:51Z",
         "nameWithOwner": "walidabazo/Unity-3D-AR-to-get-drug-information",
         "stargazerCount": 8,
-        "description": "Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
+        "description": "xrtk Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
         "repositoryTopics_list": [
             "augmentedreality",
             "augmented-reality",
@@ -25798,7 +25796,7 @@
         "description": "A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
         "repositoryTopics_list": [
             "mixed-reality",
-            "zed-camera",
+            "zed-mini",
             "zed-mini",
             "htc-vive",
             "oculus-rift",
@@ -26125,7 +26123,7 @@
         "createdAt": "2020-05-09T09:52:23Z",
         "nameWithOwner": "yitzikc/mre-alarm-timer",
         "stargazerCount": 3,
-        "description": "A countdown timer for display in VR / XR using Microsoft's Virtual Reality extensions",
+        "description": "xrtk A countdown timer for display in VR / XR using Microsoft's Virtual Reality extensions",
         "repositoryTopics_list": [
             "virtual-reality",
             "3d",
