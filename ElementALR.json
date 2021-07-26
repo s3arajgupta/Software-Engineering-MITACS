@@ -100,7 +100,7 @@
             "webar",
             "ar",
             "aframe",
-            "threejs",
+            "three-js",
             "hacktoberfest",
             "hacktoberfest2020"
         ],
@@ -127,7 +127,7 @@
             "ar",
             "augmented-reality",
             "aframe",
-            "threejs",
+            "three-js",
             "authoring",
             "webar",
             "hacktoberfest",
@@ -170,7 +170,7 @@
         "description": "Argo | Mobile AR Game for iOS",
         "repositoryTopics_list": [
             "augmented-reality",
-            "viro",
+            "viromedia",
             "react-native",
             "redux",
             "react-navigation",
@@ -340,7 +340,7 @@
         "createdAt": "2019-01-09T18:48:04Z",
         "nameWithOwner": "Aayush005/ARravel",
         "stargazerCount": 3,
-        "description": "AN AR+VR travel app that converts 2 image intoa 3D model of mixed reality (AR+VR)",
+        "description": "AN AR+ VR travel app that converts 2 image intoa 3D model of mixed reality (AR+VR)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -856,7 +856,7 @@
             "android-augmented-reality",
             "augmented-reality",
             "augmentedreality",
-            "unity3d-games",
+            "unity3d",
             "unity",
             "unity-game",
             "unity-android",
@@ -884,7 +884,7 @@
             "copresence",
             "mixed-reality",
             "virtual-reality",
-            "social-vr",
+            "vr",
             "realsense"
         ],
         "primaryLanguage": "C#",
@@ -1100,10 +1100,10 @@
         "createdAt": "2016-01-22T08:30:20Z",
         "nameWithOwner": "AzureKitsune/Crystal",
         "stargazerCount": 12,
-        "description": "My secret sauce: A UWP Application development framework. Batteries required!",
+        "description": "My secret sauce: A windows Application development framework. Batteries required!",
         "repositoryTopics_list": [
             "crystal",
-            "uwp",
+            "windows",
             "mvvm",
             "viewmodel",
             "framework",
@@ -1137,7 +1137,7 @@
             "digital-object-architecture",
             "viromedia",
             "virocore",
-            "viro-react"
+            "viromedia"
         ],
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -1288,7 +1288,7 @@
         "createdAt": "2019-12-11T23:30:16Z",
         "nameWithOwner": "BerwinZ/Multiplayer_AR_Robots_Battle",
         "stargazerCount": 3,
-        "description": "Multiplayer AR Robots Battle is the game where you could operate robots to fight with others in different modes, including PVE, PVP, and AR PVP. Within AR PVP mode, you and your friends could bring your robots into real world, and fight in any scenes! This repo supports both Android and iOS systems. The AR scene sharing is based on Microsoft Azure Spatial Anchors service.",
+        "description": "spatial Multiplayer AR Robots Battle is the game where you could operate robots to fight with others in different modes, including PVE, PVP, and AR PVP. Within AR PVP mode, you and your friends could bring your robots into real world, and fight in any scenes! This repo supports both Android and iOS systems. The AR scene sharing is based on Microsoft Azure Spatial Anchors service.",
         "repositoryTopics_list": [
             "augmented-reality",
             "azure-spatial-anchors",
@@ -1331,7 +1331,7 @@
         "stargazerCount": 4,
         "description": "Hackathon AR Project",
         "repositoryTopics_list": [
-            "unity3d-games",
+            "unity3d",
             "arcore-unity",
             "game-development",
             "augmented-reality",
@@ -1352,7 +1352,7 @@
         "stargazerCount": 5,
         "description": "MTIT Assignment III",
         "repositoryTopics_list": [
-            "unity3d-games",
+            "unity3d",
             "unity",
             "wikitude",
             "augmented-reality",
@@ -1430,7 +1430,7 @@
             "augmentedreality",
             "ar",
             "vr",
-            "virtualreality",
+            "vr",
             "unity",
             "hololens",
             "holotoolkit",
@@ -1573,7 +1573,7 @@
         "stargazerCount": 4,
         "description": "3D realtime design drawing, modification and presentation using augmented reality technology on the Unity platform.",
         "repositoryTopics_list": [
-            "unity-platform",
+            "unity",
             "drawing",
             "augmented-reality",
             "arkit"
@@ -1623,7 +1623,7 @@
         "createdAt": "2017-05-03T21:37:58Z",
         "nameWithOwner": "CityScope/CS_CityScopeAR",
         "stargazerCount": 4,
-        "description": "AR/MR application for CityScope Platform using CityIO Server [Unity3d/ARCore/ARkit/Tango/Vuforia]",
+        "description": "tango vuforia AR/MR application for CityScope Platform using CityIO Server [Unity3d/ARCore/ARkit/Tango/Vuforia]",
         "repositoryTopics_list": [
             "simulation",
             "urban-planning",
@@ -1790,7 +1790,7 @@
         "createdAt": "2018-07-03T09:24:43Z",
         "nameWithOwner": "CrazyGame/Mixed-Reality-for-Unreal-Engine-4.19",
         "stargazerCount": 4,
-        "description": "Mixed Reality for UnrealEngine 4.19",
+        "description": "unreal Mixed Reality for unreal 4.19",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -2279,11 +2279,11 @@
         "createdAt": "2017-04-25T09:05:21Z",
         "nameWithOwner": "DynaSpan/MixedRealityNetworking",
         "stargazerCount": 27,
-        "description": "UDP networking library for Unity in combination with UWP and/or Hololens",
+        "description": "UDP networking library for Unity in combination with windows and/or Hololens",
         "repositoryTopics_list": [
             "unity",
             "hololens",
-            "uwp",
+            "windows",
             "holotoolkit",
             "net",
             "networking",
@@ -2408,7 +2408,7 @@
         "createdAt": "2017-10-18T09:15:57Z",
         "nameWithOwner": "EgorBo/UrhoArkitTemplate",
         "stargazerCount": 5,
-        "description": "xamarin Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
+        "description": "urhosharp xamarin Demo for https://blog.xamarin.com/bring-3d-models-life-augmented-reality-urhosharp/",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -2713,7 +2713,7 @@
         "createdAt": "2017-05-18T16:46:27Z",
         "nameWithOwner": "FIU-SCIS-Senior-Projects/WEB-VR-Towards-Virtual-and-Augmented-Reality-for-the-WEB-1.0",
         "stargazerCount": 3,
-        "description": "WEB-VR: Towards Virtual and Augmented Reality for the WEB 1.0",
+        "description": "WEBVR : Towards Virtual and Augmented Reality for the WEB 1.0",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -3103,7 +3103,7 @@
         "createdAt": "2019-05-11T21:50:52Z",
         "nameWithOwner": "GreggNicholas/AR-You-Learning",
         "stargazerCount": 7,
-        "description": "A spelling app that uses Augmented Reality(Sceneform) to make a child's everyday scene into an immersive spelling playground.",
+        "description": "A spelling app that uses Augmented Reality( Sceneform ) to make a child's everyday scene into an immersive spelling playground.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -3149,7 +3149,7 @@
         "createdAt": "2018-06-21T07:54:20Z",
         "nameWithOwner": "HackyRoot/A-Frame-Examples",
         "stargazerCount": 9,
-        "description": "AR/VR projects created using Mozilla's A-Frame framework",
+        "description": "AR/ VR projects created using Mozilla's A-Frame framework",
         "repositoryTopics_list": [
             "augmented-reality",
             "virtual-reality",
@@ -3281,7 +3281,7 @@
         "repositoryTopics_list": [
             "holo-light",
             "unity",
-            "toolkit-unity",
+            "unity",
             "toolkit",
             "unity-asset",
             "unity3d",
@@ -3543,7 +3543,7 @@
             "csharp",
             "augmented-reality",
             "hololens",
-            "ros2"
+            "ros"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -3674,7 +3674,7 @@
             "artoolkit",
             "artoolkitx",
             "webxr",
-            "threejs",
+            "three-js",
             "marker"
         ],
         "primaryLanguage": "TypeScript",
@@ -4246,7 +4246,7 @@
         "createdAt": "2016-03-16T09:39:53Z",
         "nameWithOwner": "LightBuzz/Kinect-Basketball-Spinner",
         "stargazerCount": 9,
-        "description": "Basketball Spinner using Kinect v2 and Unity3D. Augmented Reality App.",
+        "description": "Basketball Spinner using Kinect v2 and Unity3D . Augmented Reality App.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -4412,7 +4412,7 @@
         "createdAt": "2016-11-14T13:48:00Z",
         "nameWithOwner": "MTASZTAKI/ApertusVR",
         "stargazerCount": 116,
-        "description": "Virtual Reality Software Library",
+        "description": "vive Virtual Reality Software Library",
         "repositoryTopics_list": [
             "virtual-reality",
             "augmented-reality",
@@ -4421,7 +4421,7 @@
             "industry",
             "research",
             "cave",
-            "gear-vr",
+            "vr",
             "htc-vive",
             "epson-moverio",
             "medical",
@@ -4489,7 +4489,7 @@
         "createdAt": "2018-11-29T23:06:38Z",
         "nameWithOwner": "MaheshNandam/AugmentedRealityTalk",
         "stargazerCount": 6,
-        "description": "Viro React AR topics - Text, Place Selector, Portal, Partial Emitter, Image Recognition.",
+        "description": "viromedia Viro React AR topics - Text, Place Selector, Portal, Partial Emitter, Image Recognition.",
         "repositoryTopics_list": [
             "viro-react",
             "react-native",
@@ -4898,7 +4898,7 @@
         "createdAt": "2017-07-22T03:23:47Z",
         "nameWithOwner": "MozillaReality/vr-mozilla-org",
         "stargazerCount": 8,
-        "description": "Source for Mozilla Mixed Reality static site",
+        "description": "vr Source for Mozilla Mixed Reality static site",
         "repositoryTopics_list": "null",
         "primaryLanguage": "CSS",
         "languages_list": [
@@ -5212,7 +5212,7 @@
         "createdAt": "2018-04-05T10:19:52Z",
         "nameWithOwner": "Only1Ryu/RedSamurai-Unity3D",
         "stargazerCount": 5,
-        "description": "Walking Red Samurai - Augmented Reality using Unity 3D and Vuforia  RedSamurai Unity3D Dowaload all the rar parts and extract in single folder and get the Project Folder of RedSamurai Downlaod the Unty 3D ,Vuforia Packages https://unity3d.com/get-unity/download https://developer.vuforia.com/  create account in Vuforia Developers https://developer.vuforia.com/",
+        "description": "Unity3D Walking Red Samurai - Augmented Reality using Unity 3D and Vuforia  RedSamurai Unity3D Dowaload all the rar parts and extract in single folder and get the Project Folder of RedSamurai Downlaod the Unty 3D , Vuforia Packages https://unity3d.com/get-unity/download https://developer.vuforia.com/  create account in Vuforia Developers https://developer.vuforia.com/",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -5772,7 +5772,7 @@
         "createdAt": "2020-02-04T06:48:22Z",
         "nameWithOwner": "RGB-Schemes/Unity-Modern-XR-Sample",
         "stargazerCount": 11,
-        "description": "xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
+        "description": "vive xrtk windows An example of how to setup a virtual reality project using Unity's modern XR systems! A full tutorial on how this was made can be found at our website!",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -5805,8 +5805,7 @@
             "sandbox",
             "augmented-reality-applications",
             "pathfinding",
-            "realsense2",
-            "realsense-unity-wrapper"
+            "realsense"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -6102,7 +6101,7 @@
         "createdAt": "2020-10-25T19:31:46Z",
         "nameWithOwner": "RobbieConceptuel/spark-ar-tutorial-audio-visualizer",
         "stargazerCount": 9,
-        "description": "This is a tutorial on the software Spark AR Studio with the file.",
+        "description": "sparkar This is a tutorial on the software sparkar AR Studio with the file.",
         "repositoryTopics_list": [
             "augmented-reality",
             "augmentedreality",
@@ -6132,7 +6131,7 @@
         "createdAt": "2016-10-14T06:09:48Z",
         "nameWithOwner": "Rogersyp/CS_Capstone_VR-AR_In_Our_Pocket",
         "stargazerCount": 6,
-        "description": "Optimizing Virtual Reality (VR) and Augmented Reality (AR) performance on Mobile Web",
+        "description": "Optimizing Virtual Reality vr and Augmented Reality (AR) performance on Mobile Web",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TeX",
         "languages_list": [
@@ -6151,9 +6150,9 @@
         "stargazerCount": 13,
         "description": "This tutorial was created for 2020 Facebook Developer Circles Community Challenge",
         "repositoryTopics_list": [
-            "spark-ar-studio",
+            "sparkar",
             "3d-collision",
-            "spark-ar",
+            "sparkar",
             "instagram",
             "augmented-reality"
         ],
@@ -6179,7 +6178,7 @@
         "createdAt": "2019-12-09T06:41:45Z",
         "nameWithOwner": "RoyceThomasIype/AugmentedRealityIndoorNavigation",
         "stargazerCount": 27,
-        "description": "AR app for indoor navigation using ARcore and Sceneform.",
+        "description": "AR app for indoor navigation using ARcore and Sceneform .",
         "repositoryTopics_list": [
             "augmented-reality",
             "android",
@@ -6187,7 +6186,7 @@
             "indoor-navigation",
             "indoor-positioning",
             "indoor-localisation",
-            "sceneform-sdk",
+            "sceneform",
             "google-arcore",
             "google-ar-sdk",
             "google-ar"
@@ -6235,7 +6234,7 @@
         "createdAt": "2018-02-22T20:37:17Z",
         "nameWithOwner": "RussellXie7/HoloBearTour",
         "stargazerCount": 3,
-        "description": "A research study for information visualization in mixed reality. Exploring embedded visualization, speculative design, implicit interaction, eco-feedback in smart home design, etc. Here we are including the mixed reality version of the application for HoloLens on the UWP platform and the application for the iOS platform using ARkit.",
+        "description": "windows A research study for information visualization in mixed reality. Exploring embedded visualization, speculative design, implicit interaction, eco-feedback in smart home design, etc. Here we are including the mixed reality version of the application for HoloLens on the windows platform and the application for the iOS platform using ARkit.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -6362,7 +6361,7 @@
         "createdAt": "2018-03-17T22:33:49Z",
         "nameWithOwner": "Sensorycc/YUXI-Mixed-Reality-Hardware-Toolkit",
         "stargazerCount": 20,
-        "description": "YUXI: The Mixed Reality Hardware Toolkit makes it easier to get started bridging the physical and digital using sensors and actuators to create interactions with VR/AR/MR content.",
+        "description": "YUXI: The Mixed Reality Hardware Toolkit makes it easier to get started bridging the physical and digital using sensors and actuators to create interactions with vr /AR/MR content.",
         "repositoryTopics_list": [
             "mr",
             "vr",
@@ -6469,7 +6468,7 @@
             "augmented-reality-applications",
             "unity3d",
             "unity3d-plugin",
-            "unity3d-games",
+            "unity3d",
             "csharp-script"
         ],
         "primaryLanguage": "C#",
@@ -6484,7 +6483,7 @@
         "createdAt": "2019-08-24T15:49:36Z",
         "nameWithOwner": "Smi1e-man/ARrobot",
         "stargazerCount": 3,
-        "description": "xrtk Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR, MR",
+        "description": "xrtk Unity3D | AR | Vuforia | AR App | Unity course: Introduction to XR: AR, VR , MR",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -6576,7 +6575,7 @@
         "description": "Augmented Reality iOS App implemented in ARKit and Swift, feature in placing wolf on a grass, taking snapshot, drawing lines in 3d space.",
         "repositoryTopics_list": [
             "swift",
-            "swift-3",
+            "swift",
             "arkit",
             "scenekit",
             "ios",
@@ -6868,7 +6867,6 @@
             "augmented-reality-applications",
             "augmented-interactions",
             "robotics",
-            "robotics-algorithms",
             "human-robot-interaction",
             "human-robot-collaboration"
         ],
@@ -7189,7 +7187,7 @@
         "createdAt": "2017-12-14T23:09:40Z",
         "nameWithOwner": "Twinklebear/zed-vive-mr",
         "stargazerCount": 3,
-        "description": "A mixed reality test and manual calibration app for the ZED using OpenVR",
+        "description": "vive A mixed reality test and manual calibration app for the ZED using OpenVR",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -7369,7 +7367,7 @@
         "createdAt": "2018-03-15T07:45:19Z",
         "nameWithOwner": "VR-House/Eazy-ARCore-Interface",
         "stargazerCount": 23,
-        "description": "Eazy ARCore Interface is a Unity3D plugin which makes development and debugging of ARCore projects easier. Specifically, it simulates how ARCore works in an Android device inside of Unity3D editor. Thus, it allows for faster development of ARCore apps, without the need to build and deploy to the device in order to test fuctionality",
+        "description": "vr Eazy ARCore Interface is a Unity3D plugin which makes development and debugging of ARCore projects easier. Specifically, it simulates how ARCore works in an Android device inside of Unity3D editor. Thus, it allows for faster development of ARCore apps, without the need to build and deploy to the device in order to test fuctionality",
         "repositoryTopics_list": [
             "unity",
             "arcore",
@@ -7466,7 +7464,7 @@
         "createdAt": "2019-11-03T06:14:32Z",
         "nameWithOwner": "VikasPandey121/Augmented-Reality-Filters",
         "stargazerCount": 9,
-        "description": "You will get some awesome AR/VR Scripts what I have made using Spark AR Studio",
+        "description": "You will get some awesome AR/ VR Scripts what I have made using sparkar AR Studio",
         "repositoryTopics_list": [
             "awesome",
             "augmented-reality",
@@ -7481,11 +7479,11 @@
         "createdAt": "2020-12-19T01:27:34Z",
         "nameWithOwner": "ViroCommunity/virocommunity.github.io",
         "stargazerCount": 4,
-        "description": "Viro Community Home Page 🕸",
+        "description": "viromedia Community Home Page 🕸",
         "repositoryTopics_list": [
             "augmented-reality",
             "react-native",
-            "viro-community"
+            "viromedia"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -7592,7 +7590,7 @@
             "unity3d",
             "augmented-reality",
             "unity3d-plugin",
-            "uwp"
+            "windows"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -7657,7 +7655,7 @@
             "waveengine",
             "mixedrealitytoolkit-waveengine",
             "mixedrealitytoolkit",
-            "waveengine-mrtk",
+            "waveengine",
             "holotoolkit",
             "mixed-reality",
             "hololens",
@@ -7725,7 +7723,7 @@
             "computer-vision",
             "volumetric-video",
             "webvr",
-            "threejs",
+            "three-js",
             "agones",
             "capacitor",
             "capacitor-plugin"
@@ -7753,7 +7751,7 @@
         "createdAt": "2019-03-28T17:36:05Z",
         "nameWithOwner": "XRTK/Lumin",
         "stargazerCount": 4,
-        "description": "The Lumin platform components for the XRTK",
+        "description": "spatial The Lumin platform components for the XRTK",
         "repositoryTopics_list": [
             "magicleap",
             "magic-leap",
@@ -7782,7 +7780,7 @@
             "xrtk",
             "windows-universal",
             "toolkit",
-            "uwp",
+            "windows",
             "hololens",
             "hololens2",
             "upm",
@@ -7818,7 +7816,7 @@
             "unity-package-manager",
             "unity3d",
             "unity-asset",
-            "spatial-computing",
+            "spatial",
             "platform-agnostic"
         ],
         "primaryLanguage": "C#",
@@ -7901,7 +7899,7 @@
         "stargazerCount": 15,
         "description": "xrtk windows 30 days of Unreal Engine Development journey of 2 HoloLens Developers.",
         "repositoryTopics_list": [
-            "unrealengine",
+            "unreal",
             "mixedreality",
             "hololens",
             "mixed-reality",
@@ -7938,7 +7936,7 @@
             "augmented-reality",
             "virtual-reality",
             "augmented-reality-applications",
-            "virtual-reality-experiences"
+            "vr"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -7994,7 +7992,7 @@
         "createdAt": "2018-04-28T00:28:33Z",
         "nameWithOwner": "Yonet/WebVRExamples",
         "stargazerCount": 19,
-        "description": "null",
+        "description": "spatial",
         "repositoryTopics_list": [
             "webvr",
             "virtual-reality",
@@ -8024,7 +8022,7 @@
         "repositoryTopics_list": [
             "angular",
             "augmented-reality",
-            "threejs",
+            "three-js",
             "webgl"
         ],
         "primaryLanguage": "JavaScript",
@@ -8125,7 +8123,7 @@
         "description": "Create a model of your playspace/home using WebXR",
         "repositoryTopics_list": [
             "webxr",
-            "threejs",
+            "three-js",
             "mixed-reality",
             "webaverse"
         ],
@@ -8224,7 +8222,7 @@
         "createdAt": "2018-10-17T14:49:14Z",
         "nameWithOwner": "abhey-sujith/Heat-Exchanger-in-Augmented-Reality",
         "stargazerCount": 3,
-        "description": "A small working of heat exchanger is made in AR using Unity,Vuforia and Blender ",
+        "description": "A small working of heat exchanger is made in AR using Unity, Vuforia and Blender ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -8239,7 +8237,7 @@
         "createdAt": "2016-01-22T23:24:56Z",
         "nameWithOwner": "abhisuri97/leARn",
         "stargazerCount": 7,
-        "description": "Collaborative, Augmented Reality with Google Cardboard and Vuforia (PennApps XIII Grand Prize VR/AR & Top 10)",
+        "description": "Collaborative, Augmented Reality with Google Cardboard and Vuforia (PennApps XIII Grand Prize VR /AR & Top 10)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -8294,7 +8292,7 @@
             "mixed-reality",
             "framework",
             "webarchive-discovery",
-            "windows-uwp",
+            "windows",
             "windows-mixed-reality",
             "microsoft",
             "acer",
@@ -8410,7 +8408,7 @@
         "repositoryTopics_list": [
             "ios",
             "swift",
-            "swift4",
+            "swift",
             "arkit",
             "augmented-reality",
             "measure",
@@ -8463,7 +8461,7 @@
         "createdAt": "2020-01-16T16:16:14Z",
         "nameWithOwner": "adityakumaar/Agile-Methodologies-Project-AR-VR-PaaS",
         "stargazerCount": 4,
-        "description": "This project is based on latest and emerging technologies like Augmented Reality and Virtual Reality. We are developing a Platform as a Service for users who want to create their own Augmented Reality and Virtual Reality content.",
+        "description": "vr This project is based on latest and emerging technologies like Augmented Reality and Virtual Reality. We are developing a Platform as a Service for users who want to create their own Augmented Reality and Virtual Reality content.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -8474,7 +8472,7 @@
         "createdAt": "2018-07-20T18:33:42Z",
         "nameWithOwner": "adityamudgil2505/AR_Ruler",
         "stargazerCount": 3,
-        "description": "AR_Ruler is a powerful Augmented Reality application which can measure any distance between two given points in all the three axis separately. It can measure distance between any two point in cm, inch, m, foot. This is made in Unity with Vuforia.",
+        "description": "AR_Ruler is a powerful Augmented Reality application which can measure any distance between two given points in all the three axis separately. It can measure distance between any two point in cm, inch, m, foot. This is made in Unity with Vuforia .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -8581,7 +8579,7 @@
         "stargazerCount": 255,
         "description": "Augmented reality for Unreal Engine 4",
         "repositoryTopics_list": [
-            "unreal-engine",
+            "unreal",
             "camera-calibration",
             "augmented-reality",
             "fiducial-markers",
@@ -8707,7 +8705,7 @@
         "createdAt": "2020-05-26T08:51:02Z",
         "nameWithOwner": "airar-dev/Unity-AR-ColorMapping",
         "stargazerCount": 31,
-        "description": "Unity AR Colormapping for easyar,vuforia,maxstar, arkit, arcore",
+        "description": "Unity AR Colormapping for easyar, vuforia ,maxstar, arkit, arcore",
         "repositoryTopics_list": [
             "unity3d",
             "augmented-reality",
@@ -8725,7 +8723,7 @@
         "createdAt": "2017-12-29T18:54:29Z",
         "nameWithOwner": "akeller/Unity-AI-AR",
         "stargazerCount": 8,
-        "description": "Code for a corresponding Medium tutorial for an AI AR iOS App",
+        "description": "unity Code for a corresponding Medium tutorial for an AI AR iOS App",
         "repositoryTopics_list": [
             "augmented-reality",
             "ai",
@@ -8781,7 +8779,7 @@
             "jenga",
             "game-development",
             "unity3d",
-            "unity-3d",
+            "unity3d",
             "unity"
         ],
         "primaryLanguage": "C#",
@@ -8835,7 +8833,7 @@
         "createdAt": "2020-03-08T00:11:06Z",
         "nameWithOwner": "alexandramj92/Zoe-Web-App-For-Teachers",
         "stargazerCount": 3,
-        "description": "Web application to be used alongside Virtual Reality application, Zoe, which aims to provide educators around the world the necessary tools, knowledge and support to integrate Virtual and Augmented Reality Creation into their curriculum. The web application allows teachers to create projects and assign students to those projects. The project will generate a unique code for students to log into the VR Application so that they can easily login to their project and collaborate with their fellow students. The Zoe app was created by Apelab, a Los Angeles and Geneva based software company democratising content creation & education technology using 3D/AR/VR. ",
+        "description": "Web application to be used alongside Virtual Reality application, Zoe, which aims to provide educators around the world the necessary tools, knowledge and support to integrate Virtual and Augmented Reality Creation into their curriculum. The web application allows teachers to create projects and assign students to those projects. The project will generate a unique code for students to log into the VR Application so that they can easily login to their project and collaborate with their fellow students. The Zoe app was created by Apelab, a Los Angeles and Geneva based software company democratising content creation & education technology using 3D/AR/ VR . ",
         "repositoryTopics_list": [
             "javascript",
             "react",
@@ -9058,7 +9056,7 @@
         "createdAt": "2019-06-12T10:05:27Z",
         "nameWithOwner": "anoushkrit/Knowledge",
         "stargazerCount": 7,
-        "description": "Contains information links, articles, research papers, tweets, blog posts, companies etc and everything which is even minutely related to the field of Artificial Intelligence, Distributed Computing, Quantum Computing and Physics, Evolutionary Biology, Crypto-currency, Virual and Augmented Reality etc.",
+        "description": "rust Contains information links, articles, research papers, tweets, blog posts, companies etc and everything which is even minutely related to the field of Artificial Intelligence, Distributed Computing, Quantum Computing and Physics, Evolutionary Biology, Crypto-currency, Virual and Augmented Reality etc.",
         "repositoryTopics_list": [
             "machine-learning",
             "computer-vision",
@@ -9417,7 +9415,7 @@
         "repositoryTopics_list": [
             "unity",
             "unity3d",
-            "unity3d-games",
+            "unity3d",
             "vuforia",
             "augmented-reality",
             "augmented-game",
@@ -9443,7 +9441,7 @@
         "stargazerCount": 42,
         "description": "Resources for Spark AR",
         "repositoryTopics_list": [
-            "spark",
+            "sparkar",
             "augmented-reality",
             "instagram-filters",
             "sparkar"
@@ -9457,7 +9455,7 @@
         "createdAt": "2020-05-21T20:37:38Z",
         "nameWithOwner": "armdz/SparkAR_FJ",
         "stargazerCount": 11,
-        "description": "VJs at Spark AR Filters",
+        "description": "VJs at sparkar AR Filters",
         "repositoryTopics_list": [
             "instagram-filter",
             "videojockeys",
@@ -9587,7 +9585,7 @@
         "createdAt": "2017-08-12T19:19:50Z",
         "nameWithOwner": "arymangupta/Virtual-Assistant-AR-VR-Unity3D-",
         "stargazerCount": 4,
-        "description": "Virtual assistant in augmented reality",
+        "description": "Unity3D vr Virtual assistant in augmented reality",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -9744,7 +9742,7 @@
         "createdAt": "2017-09-15T05:06:22Z",
         "nameWithOwner": "ashislaha/Route-Direction-in-AR",
         "stargazerCount": 30,
-        "description": "Adding the Feature \"Real World Path Direction\" by tapping on Map. GoogleMap will give us the direction to that location from user location then click on \"ARView\" & you will get the real-world path direction.  Also added \"Reachability\" for finding path in Google map.  -- Also added .mlmodel for car-detection. Initially trained the model using Convolutional Neural Network in TensorFlow, then convert the .h5 output into .mlmodel. Use it in the application. please check : https://github.com/ashislaha/CarDetection-Keras & https://github.com/ashislaha/CarDetection-iOS for more details how to train a model.  -- In ARFrame generates capturedImage which is the input to .mlmodel for detecting that car is present in the image or not.  -- This project combines both ARKit & CoreML.",
+        "description": "Adding the Feature \"Real World Path Direction\" by tapping on Map. GoogleMap will give us the direction to that location from user location then click on \"ARView\" & you will get the real-world path direction.  Also added \"Reachability\" for finding path in Google map.  -- Also added .mlmodel for car-detection. Initially trained the model using Convolutional Neural Network in TensorFlow , then convert the .h5 output into .mlmodel. Use it in the application. please check : https://github.com/ashislaha/CarDetection-Keras & https://github.com/ashislaha/CarDetection-iOS for more details how to train a model.  -- In ARFrame generates capturedImage which is the input to .mlmodel for detecting that car is present in the image or not.  -- This project combines both ARKit & CoreML.",
         "repositoryTopics_list": [
             "augmented-reality",
             "coreml",
@@ -9815,10 +9813,10 @@
         "createdAt": "2019-06-07T08:52:08Z",
         "nameWithOwner": "ashleymarkfletcher/procedural-ar",
         "stargazerCount": 31,
-        "description": "Using simplex noise to procedurally generate a map in Spark AR",
+        "description": "Using simplex noise to procedurally generate a map in sparkar AR",
         "repositoryTopics_list": [
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "augmented-reality",
             "webpack",
             "procedural"
@@ -9834,11 +9832,11 @@
         "createdAt": "2019-05-16T11:24:05Z",
         "nameWithOwner": "ashleymarkfletcher/spark-ar-boilerplate",
         "stargazerCount": 49,
-        "description": "A boilerplate Spark AR project with Webpack",
+        "description": "A boilerplate sparkar AR project with Webpack",
         "repositoryTopics_list": [
             "sparkar",
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "spark",
             "augmented-reality",
             "webpack"
@@ -9854,10 +9852,10 @@
         "createdAt": "2019-07-03T14:45:18Z",
         "nameWithOwner": "ashleymarkfletcher/spark-ar-bowling",
         "stargazerCount": 36,
-        "description": "A bowling simulation in Spark AR with Cannon.js",
+        "description": "A bowling simulation in sparkar AR with Cannon.js",
         "repositoryTopics_list": [
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "physics",
             "cannonjs",
             "cannon-js",
@@ -9875,10 +9873,10 @@
         "createdAt": "2019-07-03T14:44:34Z",
         "nameWithOwner": "ashleymarkfletcher/spark-ar-physics",
         "stargazerCount": 27,
-        "description": "A helper module for connecting Spark AR with physics libraries",
+        "description": "A helper module for connecting sparkar AR with physics libraries",
         "repositoryTopics_list": [
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "physics",
             "cannonjs",
             "cannon-js",
@@ -9898,7 +9896,7 @@
         "createdAt": "2016-01-26T00:12:18Z",
         "nameWithOwner": "ashomk/beerpong",
         "stargazerCount": 3,
-        "description": "A two player game targeting the augmented reality platform, Google Tango.",
+        "description": "A two player game targeting the augmented reality platform, Google Tango .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -10290,7 +10288,7 @@
         "createdAt": "2017-08-16T11:34:52Z",
         "nameWithOwner": "bjarnel/arkit-smb-homage",
         "stargazerCount": 246,
-        "description": "An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit.",
+        "description": "An implementation of a Super Mario Bros-like game in augmented reality with ARKit and SceneKit .",
         "repositoryTopics_list": [
             "arkit",
             "scenekit",
@@ -10674,7 +10672,7 @@
         "stargazerCount": 7,
         "description": "사용자가 코치의 도움없이 여러 훈련을 개인적으로 할 수 있도록 도와주는 축구 어플리케이션입니다.  It is a soccer-practice-application that helps the user to do various training personally without the help of a coach.",
         "repositoryTopics_list": [
-            "tensorflow-lite",
+            "tensorflow",
             "opencv",
             "sql-db",
             "aws-rds",
@@ -10826,7 +10824,7 @@
             "augmented-reality",
             "android-studio",
             "android",
-            "sceneform-sdk",
+            "sceneform",
             "bookreader"
         ],
         "primaryLanguage": "Java",
@@ -10924,7 +10922,7 @@
         "description": "Pac-Man prototype in WebXR using Three.js",
         "repositoryTopics_list": [
             "webxr",
-            "threejs",
+            "three-js",
             "webar",
             "augmented-reality",
             "mixed-reality",
@@ -11256,7 +11254,7 @@
         "createdAt": "2016-09-12T10:05:00Z",
         "nameWithOwner": "cocomr/coco",
         "stargazerCount": 6,
-        "description": "Compact Components is a framework for the development of resource intensive applications with a focus on Mixed Reality applications and Robotics. This repository provides the core technology over which CoCo Mixed Reality is based",
+        "description": "Compact Components is a framework for the development of resource intensive applications with a focus on Mixed Reality applications and Robotics . This repository provides the core technology over which CoCo Mixed Reality is based",
         "repositoryTopics_list": [
             "mixed-reality",
             "virtual-reality",
@@ -11303,7 +11301,7 @@
             "nasa",
             "planet",
             "space",
-            "threejs",
+            "three-js",
             "virtual-reality",
             "webvr"
         ],
@@ -11498,7 +11496,7 @@
             "hololens2",
             "mixedreality",
             "augmentedreality",
-            "virtualreality",
+            "vr",
             "ar"
         ],
         "primaryLanguage": "C#",
@@ -11851,7 +11849,7 @@
             "javascript-framework",
             "hololens",
             "hololens-applications",
-            "threejs",
+            "three-js",
             "webpack"
         ],
         "primaryLanguage": "JavaScript",
@@ -11966,7 +11964,7 @@
         "createdAt": "2016-10-24T03:18:21Z",
         "nameWithOwner": "degica/UnrealEngine4-MixedReality",
         "stargazerCount": 45,
-        "description": "null",
+        "description": "unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -12081,7 +12079,7 @@
             "augmented-reality",
             "arkit",
             "scenekit",
-            "swift-playgrounds",
+            "swift",
             "playgroundbook"
         ],
         "primaryLanguage": "null",
@@ -12099,7 +12097,7 @@
             "cuda",
             "gpgpu",
             "oculus-rift",
-            "realsense-camera",
+            "realsense",
             "zed-mini"
         ],
         "primaryLanguage": "C++",
@@ -12651,7 +12649,7 @@
         "createdAt": "2016-12-14T20:19:50Z",
         "nameWithOwner": "dwarcher/KinectMixedReality",
         "stargazerCount": 15,
-        "description": "Unity Mixed Realty project using the Kinect (for the HTC-Vive)",
+        "description": "vive Unity Mixed Realty project using the Kinect (for the HTC-Vive)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -12738,19 +12736,19 @@
         "createdAt": "2020-02-07T13:18:25Z",
         "nameWithOwner": "edoardottt/spark-ar-creators",
         "stargazerCount": 110,
-        "description": "List of 9500 (and counting) Spark AR Creators. Open an issue or contact me if you want to be added.❤️",
+        "description": "List of 9500 (and counting) sparkar AR Creators. Open an issue or contact me if you want to be added.❤️",
         "repositoryTopics_list": [
             "spark",
             "sparkar",
             "augmented-reality",
             "augmented-reality-applications",
             "ar",
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "instagram",
             "filter",
             "filters",
-            "spark-ar-creators",
+            "sparkar",
             "vr",
             "virtual-reality",
             "instagram-feed",
@@ -12825,14 +12823,13 @@
         "stargazerCount": 27,
         "description": "web Augmented reality app displays nearby restaurant information in a live camera and map view.",
         "repositoryTopics_list": [
-            "swift-3",
+            "swift",
             "augmented-reality",
             "mobile-app",
             "maps",
             "food",
             "restaurants",
             "swift",
-            "swift3",
             "restaurant",
             "restaurant-information",
             "annotations",
@@ -12895,13 +12892,13 @@
             "machine-learning",
             "augmented-reality",
             "xcode",
-            "swift4",
+            "swift",
             "summary",
             "keynote",
             "conference",
             "wwdc19",
             "wwdc2019",
-            "swiftui",
+            "swift",
             "catalyst",
             "wwdc2020",
             "wwdc"
@@ -12942,7 +12939,7 @@
         "createdAt": "2016-03-20T02:22:53Z",
         "nameWithOwner": "eseedo/AR-VRCourse",
         "stargazerCount": 311,
-        "description": "VR,AR,MR 开发入门教程",
+        "description": "vive VR,AR,MR 开发入门教程",
         "repositoryTopics_list": [
             "vr",
             "augmented-reality",
@@ -12951,7 +12948,7 @@
             "hololens",
             "htc-vive",
             "unity3d",
-            "ue4"
+            "unreal"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -13109,7 +13106,7 @@
             "augmented-reality",
             "javascript",
             "webgl",
-            "threejs",
+            "three-js",
             "babylonjs",
             "html",
             "iframe",
@@ -13217,7 +13214,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "react-native",
-            "viro-react",
+            "viromedia",
             "agile-development"
         ],
         "primaryLanguage": "JavaScript",
@@ -13243,7 +13240,7 @@
             "convolutional-neural-network",
             "projective-geometry",
             "computer-vision",
-            "stereo-matching",
+            "stereokit",
             "depth-pre",
             "augmented-reality"
         ],
@@ -13364,7 +13361,7 @@
             "augmented-reality",
             "chemistry",
             "biology",
-            "threejs",
+            "three-js",
             "arjs",
             "aframe"
         ],
@@ -13446,13 +13443,13 @@
         "stargazerCount": 11,
         "description": "O ArBC é uma aplicação web baseada nas APIs de RA (Realidade Aumentada) AR.js e A-Frame, que tem como objetivo tornar o processo de alfabetização mais interativo e engajante por meio desta tecnologia. Wiki:",
         "repositoryTopics_list": [
-            "vuejs",
+            "vue-js",
             "javascript",
             "django",
             "augmented-reality",
             "a-frame",
             "arjs",
-            "vuex",
+            "vue-js",
             "realidade-aumentada"
         ],
         "primaryLanguage": "TypeScript",
@@ -13659,12 +13656,12 @@
         "createdAt": "2018-10-24T20:45:40Z",
         "nameWithOwner": "gcorallo/SparkArShaders",
         "stargazerCount": 174,
-        "description": "Ar Studio / Ar Spark shaders.",
+        "description": "Ar Studio / Ar sparkar shaders.",
         "repositoryTopics_list": [
             "augmented-reality",
             "shaders",
             "ar-studio",
-            "spark-ar",
+            "sparkar",
             "instagram"
         ],
         "primaryLanguage": "JavaScript",
@@ -13809,7 +13806,7 @@
         "createdAt": "2018-02-10T02:16:58Z",
         "nameWithOwner": "glennglennglenn/augmented-reality",
         "stargazerCount": 57,
-        "description": "Snapchat-like augmented reality filters",
+        "description": "Snapchat -like augmented reality filters",
         "repositoryTopics_list": [
             "python",
             "computer-vision",
@@ -13831,7 +13828,7 @@
             "augmented-reality",
             "virtual-reality",
             "a-frame",
-            "threejs"
+            "three-js"
         ],
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -14096,7 +14093,7 @@
         "stargazerCount": 5,
         "description": "🖼️ Testing Viro AR and RN",
         "repositoryTopics_list": [
-            "viro",
+            "viromedia",
             "react-native",
             "react",
             "testing-viro-ar",
@@ -14137,7 +14134,7 @@
         "stargazerCount": 20,
         "description": "MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.",
         "repositoryTopics_list": [
-            "swift5",
+            "swift",
             "arkit",
             "scenekit",
             "augmented-reality",
@@ -14277,7 +14274,7 @@
         "createdAt": "2017-07-08T12:51:21Z",
         "nameWithOwner": "hanleyweng/iOS-ARKit-Headset-View",
         "stargazerCount": 122,
-        "description": "Make your ARKit experiment compatible with mobile VR/AR headsets*. A Template using SceneKit. Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.",
+        "description": "Make your ARKit experiment compatible with mobile VR /AR headsets*. A Template using SceneKit . Useful for playing with head-worn Mixed Reality, Augmented Reality, Virtual Reality with headtracking, or a mix of everything.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -14356,7 +14353,7 @@
         "createdAt": "2016-06-22T00:39:05Z",
         "nameWithOwner": "haowang1013/UE4-MixeReality",
         "stargazerCount": 13,
-        "description": "Some stuff for doing mixed reality recording in UE4",
+        "description": "Some stuff for doing mixed reality recording in unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -14402,12 +14399,12 @@
         "createdAt": "2020-03-16T13:06:10Z",
         "nameWithOwner": "harrybanda/Rabbit-Coder",
         "stargazerCount": 24,
-        "description": "Rabbit Coder is an augmented reality puzzle game based on coding, built with Spark AR Studio",
+        "description": "Rabbit Coder is an augmented reality puzzle game based on coding, built with sparkar AR Studio",
         "repositoryTopics_list": [
             "javascript",
             "augmented-reality",
-            "spark-ar",
-            "spark-ar-studio"
+            "sparkar",
+            "sparkar"
         ],
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -14602,7 +14599,7 @@
         "createdAt": "2020-05-06T12:13:30Z",
         "nameWithOwner": "hiukim/mind-ar-js",
         "stargazerCount": 92,
-        "description": "Web Augmented Reality. Natural feature tracking. Image targets. Tensorflow.js",
+        "description": "Web Augmented Reality. Natural feature tracking. Image targets. Tensorflow .js",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -14880,7 +14877,7 @@
             "augmented-reality",
             "unity3d",
             "android",
-            "unreal-engine"
+            "unreal"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -14934,7 +14931,7 @@
         "createdAt": "2020-11-11T16:15:56Z",
         "nameWithOwner": "ignaciotcrespo/hadouken-AR",
         "stargazerCount": 7,
-        "description": "Augmented reality hadoukens! WebGL + camera, hands detection with tensorflow, and fluids simulation.",
+        "description": "Augmented reality hadoukens! WebGL + camera, hands detection with tensorflow , and fluids simulation.",
         "repositoryTopics_list": [
             "javascript",
             "hand-tracking",
@@ -15236,7 +15233,7 @@
         "createdAt": "2016-05-02T09:28:09Z",
         "nameWithOwner": "inovex/tango-ar-navigation-example",
         "stargazerCount": 40,
-        "description": "Small example implementation of an augmented reality path finding navigation using Project Tango",
+        "description": "tango Small example implementation of an augmented reality path finding navigation using Project Tango",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -15275,7 +15272,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "artoolkit",
-            "threejs",
+            "three-js",
             "javascript",
             "webcam",
             "front-end",
@@ -15661,7 +15658,7 @@
             "deep-learning",
             "face-detection",
             "face-tracking",
-            "threejs",
+            "three-js",
             "faceswap",
             "library",
             "augmented-reality",
@@ -15865,7 +15862,7 @@
             "arkit",
             "skeleton-tracking",
             "websocket",
-            "unity-arfoundation",
+            "unity",
             "azure-app-service"
         ],
         "primaryLanguage": "C#",
@@ -16016,7 +16013,7 @@
         "createdAt": "2020-08-25T13:03:22Z",
         "nameWithOwner": "josedv82/augmented_reality_athlete_profile",
         "stargazerCount": 3,
-        "description": "Simple proof of concept app combining image recognition via ARkit and a swiftUI view to display athlete metrics.",
+        "description": "Simple proof of concept app combining image recognition via ARkit and a swift view to display athlete metrics.",
         "repositoryTopics_list": [
             "arkit",
             "swiftui",
@@ -16080,7 +16077,7 @@
         "createdAt": "2018-10-22T18:59:51Z",
         "nameWithOwner": "jsuarezruiz/xamarin-forms-waveengine-ar-sample",
         "stargazerCount": 8,
-        "description": "Xamarin.Forms Augmented Reality Sample",
+        "description": "waveengine Xamarin.Forms Augmented Reality Sample",
         "repositoryTopics_list": [
             "xamarin",
             "xamarin-forms",
@@ -16220,7 +16217,7 @@
         "repositoryTopics_list": [
             "ar",
             "aframe",
-            "threejs",
+            "three-js",
             "augmented-reality",
             "glitch",
             "glitch-art",
@@ -16287,7 +16284,7 @@
         "createdAt": "2017-11-15T13:53:28Z",
         "nameWithOwner": "kanawish/mixed-reality-toolbox",
         "stargazerCount": 4,
-        "description": "Series of AR/VR sample and reusable code. Includes OpenGL and IoT experiments.",
+        "description": "Series of AR/ VR sample and reusable code. Includes OpenGL and IoT experiments.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -16332,7 +16329,7 @@
         "description": "An easy to use bridge between your 3D models on desktop and 3D viewer in your mobile + View in AR.",
         "repositoryTopics_list": [
             "model-viewer",
-            "threejs",
+            "three-js",
             "webgl",
             "gltf",
             "augmented-reality",
@@ -16577,7 +16574,7 @@
         "createdAt": "2018-02-19T12:31:38Z",
         "nameWithOwner": "kliments/TitanicVR",
         "stargazerCount": 4,
-        "description": "Data visualization tool for the Titanic dataset developed in Unity3D for the course Interaction in Mixed Reality Spaces at the University of Konstanz.",
+        "description": "vive Data visualization tool for the Titanic dataset developed in Unity3D for the course Interaction in Mixed Reality Spaces at the University of Konstanz.",
         "repositoryTopics_list": [
             "data-visualization",
             "titanic-dataset",
@@ -16984,7 +16981,7 @@
             "ar",
             "arjs",
             "aframe",
-            "threejs",
+            "three-js",
             "a-frame",
             "three-js",
             "webar",
@@ -17177,7 +17174,7 @@
             "augmented-reality",
             "webxr",
             "react",
-            "threejs"
+            "three-js"
         ],
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -17331,7 +17328,7 @@
         "createdAt": "2020-01-25T00:31:36Z",
         "nameWithOwner": "magicleap/Magic-Leap-Toolkit-Unity",
         "stargazerCount": 26,
-        "description": "null",
+        "description": "unity",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -17433,7 +17430,7 @@
         "createdAt": "2019-07-09T22:54:27Z",
         "nameWithOwner": "maluoi/StereoKit",
         "stargazerCount": 224,
-        "description": "An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!",
+        "description": "stereokit An easy-to-use mixed reality library for building HoloLens and VR applications with C# and OpenXR!",
         "repositoryTopics_list": [
             "openxr",
             "vr",
@@ -17526,7 +17523,7 @@
         "createdAt": "2017-06-24T10:29:15Z",
         "nameWithOwner": "maniac-tech/Augmented-Reality",
         "stargazerCount": 4,
-        "description": "This repository consists of basic augmented reality application made using Unity and Vuforia.",
+        "description": "This repository consists of basic augmented reality application made using Unity and Vuforia .",
         "repositoryTopics_list": [
             "augmentedreality",
             "unity3d",
@@ -17668,7 +17665,7 @@
         "createdAt": "2018-03-30T19:01:26Z",
         "nameWithOwner": "mapbox/react-native-mapbox-ar",
         "stargazerCount": 212,
-        "description": "Location based augmented reality components using React Native, Viro and Mapbox",
+        "description": "Location based augmented reality components using React Native, viromedia and Mapbox",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -17740,7 +17737,7 @@
         "createdAt": "2016-07-23T18:26:02Z",
         "nameWithOwner": "marikaklee/Tolen",
         "stargazerCount": 3,
-        "description": "(AR/VR Hackathon finalists) An augmented reality online review market",
+        "description": "(AR/ VR Hackathon finalists) An augmented reality online review market",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -17853,7 +17850,7 @@
             "maths",
             "graph",
             "aframe",
-            "threejs",
+            "three-js",
             "hacktoberfest"
         ],
         "primaryLanguage": "JavaScript",
@@ -17890,7 +17887,7 @@
         "createdAt": "2019-02-13T08:07:41Z",
         "nameWithOwner": "marmelab/virothello",
         "stargazerCount": 12,
-        "description": ":dizzy: Othello Game Using Augmented Reality And Viro",
+        "description": ":dizzy: Othello Game Using Augmented Reality And viromedia",
         "repositoryTopics_list": [
             "publication",
             "hackday"
@@ -17939,10 +17936,10 @@
         "createdAt": "2020-01-16T05:44:14Z",
         "nameWithOwner": "maxdavid/spark-WhatShrek",
         "stargazerCount": 5,
-        "description": "Files for the 'What Shrek?' Spark AR filter",
+        "description": "Files for the 'What Shrek?' sparkar AR filter",
         "repositoryTopics_list": [
             "augmented-reality",
-            "spark-ar",
+            "sparkar",
             "social-media",
             "instagram",
             "facebook",
@@ -18038,7 +18035,7 @@
             "swift",
             "swiftpm",
             "augmented-reality",
-            "swiftpackage",
+            "swift",
             "arkit3"
         ],
         "primaryLanguage": "Swift",
@@ -18065,7 +18062,7 @@
             "arsession",
             "arkit",
             "arkit3",
-            "swift-package-manager",
+            "swift",
             "collaborative-session",
             "mixed-reality",
             "multiplayer"
@@ -18158,11 +18155,11 @@
             "virtual-reality",
             "swift",
             "swiftpm",
-            "ar-vr",
+            "vr",
             "mixed-reality",
             "macos",
             "ios",
-            "swift-package-manager",
+            "swift",
             "user-experience",
             "user-interface",
             "augmented-interactions",
@@ -18220,7 +18217,7 @@
             "drawing-app",
             "ar-experiments",
             "swiftpm",
-            "swift-package-manager"
+            "swift"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -18402,7 +18399,7 @@
             "mapbox",
             "mapbox-gl-js",
             "viro",
-            "viro-react",
+            "viromedia",
             "viromedia",
             "point-of-interest",
             "android",
@@ -18687,7 +18684,7 @@
             "maps-api",
             "unity3d",
             "unity3d-plugin",
-            "unity-3d",
+            "unity3d",
             "bing-maps"
         ],
         "primaryLanguage": "C#",
@@ -18722,7 +18719,7 @@
         "createdAt": "2020-09-30T21:59:39Z",
         "nameWithOwner": "microsoft/MixedReality-GraphicsTools-Unreal",
         "stargazerCount": 33,
-        "description": "Graphics tools and components for developing Mixed Reality applications in UE4.",
+        "description": "Unreal Graphics tools and components for developing Mixed Reality applications in unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -18804,7 +18801,7 @@
         "createdAt": "2020-01-20T15:40:31Z",
         "nameWithOwner": "microsoft/MixedReality-UXTools-Unreal",
         "stargazerCount": 158,
-        "description": "UX tools and components for developing Mixed Reality applications in UE4. ",
+        "description": "Unreal UX tools and components for developing Mixed Reality applications in unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -19063,7 +19060,7 @@
         "createdAt": "2020-01-29T16:13:17Z",
         "nameWithOwner": "microsoft/MixedRealityToolkit-Unreal",
         "stargazerCount": 86,
-        "description": "The Mixed Reality Toolkit for Unreal provides a set of components and features to accelerate Mixed Reality app development with Unreal.",
+        "description": "The Mixed Reality Toolkit for Unreal provides a set of components and features to accelerate Mixed Reality app development with Unreal .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -19195,7 +19192,7 @@
         "createdAt": "2018-12-14T23:30:43Z",
         "nameWithOwner": "microsoft/mixed-reality-extension-unity",
         "stargazerCount": 54,
-        "description": "The Mixed Reality Extension Unity library is an easy way for developers to add User Generated Content (UGC) capabilities to their Unity3D-based host apps ",
+        "description": "The Mixed Reality Extension Unity library is an easy way for developers to add User Generated Content (UGC) capabilities to their Unity3D -based host apps ",
         "repositoryTopics_list": [
             "vr",
             "mixed",
@@ -19216,7 +19213,7 @@
         "createdAt": "2020-10-12T14:48:05Z",
         "nameWithOwner": "microsoft/mixed-reality-robot-interaction-demo",
         "stargazerCount": 30,
-        "description": "Sample Unity application for Android and Hololens, showing how these devices can be used to interact with a (simulated or real) robot through Mixed Reality. Released as part of the IROS 2020 Tutorial on Mixed Reality and Robotics.",
+        "description": "Sample Unity application for Android and Hololens, showing how these devices can be used to interact with a (simulated or real) robot through Mixed Reality. Released as part of the IROS 2020 Tutorial on Mixed Reality and Robotics .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19248,7 +19245,7 @@
         "createdAt": "2018-01-31T17:06:38Z",
         "nameWithOwner": "microsoft/spatial-computing",
         "stargazerCount": 66,
-        "description": "windows Samples showing how to use Azure and AI services in Mixed Reality projects",
+        "description": "spatial windows Samples showing how to use Azure and AI services in Mixed Reality projects",
         "repositoryTopics_list": [
             "windows-mixed-reality",
             "azure",
@@ -19330,7 +19327,7 @@
         "createdAt": "2018-11-29T01:35:59Z",
         "nameWithOwner": "molyswu/hand_detection",
         "stargazerCount": 137,
-        "description": "using Neural Networks (SSD) on Tensorflow.  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive (and riskiest) part of the process has to do with finding or creating the right (annotated) dataset. I was interested mainly in detecting hands on a table (egocentric view point). I experimented first with the [Oxford Hands Dataset](http://www.robots.ox.ac.uk/~vgg/data/hands/) (the results were not good). I then tried the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) which was a much better fit to my requirements.  The goal of this repo/post is to demonstrate how neural networks can be applied to the (hard) problem of tracking hands (egocentric and other views). Better still, provide code that can be adapted to other uses cases.  If you use this tutorial or models in your research or project, please cite [this](#citing-this-tutorial).  Here is the detector in action.  <img src=\"images/hand1.gif\" width=\"33.3%\"><img src=\"images/hand2.gif\" width=\"33.3%\"><img src=\"images/hand3.gif\" width=\"33.3%\"> Realtime detection on video stream from a webcam .  <img src=\"images/chess1.gif\" width=\"33.3%\"><img src=\"images/chess2.gif\" width=\"33.3%\"><img src=\"images/chess3.gif\" width=\"33.3%\"> Detection on a Youtube video.  Both examples above were run on a macbook pro **CPU** (i7, 2.5GHz, 16GB). Some fps numbers are:   | FPS  | Image Size | Device| Comments| | ------------- | ------------- | ------------- | ------------- | | 21  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run without visualizing results| | 16  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) | | 11  | 640 * 480  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) |  > Note: The code in this repo is written and tested with Tensorflow `1.4.0-rc0`. Using a different version may result in [some errors](https://github.com/tensorflow/models/issues/1581). You may need to [generate your own frozen model](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/) graph using the [model checkpoints](model-checkpoint) in the repo to fit your TF version.    **Content of this document** - Motivation - Why Track/Detect hands with Neural Networks - Data preparation and network training in Tensorflow (Dataset, Import, Training) - Training the hand detection Model - Using the Detector to Detect/Track hands - Thoughts on Optimizations.  > P.S if you are using or have used the models provided here, feel free to reach out on twitter ([@vykthur](https://twitter.com/vykthur)) and share your work!  ## Motivation - Why Track/Detect hands with Neural Networks?  There are several existing approaches to tracking hands in the computer vision domain. Incidentally, many of these approaches are rule based (e.g extracting background based on texture and boundary features, distinguishing between hands and background using color histograms and HOG classifiers,) making them not very robust. For example, these algorithms might get confused if the background is unusual or in situations where sharp changes in lighting conditions cause sharp changes in skin color or the tracked object becomes occluded.(see [here for a review](https://www.cse.unr.edu/~bebis/handposerev.pdf) paper on hand pose estimation from the HCI perspective)  With sufficiently large datasets, neural networks provide opportunity to train models that perform well and address challenges of existing object tracking/detection algorithms - varied/poor lighting, noisy environments, diverse viewpoints and even occlusion. The main drawbacks to usage for real-time tracking/detection is that they can be complex, are relatively slow compared to tracking-only algorithms and it can be quite expensive to assemble a good dataset. But things are changing with advances in fast neural networks.  Furthermore, this entire area of work has been made more approachable by deep learning frameworks (such as the tensorflow object detection api) that simplify the process of training a model for custom object detection. More importantly, the advent of fast neural network models like ssd, faster r-cnn, rfcn (see [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models) ) etc make neural networks an attractive candidate for real-time detection (and tracking) applications. Hopefully, this repo demonstrates this.  > If you are not interested in the process of training the detector, you can skip straight to applying the [pretrained model I provide in detecting hands](#detecting-hands).  Training a model is a multi-stage process (assembling dataset, cleaning, splitting into training/test partitions and generating an inference graph). While I lightly touch on the details of these parts, there are a few other tutorials cover training a custom object detector using the tensorflow object detection api in more detail[ see [here](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) and [here](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9) ]. I recommend you walk through those if interested in training a custom object detector from scratch.  ## Data preparation and network training in Tensorflow (Dataset, Import, Training)  **The Egohands Dataset**  The hand detector model is built using data from the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) dataset. This dataset works well for several reasons. It contains high quality, pixel level annotations (>15000 ground truth labels) where hands are located across 4800 images. All images are captured from an egocentric view (Google glass) across 48 different environments (indoor, outdoor) and activities (playing cards, chess, jenga, solving puzzles etc).  <img src=\"images/egohandstrain.jpg\" width=\"100%\">  If you will be using the Egohands dataset, you can cite them as follows:  > Bambach, Sven, et al. \"Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions.\" Proceedings of the IEEE International Conference on Computer Vision. 2015.  The Egohands dataset (zip file with labelled data) contains 48 folders of locations where video data was collected (100 images per folder). ``` -- LOCATION_X   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder -- LOCATION_Y   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder   ```  **Converting data to Tensorflow Format**  Some initial work needs to be done to the Egohands dataset to transform it into the format (`tfrecord`) which Tensorflow needs to train a model. This repo contains `egohands_dataset_clean.py` a script that will help you generate these csv files.  - Downloads the egohands datasets - Renames all files to include their directory names to ensure each filename is unique - Splits the dataset into train (80%), test (10%) and eval (10%) folders. - Reads in `polygons.mat` for each folder, generates bounding boxes and visualizes them to ensure correctness (see image above). - Once the script is done running, you should have an images folder containing three folders - train, test and eval. Each of these folders should also contain a csv label document each - `train_labels.csv`, `test_labels.csv`  that can be used to generate `tfrecords`  Note: While the egohands dataset provides four separate labels for hands (own left, own right, other left, and other right), for my purpose, I am only interested in the general `hand` class and label all training data as `hand`. You can modify the data prep script to generate `tfrecords` that support 4 labels.  Next: convert your dataset + csv files to tfrecords. A helpful guide on this can be found [here](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/).For each folder, you should be able to generate  `train.record`, `test.record` required in the training process.   ## Training the hand detection Model  Now that the dataset has been assembled (and your tfrecords), the next task is to train a model based on this. With neural networks, it is possible to use a process called [transfer learning](https://www.tensorflow.org/tutorials/image_retraining) to shorten the amount of time needed to train the entire model. This means we can take an existing model (that has been trained well on a related domain (here image classification) and retrain its final layer(s) to detect hands for us. Sweet!. Given that neural networks sometimes have thousands or millions of parameters that can take weeks or months to train, transfer learning helps shorten training time to possibly hours. Tensorflow does offer a few models (in the tensorflow [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models)) and I chose to use the `ssd_mobilenet_v1_coco` model as my start point given it is currently (one of) the fastest models (read the SSD research [paper here](https://arxiv.org/pdf/1512.02325.pdf)). The training process can be done locally on your CPU machine which may take a while or better on a (cloud) GPU machine (which is what I did). For reference, training on my macbook pro (tensorflow compiled from source to take advantage of the mac's cpu architecture) the maximum speed I got was 5 seconds per step as opposed to the ~0.5 seconds per step I got with a GPU. For reference it would take about 12 days to run 200k steps on my mac (i7, 2.5GHz, 16GB) compared to ~5hrs on a GPU.  > **Training on your own images**: Please use the [guide provided by Harrison from pythonprogramming](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) on how to generate tfrecords given your label csv files and your images. The guide also covers how to start the training process if training locally. [see [here] (https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)]. If training in the cloud using a service like GCP, see the [guide here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_cloud.md).  As the training process progresses, the expectation is that total loss (errors) gets reduced to its possible minimum (about a value of 1 or thereabout). By observing the tensorboard graphs for total loss(see image below), it should be possible to get an idea of when the training process is complete (total loss does not decrease with further iterations/steps). I ran my training job for 200k steps (took about 5 hours) and stopped at a total Loss (errors) value of 2.575.(In retrospect, I could have stopped the training at about 50k steps and gotten a similar total loss value). With tensorflow, you can also run an evaluation concurrently that assesses your model to see how well it performs on the test data. A commonly used metric for performance is mean average precision (mAP) which is single number used to summarize the area under the precision-recall curve.  mAP is a measure of how well the model generates a bounding box that has at least a 50% overlap with the ground truth bounding box in our test dataset. For the hand detector trained here, the mAP value was **0.9686@0.5IOU**. mAP values range from 0-1, the higher the better.     <img src=\"images/accuracy.jpg\" width=\"100%\">  Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported (see the earlier referenced guides for how to do this) and saved in the `hand_inference_graph` folder. Now its time to do some interesting detection.  ## Using the Detector to Detect/Track hands   If you have not done this yet, please following the guide on installing [Tensorflow and the Tensorflow object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md). This will walk you through setting up the tensorflow framework, cloning the tensorflow github repo and a guide on    - Load the `frozen_inference_graph.pb` trained on the hands dataset as well as the corresponding label map. In this repo, this is done in the `utils/detector_utils.py` script by the `load_inference_graph` method.   ```python   detection_graph = tf.Graph()     with detection_graph.as_default():         od_graph_def = tf.GraphDef()         with tf.gfile.GFile(PATH_TO_CKPT, 'rb') as fid:             serialized_graph = fid.read()             od_graph_def.ParseFromString(serialized_graph)             tf.import_graph_def(od_graph_def, name='')         sess = tf.Session(graph=detection_graph)     print(\">  ====== Hand Inference graph loaded.\")   ``` - Detect hands. In this repo, this is done in the `utils/detector_utils.py` script by the `detect_objects` method.   ```python   (boxes, scores, classes, num) = sess.run(         [detection_boxes, detection_scores,             detection_classes, num_detections],         feed_dict={image_tensor: image_np_expanded})   ``` - Visualize detected bounding detection_boxes. In this repo, this is done in the `utils/detector_utils.py` script by the `draw_box_on_image` method.   This repo contains two scripts that tie all these steps together.  - detect_multi_threaded.py : A threaded implementation for reading camera video input detection and detecting. Takes a set of command line flags to set parameters such as `--display` (visualize detections), image parameters `--width` and `--height`, videe `--source` (0 for camera) etc. - detect_single_threaded.py : Same as above, but single threaded. This script works for video files by setting the video source parameter videe `--source` (path to a video file).   ```cmd   # load and run detection on video at path \"videos/chess.mov\"   python detect_single_threaded.py --source videos/chess.mov ```  > Update: If you do have errors loading the frozen inference graph in this repo, feel free to generate a new graph that fits your TF version from the model-checkpoint in this repo. Use the [export_inference_graph.py](https://github.com/tensorflow/models/blob/master/research/object_detection/export_inference_graph.py) script provided in the tensorflow object detection api repo. More guidance on this [here](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/).  ## Thoughts on Optimization. A few things that led to noticeable performance increases.  - Threading: Turns out that reading images from a webcam is a heavy I/O event and if run on the main application thread can slow down the program. I implemented some good ideas from [Adrian Rosebuck](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/) on parrallelizing image capture across multiple worker threads. This mostly led to an FPS increase of about 5 points. - For those new to Opencv, images from the `cv2.read()` method return images in [BGR format](https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/). Ensure you convert to RGB before detection (accuracy will be much reduced if you dont). ```python cv2.cvtColor(image_np, cv2.COLOR_BGR2RGB) ``` - Keeping your input image small will increase fps without any significant accuracy drop.(I used about 320 x 240 compared to the 1280 x 720 which my webcam provides).  - Model Quantization. Moving from the current 32 bit to 8 bit can achieve up to 4x reduction in memory required to load and store models. One way to further speed up this model is to explore the use of [8-bit fixed point quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd).  Performance can also be increased by a clever combination of tracking algorithms with the already decent detection and this is something I am still experimenting with. Have ideas for optimizing better, please share!  <img src=\"images/general.jpg\" width=\"100%\"> Note: The detector does reflect some limitations associated with the training set. This includes non-egocentric viewpoints, very noisy backgrounds (e.g in a sea of hands) and sometimes skin tone.  There is opportunity to improve these with additional data.   ## Integrating Multiple DNNs.  One way to make things more interesting is to integrate our new knowledge of where \"hands\" are with other detectors trained to recognize other objects. Unfortunately, while our hand detector can in fact detect hands, it cannot detect other objects (a factor or how it is trained). To create a detector that classifies multiple different objects would mean a long involved process of assembling datasets for each class and a lengthy training process.    > Given the above, a potential strategy is to explore structures that allow us **efficiently** interleave output form multiple pretrained models for various object classes and have them detect multiple objects on a single image.    An example of this is with my primary use case where I am interested in understanding the position of objects on a table with respect to hands on same table. I am currently doing some work on a threaded application that loads multiple detectors and outputs bounding boxes on a single image. More on this soon.",
+        "description": "tensorflow using Neural Networks (SSD) on Tensorflow .  This repo documents steps and scripts used to train a hand detector using Tensorflow (Object Detection API). As with any DNN based task, the most expensive (and riskiest) part of the process has to do with finding or creating the right (annotated) dataset. I was interested mainly in detecting hands on a table (egocentric view point). I experimented first with the [Oxford Hands Dataset](http://www.robots.ox.ac.uk/~vgg/data/hands/) (the results were not good). I then tried the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) which was a much better fit to my requirements.  The goal of this repo/post is to demonstrate how neural networks can be applied to the (hard) problem of tracking hands (egocentric and other views). Better still, provide code that can be adapted to other uses cases.  If you use this tutorial or models in your research or project, please cite [this](#citing-this-tutorial).  Here is the detector in action.  <img src=\"images/hand1.gif\" width=\"33.3%\"><img src=\"images/hand2.gif\" width=\"33.3%\"><img src=\"images/hand3.gif\" width=\"33.3%\"> Realtime detection on video stream from a webcam .  <img src=\"images/chess1.gif\" width=\"33.3%\"><img src=\"images/chess2.gif\" width=\"33.3%\"><img src=\"images/chess3.gif\" width=\"33.3%\"> Detection on a Youtube video.  Both examples above were run on a macbook pro **CPU** (i7, 2.5GHz, 16GB). Some fps numbers are:   | FPS  | Image Size | Device| Comments| | ------------- | ------------- | ------------- | ------------- | | 21  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run without visualizing results| | 16  | 320 * 240  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) | | 11  | 640 * 480  | Macbook pro (i7, 2.5GHz, 16GB) | Run while visualizing results (image above) |  > Note: The code in this repo is written and tested with Tensorflow `1.4.0-rc0`. Using a different version may result in [some errors](https://github.com/tensorflow/models/issues/1581). You may need to [generate your own frozen model](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/) graph using the [model checkpoints](model-checkpoint) in the repo to fit your TF version.    **Content of this document** - Motivation - Why Track/Detect hands with Neural Networks - Data preparation and network training in Tensorflow (Dataset, Import, Training) - Training the hand detection Model - Using the Detector to Detect/Track hands - Thoughts on Optimizations.  > P.S if you are using or have used the models provided here, feel free to reach out on twitter ([@vykthur](https://twitter.com/vykthur)) and share your work!  ## Motivation - Why Track/Detect hands with Neural Networks?  There are several existing approaches to tracking hands in the computer vision domain. Incidentally, many of these approaches are rule based (e.g extracting background based on texture and boundary features, distinguishing between hands and background using color histograms and HOG classifiers,) making them not very robust. For example, these algorithms might get confused if the background is unusual or in situations where sharp changes in lighting conditions cause sharp changes in skin color or the tracked object becomes occluded.(see [here for a review](https://www.cse.unr.edu/~bebis/handposerev.pdf) paper on hand pose estimation from the HCI perspective)  With sufficiently large datasets, neural networks provide opportunity to train models that perform well and address challenges of existing object tracking/detection algorithms - varied/poor lighting, noisy environments, diverse viewpoints and even occlusion. The main drawbacks to usage for real-time tracking/detection is that they can be complex, are relatively slow compared to tracking-only algorithms and it can be quite expensive to assemble a good dataset. But things are changing with advances in fast neural networks.  Furthermore, this entire area of work has been made more approachable by deep learning frameworks (such as the tensorflow object detection api) that simplify the process of training a model for custom object detection. More importantly, the advent of fast neural network models like ssd, faster r-cnn, rfcn (see [here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models) ) etc make neural networks an attractive candidate for real-time detection (and tracking) applications. Hopefully, this repo demonstrates this.  > If you are not interested in the process of training the detector, you can skip straight to applying the [pretrained model I provide in detecting hands](#detecting-hands).  Training a model is a multi-stage process (assembling dataset, cleaning, splitting into training/test partitions and generating an inference graph). While I lightly touch on the details of these parts, there are a few other tutorials cover training a custom object detector using the tensorflow object detection api in more detail[ see [here](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) and [here](https://towardsdatascience.com/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9) ]. I recommend you walk through those if interested in training a custom object detector from scratch.  ## Data preparation and network training in Tensorflow (Dataset, Import, Training)  **The Egohands Dataset**  The hand detector model is built using data from the [Egohands Dataset](http://vision.soic.indiana.edu/projects/egohands/) dataset. This dataset works well for several reasons. It contains high quality, pixel level annotations (>15000 ground truth labels) where hands are located across 4800 images. All images are captured from an egocentric view (Google glass) across 48 different environments (indoor, outdoor) and activities (playing cards, chess, jenga, solving puzzles etc).  <img src=\"images/egohandstrain.jpg\" width=\"100%\">  If you will be using the Egohands dataset, you can cite them as follows:  > Bambach, Sven, et al. \"Lending a hand: Detecting hands and recognizing activities in complex egocentric interactions.\" Proceedings of the IEEE International Conference on Computer Vision. 2015.  The Egohands dataset (zip file with labelled data) contains 48 folders of locations where video data was collected (100 images per folder). ``` -- LOCATION_X   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder -- LOCATION_Y   -- frame_1.jpg   -- frame_2.jpg   ...   -- frame_100.jpg   -- polygons.mat  // contains annotations for all 100 images in current folder   ```  **Converting data to Tensorflow Format**  Some initial work needs to be done to the Egohands dataset to transform it into the format (`tfrecord`) which Tensorflow needs to train a model. This repo contains `egohands_dataset_clean.py` a script that will help you generate these csv files.  - Downloads the egohands datasets - Renames all files to include their directory names to ensure each filename is unique - Splits the dataset into train (80%), test (10%) and eval (10%) folders. - Reads in `polygons.mat` for each folder, generates bounding boxes and visualizes them to ensure correctness (see image above). - Once the script is done running, you should have an images folder containing three folders - train, test and eval. Each of these folders should also contain a csv label document each - `train_labels.csv`, `test_labels.csv`  that can be used to generate `tfrecords`  Note: While the egohands dataset provides four separate labels for hands (own left, own right, other left, and other right), for my purpose, I am only interested in the general `hand` class and label all training data as `hand`. You can modify the data prep script to generate `tfrecords` that support 4 labels.  Next: convert your dataset + csv files to tfrecords. A helpful guide on this can be found [here](https://pythonprogramming.net/creating-tfrecord-files-tensorflow-object-detection-api-tutorial/).For each folder, you should be able to generate  `train.record`, `test.record` required in the training process.   ## Training the hand detection Model  Now that the dataset has been assembled (and your tfrecords), the next task is to train a model based on this. With neural networks, it is possible to use a process called [transfer learning](https://www.tensorflow.org/tutorials/image_retraining) to shorten the amount of time needed to train the entire model. This means we can take an existing model (that has been trained well on a related domain (here image classification) and retrain its final layer(s) to detect hands for us. Sweet!. Given that neural networks sometimes have thousands or millions of parameters that can take weeks or months to train, transfer learning helps shorten training time to possibly hours. Tensorflow does offer a few models (in the tensorflow [model zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md#coco-trained-models-coco-models)) and I chose to use the `ssd_mobilenet_v1_coco` model as my start point given it is currently (one of) the fastest models (read the SSD research [paper here](https://arxiv.org/pdf/1512.02325.pdf)). The training process can be done locally on your CPU machine which may take a while or better on a (cloud) GPU machine (which is what I did). For reference, training on my macbook pro (tensorflow compiled from source to take advantage of the mac's cpu architecture) the maximum speed I got was 5 seconds per step as opposed to the ~0.5 seconds per step I got with a GPU. For reference it would take about 12 days to run 200k steps on my mac (i7, 2.5GHz, 16GB) compared to ~5hrs on a GPU.  > **Training on your own images**: Please use the [guide provided by Harrison from pythonprogramming](https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/) on how to generate tfrecords given your label csv files and your images. The guide also covers how to start the training process if training locally. [see [here] (https://pythonprogramming.net/training-custom-objects-tensorflow-object-detection-api-tutorial/)]. If training in the cloud using a service like GCP, see the [guide here](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_on_cloud.md).  As the training process progresses, the expectation is that total loss (errors) gets reduced to its possible minimum (about a value of 1 or thereabout). By observing the tensorboard graphs for total loss(see image below), it should be possible to get an idea of when the training process is complete (total loss does not decrease with further iterations/steps). I ran my training job for 200k steps (took about 5 hours) and stopped at a total Loss (errors) value of 2.575.(In retrospect, I could have stopped the training at about 50k steps and gotten a similar total loss value). With tensorflow, you can also run an evaluation concurrently that assesses your model to see how well it performs on the test data. A commonly used metric for performance is mean average precision (mAP) which is single number used to summarize the area under the precision-recall curve.  mAP is a measure of how well the model generates a bounding box that has at least a 50% overlap with the ground truth bounding box in our test dataset. For the hand detector trained here, the mAP value was **0.9686@0.5IOU**. mAP values range from 0-1, the higher the better.     <img src=\"images/accuracy.jpg\" width=\"100%\">  Once training is completed, the trained inference graph (`frozen_inference_graph.pb`) is then exported (see the earlier referenced guides for how to do this) and saved in the `hand_inference_graph` folder. Now its time to do some interesting detection.  ## Using the Detector to Detect/Track hands   If you have not done this yet, please following the guide on installing [Tensorflow and the Tensorflow object detection api](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md). This will walk you through setting up the tensorflow framework, cloning the tensorflow github repo and a guide on    - Load the `frozen_inference_graph.pb` trained on the hands dataset as well as the corresponding label map. In this repo, this is done in the `utils/detector_utils.py` script by the `load_inference_graph` method.   ```python   detection_graph = tf.Graph()     with detection_graph.as_default():         od_graph_def = tf.GraphDef()         with tf.gfile.GFile(PATH_TO_CKPT, 'rb') as fid:             serialized_graph = fid.read()             od_graph_def.ParseFromString(serialized_graph)             tf.import_graph_def(od_graph_def, name='')         sess = tf.Session(graph=detection_graph)     print(\">  ====== Hand Inference graph loaded.\")   ``` - Detect hands. In this repo, this is done in the `utils/detector_utils.py` script by the `detect_objects` method.   ```python   (boxes, scores, classes, num) = sess.run(         [detection_boxes, detection_scores,             detection_classes, num_detections],         feed_dict={image_tensor: image_np_expanded})   ``` - Visualize detected bounding detection_boxes. In this repo, this is done in the `utils/detector_utils.py` script by the `draw_box_on_image` method.   This repo contains two scripts that tie all these steps together.  - detect_multi_threaded.py : A threaded implementation for reading camera video input detection and detecting. Takes a set of command line flags to set parameters such as `--display` (visualize detections), image parameters `--width` and `--height`, videe `--source` (0 for camera) etc. - detect_single_threaded.py : Same as above, but single threaded. This script works for video files by setting the video source parameter videe `--source` (path to a video file).   ```cmd   # load and run detection on video at path \"videos/chess.mov\"   python detect_single_threaded.py --source videos/chess.mov ```  > Update: If you do have errors loading the frozen inference graph in this repo, feel free to generate a new graph that fits your TF version from the model-checkpoint in this repo. Use the [export_inference_graph.py](https://github.com/tensorflow/models/blob/master/research/object_detection/export_inference_graph.py) script provided in the tensorflow object detection api repo. More guidance on this [here](https://pythonprogramming.net/testing-custom-object-detector-tensorflow-object-detection-api-tutorial/?completed=/training-custom-objects-tensorflow-object-detection-api-tutorial/).  ## Thoughts on Optimization. A few things that led to noticeable performance increases.  - Threading: Turns out that reading images from a webcam is a heavy I/O event and if run on the main application thread can slow down the program. I implemented some good ideas from [Adrian Rosebuck](https://www.pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/) on parrallelizing image capture across multiple worker threads. This mostly led to an FPS increase of about 5 points. - For those new to Opencv, images from the `cv2.read()` method return images in [BGR format](https://www.learnopencv.com/why-does-opencv-use-bgr-color-format/). Ensure you convert to RGB before detection (accuracy will be much reduced if you dont). ```python cv2.cvtColor(image_np, cv2.COLOR_BGR2RGB) ``` - Keeping your input image small will increase fps without any significant accuracy drop.(I used about 320 x 240 compared to the 1280 x 720 which my webcam provides).  - Model Quantization. Moving from the current 32 bit to 8 bit can achieve up to 4x reduction in memory required to load and store models. One way to further speed up this model is to explore the use of [8-bit fixed point quantization](https://heartbeat.fritz.ai/8-bit-quantization-and-tensorflow-lite-speeding-up-mobile-inference-with-low-precision-a882dfcafbbd).  Performance can also be increased by a clever combination of tracking algorithms with the already decent detection and this is something I am still experimenting with. Have ideas for optimizing better, please share!  <img src=\"images/general.jpg\" width=\"100%\"> Note: The detector does reflect some limitations associated with the training set. This includes non-egocentric viewpoints, very noisy backgrounds (e.g in a sea of hands) and sometimes skin tone.  There is opportunity to improve these with additional data.   ## Integrating Multiple DNNs.  One way to make things more interesting is to integrate our new knowledge of where \"hands\" are with other detectors trained to recognize other objects. Unfortunately, while our hand detector can in fact detect hands, it cannot detect other objects (a factor or how it is trained). To create a detector that classifies multiple different objects would mean a long involved process of assembling datasets for each class and a lengthy training process.    > Given the above, a potential strategy is to explore structures that allow us **efficiently** interleave output form multiple pretrained models for various object classes and have them detect multiple objects on a single image.    An example of this is with my primary use case where I am interested in understanding the position of objects on a table with respect to hands on same table. I am currently doing some work on a threaded application that loads multiple detectors and outputs bounding boxes on a single image. More on this soon.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -19454,7 +19451,7 @@
         "createdAt": "2017-09-05T00:56:24Z",
         "nameWithOwner": "mozilla/webxr-polyfill",
         "stargazerCount": 233,
-        "description": "A polyfill and example code for building augmented reality (AR) and virtual reality (VR) applications using WebXR.",
+        "description": "A polyfill and example code for building augmented reality (AR) and virtual reality ( VR ) applications using WebXR.",
         "repositoryTopics_list": [
             "webxr",
             "arkit",
@@ -19523,11 +19520,11 @@
         "stargazerCount": 10,
         "description": "This repository contains ROS2 bindings for the Mixed Reality Toolkit - allowing you to create VR and AR applications which reflect sensor data from a Robot or provide command and control",
         "repositoryTopics_list": [
-            "ros2",
+            "ros",
             "mrtk-ros-application",
             "unity",
             "hololens",
-            "ros-development"
+            "ros"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19563,7 +19560,7 @@
             "ar-3d-draw",
             "augmented-reality",
             "unity3d",
-            "vuforia-sdk"
+            "vuforia"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19691,7 +19688,7 @@
             "augmented-reality",
             "swift",
             "ios",
-            "swift-4",
+            "swift",
             "ios11",
             "scenekit"
         ],
@@ -19710,7 +19707,7 @@
         "description": "webar arkit Sample AR project built on Google's new three.ar.js",
         "repositoryTopics_list": [
             "webaronarkit",
-            "three-ar-js",
+            "three-js",
             "webar",
             "augmentedreality",
             "augmented-reality",
@@ -20055,7 +20052,9 @@
             "augmented-reality",
             "elixir"
         ],
-        "primaryLanguage": "null",
+        "primaryLanguage": [
+            "ruby"
+        ],
         "languages_list": "null",
         "diskUsage": 101632,
         "relatedTopics_list": "null"
@@ -20140,7 +20139,7 @@
         "createdAt": "2020-05-11T23:53:50Z",
         "nameWithOwner": "no40/MuseumViewer",
         "stargazerCount": 3,
-        "description": "Museum Viewer App with Augmented Reality artifacts and JSON support for adding artifacts. Built for iOS using ARKit, Quick Look, and SwiftUI",
+        "description": "swift Museum Viewer App with Augmented Reality artifacts and JSON support for adding artifacts. Built for iOS using ARKit, Quick Look, and swift",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -20478,7 +20477,7 @@
         "createdAt": "2019-05-25T19:20:33Z",
         "nameWithOwner": "onurozler/VCAR",
         "stargazerCount": 4,
-        "description": "Turkish/English Voice Controlled, Augmented Reality Car Showroom App. Made with Unity,Vuforia and Wit.ai.",
+        "description": "Turkish/English Voice Controlled, Augmented Reality Car Showroom App. Made with Unity, Vuforia and Wit.ai.",
         "repositoryTopics_list": [
             "augmented-reality",
             "car",
@@ -20933,7 +20932,6 @@
             "arkit",
             "3d",
             "3d-models",
-            "wavefront-obj",
             "wavefront",
             "iphone",
             "swift",
@@ -20969,7 +20967,7 @@
             "3d",
             "modelio",
             "augmented-reality",
-            "usd",
+            "usdz",
             "pixar"
         ],
         "primaryLanguage": "Swift",
@@ -21077,7 +21075,7 @@
             "augmented-reality",
             "augmentedreality",
             "virtual-reality",
-            "virtualreality",
+            "vr",
             "webgl",
             "webvr"
         ],
@@ -21113,7 +21111,7 @@
         "createdAt": "2019-07-23T19:41:39Z",
         "nameWithOwner": "positlabs/spark-blend-modes",
         "stargazerCount": 35,
-        "description": "Photoshop blend mode patches for Spark AR",
+        "description": "Photoshop blend mode patches for sparkar AR",
         "repositoryTopics_list": [
             "sparkar",
             "photoshop",
@@ -21129,9 +21127,9 @@
         "createdAt": "2019-12-06T14:26:00Z",
         "nameWithOwner": "positlabs/spark-bokeh",
         "stargazerCount": 8,
-        "description": "Bokeh Particle Emitters in Spark AR",
+        "description": "Bokeh Particle Emitters in sparkar AR",
         "repositoryTopics_list": [
-            "spark-ar",
+            "sparkar",
             "augmented-reality",
             "instagram",
             "facebook",
@@ -21147,9 +21145,9 @@
         "createdAt": "2019-11-11T20:00:00Z",
         "nameWithOwner": "positlabs/spark-particle-fields",
         "stargazerCount": 3,
-        "description": "Hack Spark's default particle emitter types to get 3D emitter fields",
+        "description": "Hack sparkar 's default particle emitter types to get 3D emitter fields",
         "repositoryTopics_list": [
-            "spark-ar",
+            "sparkar",
             "augmented-reality",
             "instagram",
             "facebook",
@@ -21167,7 +21165,7 @@
         "stargazerCount": 5,
         "description": "Vignettes and head tracking in Spark AR",
         "repositoryTopics_list": [
-            "spark-ar",
+            "sparkar",
             "augmented-reality",
             "camera-effects",
             "instagram",
@@ -21196,7 +21194,7 @@
             "deep-learning",
             "face-detection",
             "face-tracking",
-            "threejs",
+            "three-js",
             "babylonjs",
             "webcam",
             "faceswap",
@@ -21204,7 +21202,7 @@
             "picojs",
             "augmented-reality",
             "face-filters",
-            "trackingjs",
+            "tracking-js",
             "msqrd"
         ],
         "primaryLanguage": "JavaScript",
@@ -21337,12 +21335,12 @@
         "createdAt": "2019-02-23T19:59:33Z",
         "nameWithOwner": "powermobileweb/SparkArShader",
         "stargazerCount": 13,
-        "description": "Spark AR Studio / AR Spark Shaders for Instagram.",
+        "description": "Spark AR Studio / AR sparkar Shaders for Instagram.",
         "repositoryTopics_list": [
             "augmented-reality",
             "shaders",
             "ar-studio",
-            "spark-ar-studio",
+            "sparkar",
             "instagram",
             "face-filters"
         ],
@@ -21582,9 +21580,9 @@
         "createdAt": "2016-10-17T03:43:58Z",
         "nameWithOwner": "qian256/ur5_unity",
         "stargazerCount": 27,
-        "description": "A model and controller of UR5 (Universal Robots UR5) in Unity3D, supporting Augmented Reality (AR) and Virtual Reality (VR) applications.",
+        "description": "A model and controller of unreal (Universal Robots UR5) in Unity3D, supporting Augmented Reality (AR) and Virtual Reality (VR) applications.",
         "repositoryTopics_list": [
-            "ur5",
+            "unreal",
             "unity3d"
         ],
         "primaryLanguage": "C#",
@@ -21659,7 +21657,7 @@
         "createdAt": "2018-12-12T13:58:37Z",
         "nameWithOwner": "rajandeepsingh13/6DOF-Mobile-VR-Using-GVR-and-ARCore",
         "stargazerCount": 4,
-        "description": "Complete head and movement tracking achieved in Google Cardboard using ARCore",
+        "description": "vr Complete head and movement tracking achieved in Google Cardboard using ARCore",
         "repositoryTopics_list": [
             "augmented-reality",
             "virtual-reality",
@@ -21995,7 +21993,7 @@
         "createdAt": "2016-12-04T12:46:54Z",
         "nameWithOwner": "richmondx/UE4-MixedReality",
         "stargazerCount": 18,
-        "description": "null",
+        "description": "unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -22118,7 +22116,7 @@
         "createdAt": "2016-11-16T23:27:46Z",
         "nameWithOwner": "robertnowell/breadcrumbs",
         "stargazerCount": 4,
-        "description": "First prize, augmented reality competition. AT&T AR/VR Hackathon, November 2016.",
+        "description": "First prize, augmented reality competition. AT&T AR/ VR Hackathon, November 2016.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -22289,7 +22287,7 @@
         "stargazerCount": 51,
         "description": "web Easy to use augmented reality web components",
         "repositoryTopics_list": [
-            "threejs",
+            "three-js",
             "jsartoolkit",
             "web-component",
             "augmented-reality",
@@ -22373,7 +22371,7 @@
         "createdAt": "2017-11-08T19:39:46Z",
         "nameWithOwner": "ronellsicat/DxR",
         "stargazerCount": 144,
-        "description": "xrtk DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR) or XR for short.",
+        "description": "xrtk DXR is a Unity package for rapid prototyping of immersive data visualizations in augmented, mixed, and virtual reality (AR, MR, VR ) or XR for short.",
         "repositoryTopics_list": [
             "immersive",
             "visualization",
@@ -22424,7 +22422,7 @@
         "description": "Rosberry Portfolio app made with Apple ARKit",
         "repositoryTopics_list": [
             "arkit",
-            "swift4",
+            "swift",
             "xcode9",
             "augmented-reality",
             "rosberry"
@@ -22460,10 +22458,10 @@
         "createdAt": "2018-06-16T15:07:18Z",
         "nameWithOwner": "rudrajikadra/ARShoot-Game-Markerless-Augmented-Reality-Unity3D-iOS-Android",
         "stargazerCount": 4,
-        "description": "A simple Augmented Reality FPS type game using Apple's AR Kit in Unity 3D",
+        "description": "Unity3D A simple Augmented Reality FPS type game using Apple's AR Kit in Unity 3D",
         "repositoryTopics_list": [
             "augmented-reality",
-            "unity-3d",
+            "unity3d",
             "ar-shoot",
             "markerless-augmented-reality",
             "fps-game",
@@ -22544,7 +22542,7 @@
         "createdAt": "2019-04-22T18:46:29Z",
         "nameWithOwner": "rwth-acis/VIAProMa",
         "stargazerCount": 12,
-        "description": "A Collaborative Mixed Reality Visualization Framework for Immersive Analytics",
+        "description": "vive A Collaborative Mixed Reality Visualization Framework for Immersive Analytics",
         "repositoryTopics_list": [
             "photon-pun",
             "unity",
@@ -22589,7 +22587,7 @@
         "createdAt": "2019-06-17T02:50:57Z",
         "nameWithOwner": "ryangadz/ML_RadialMenu",
         "stargazerCount": 6,
-        "description": "This is an example project using Magic Leap UE4 Editor UE4. It features a radial menu that attaches to the Magic Leap One motion controller. ",
+        "description": "This is an example project using Magic Leap unreal Editor UE4. It features a radial menu that attaches to the Magic Leap One motion controller. ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -22843,7 +22841,7 @@
         "description": "Augmented Reality Fitting Room via Unity",
         "repositoryTopics_list": [
             "unity3d",
-            "vuforia-sdk",
+            "vuforia",
             "agile-development",
             "software-development-lifecycle",
             "github",
@@ -23069,9 +23067,9 @@
         "description": "Augmented Reality application developed using Unity3D and Vuforia SDK, It works by scanning a target image which shows up a 3D model or 2D image on successful scanning.",
         "repositoryTopics_list": [
             "unity3d",
-            "vuforia-sdk",
+            "vuforia",
             "vuforia-engine",
-            "unity3d-games",
+            "unity3d",
             "augmented-reality-applications"
         ],
         "primaryLanguage": "C#",
@@ -23127,7 +23125,7 @@
         "createdAt": "2019-03-27T20:14:17Z",
         "nameWithOwner": "shopped/VirtualCatch",
         "stargazerCount": 5,
-        "description": "Play aUgMenTed rEaLitY catch in your browser using Tensorflow.js and Three.js",
+        "description": "Play aUgMenTed rEaLitY catch in your browser using Tensorflow .js and Three.js",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -23377,7 +23375,7 @@
         "repositoryTopics_list": [
             "instagram",
             "augmented-reality",
-            "spark-ar"
+            "sparkar"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -23479,7 +23477,7 @@
         "createdAt": "2018-06-22T05:11:56Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel",
         "stargazerCount": 7,
-        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
+        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23492,7 +23490,7 @@
         "createdAt": "2018-06-22T20:46:20Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel01",
         "stargazerCount": 5,
-        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
+        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23597,7 +23595,7 @@
         "createdAt": "2018-02-16T14:47:33Z",
         "nameWithOwner": "spatialcanvas/spatialcanvas-ios",
         "stargazerCount": 3,
-        "description": "SpatialCanvas iOS SDK",
+        "description": "spatial SpatialCanvas iOS SDK",
         "repositoryTopics_list": [
             "spatialcanvas",
             "sdk",
@@ -23619,12 +23617,12 @@
         "createdAt": "2019-06-02T09:02:19Z",
         "nameWithOwner": "spleennooname/sparkar-pixelate-shader",
         "stargazerCount": 31,
-        "description": "simple script-only pixelate shader with Facebook SparkAR.",
+        "description": "simple script-only pixelate shader with Facebook SparkAR .",
         "repositoryTopics_list": [
             "shaders",
             "shader",
-            "spark-ar",
-            "spark-ar-studio",
+            "sparkar",
+            "sparkar",
             "pixelate",
             "facebook",
             "augmented-reality",
@@ -23713,7 +23711,7 @@
             "dlib",
             "spritekit",
             "ios",
-            "swift-3",
+            "swift",
             "c-plus-plus",
             "augmented-reality",
             "augmented-game"
@@ -23742,7 +23740,7 @@
         "repositoryTopics_list": [
             "android",
             "augmented-reality",
-            "vuforia-sdk",
+            "vuforia",
             "vuforia",
             "opengles"
         ],
@@ -23773,9 +23771,9 @@
         "createdAt": "2018-01-19T14:47:18Z",
         "nameWithOwner": "stereolabs/zed-unreal-examples",
         "stargazerCount": 58,
-        "description": "Stereolabs ZED - UE4 Examples",
+        "description": "Stereolabs ZED - unreal Examples",
         "repositoryTopics_list": [
-            "unreal-engine-4",
+            "unreal",
             "zed-mini",
             "mixed-reality"
         ],
@@ -23792,12 +23790,12 @@
         "createdAt": "2018-01-19T14:45:17Z",
         "nameWithOwner": "stereolabs/zed-unreal-plugin",
         "stargazerCount": 32,
-        "description": "Stereolabs ZED - UE4 Plugin",
+        "description": "Stereolabs ZED - unreal Plugin",
         "repositoryTopics_list": [
-            "unreal-engine-4",
+            "unreal",
             "zed-mini",
             "mixed-reality",
-            "ue4-plugin"
+            "unreal"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -23836,14 +23834,14 @@
         "description": "Support hand controllers for Oculus, Vive, Windows Mixed Reality, Daydream, GearVR, and more by adding VRController to your existing Three.js-based WebVR project.",
         "repositoryTopics_list": [
             "webvr",
-            "threejs",
+            "three-js",
             "gamepad",
             "vive",
             "oculus",
             "daydream",
             "javascript",
             "vrcontroller",
-            "gear-vr",
+            "vr",
             "windows-mixed-reality",
             "webxr"
         ],
@@ -23878,7 +23876,7 @@
             "webxr",
             "android",
             "augmented-reality",
-            "threejs"
+            "three-js"
         ],
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -23905,10 +23903,10 @@
         "createdAt": "2019-02-19T12:07:35Z",
         "nameWithOwner": "sudhamstarun/Spark",
         "stargazerCount": 6,
-        "description": "An augmented reality based property valuation further enhanced by blockchain and data science to provide an end-to-end mortgage application processing platform✨📱",
+        "description": "sparkar An augmented reality based property valuation further enhanced by blockchain and data science to provide an end-to-end mortgage application processing platform✨📱",
         "repositoryTopics_list": [
             "augmented-reality",
-            "swift4",
+            "swift",
             "ethereum-contract",
             "ethereum-dapp",
             "solidity",
@@ -24065,7 +24063,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "pokemon-go",
-            "vuforia-sdk",
+            "vuforia",
             "unity3d"
         ],
         "primaryLanguage": "C#",
@@ -24194,7 +24192,7 @@
         "repositoryTopics_list": [
             "webxr",
             "augmented-reality",
-            "threejs",
+            "three-js",
             "cannonjs"
         ],
         "primaryLanguage": "JavaScript",
@@ -24412,7 +24410,7 @@
             "ar",
             "vr",
             "mr",
-            "unreal-engine-4",
+            "unreal",
             "csharp",
             "cplusplus",
             "javascript"
@@ -24442,7 +24440,7 @@
         "description": "Augmented reality game development repository - Art & Technology Tohoku 2018 contest",
         "repositoryTopics_list": [
             "computer-vision",
-            "threejs",
+            "three-js",
             "nodejs",
             "express",
             "mongodb"
@@ -24545,7 +24543,7 @@
         "createdAt": "2019-03-06T19:12:29Z",
         "nameWithOwner": "trannguyenle95/HumanRobotInteraction_with_AR",
         "stargazerCount": 3,
-        "description": "Control UR5 Robot with Augmented Reality using Hololens",
+        "description": "Control unreal Robot with Augmented Reality using Hololens",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -24635,7 +24633,7 @@
         "description": "ARKit Adobe Air Native Extension for iOS11",
         "repositoryTopics_list": [
             "arkit",
-            "swift-4",
+            "swift",
             "adobe-air",
             "actionscript",
             "native-extension",
@@ -24726,7 +24724,7 @@
         "createdAt": "2019-08-23T19:14:04Z",
         "nameWithOwner": "ucd-graphics-vr-lab/HoloNav",
         "stargazerCount": 4,
-        "description": "AR based Indoor Navigation",
+        "description": "vr AR based Indoor Navigation",
         "repositoryTopics_list": [
             "indoor-navigation",
             "augmented-reality",
@@ -24769,7 +24767,7 @@
             "augmented-reality",
             "travel",
             "ios11",
-            "swift4",
+            "swift",
             "xcode9"
         ],
         "primaryLanguage": "Swift",
@@ -25011,7 +25009,7 @@
         "createdAt": "2020-07-20T11:54:33Z",
         "nameWithOwner": "vevenom/ScanNet-Layout",
         "stargazerCount": 18,
-        "description": "We introduce the ScanNet-Layout dataset for benchmarking general 3D room layout estimation from single view. ",
+        "description": "We introduce the ScanNet -Layout dataset for benchmarking general 3D room layout estimation from single view. ",
         "repositoryTopics_list": [
             "3d-vision",
             "room-layout",
@@ -25061,9 +25059,9 @@
         "createdAt": "2018-11-03T17:41:11Z",
         "nameWithOwner": "vimeo/vimeo-threejs-player",
         "stargazerCount": 67,
-        "description": "A plugin for streaming video from Vimeo to WebGL/VR/AR apps",
+        "description": "vr A plugin for streaming video from Vimeo to WebGL/VR/AR apps",
         "repositoryTopics_list": [
-            "threejs",
+            "three-js",
             "webgl",
             "video",
             "plugin",
@@ -25137,7 +25135,7 @@
         "createdAt": "2017-03-23T23:56:25Z",
         "nameWithOwner": "viromedia/viro",
         "stargazerCount": 1588,
-        "description": "ViroReact: AR and VR using React Native",
+        "description": "viromedia ViroReact: AR and VR using React Native",
         "repositoryTopics_list": [
             "vr",
             "virtual-reality",
@@ -25149,12 +25147,12 @@
             "oculus",
             "react",
             "mobile-vr",
-            "virtualreality",
-            "viro-platform",
+            "vr",
+            "viromedia",
             "viro",
             "android",
             "ios",
-            "virtual-reality-experiences",
+            "vr",
             "ar-sample",
             "augmented-reality",
             "arkit",
@@ -25177,7 +25175,7 @@
         "createdAt": "2017-11-15T05:52:05Z",
         "nameWithOwner": "viromedia/virocore",
         "stargazerCount": 281,
-        "description": "WebAssembly ViroCore cross-platform AR/VR renderer",
+        "description": "viromedia WebAssembly ViroCore cross-platform AR/VR renderer",
         "repositoryTopics_list": [
             "java",
             "android",
@@ -25265,7 +25263,7 @@
         "description": "This is an Augmented Reality application which will help in learning  about Wild life animal by creating an augmented Zoo and Spread awareness of endangered animals",
         "repositoryTopics_list": [
             "augmented-reality-applications",
-            "vuforia-sdk",
+            "vuforia",
             "zoo",
             "unity3d"
         ],
@@ -25292,13 +25290,13 @@
             "media-playback",
             "windows",
             "unity",
-            "unity3d-plugin",
-            "uwp",
+            "unity3d",
+            "windows",
             "mixed-reality",
             "virtual-reality",
             "video",
             "media-foundation",
-            "stereoscopic-videos"
+            "stereokit"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -25413,7 +25411,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "augmenta",
-            "vuforia-sdk",
+            "vuforia",
             "unity",
             "3d-models",
             "change-scaling",
@@ -25421,7 +25419,6 @@
             "3d-model",
             "unity3d",
             "unity-tutorial",
-            "unity-scripts",
             "unity-asset",
             "movement",
             "drag",
@@ -25446,14 +25443,14 @@
         "description": "Tutorial  Unity  2017.3 and Vuforia 7.0  on Augmented and Virtual reality   ( Mixed Reality ) With shadows and how can be Change opacity ( Intensity ) Shadows ",
         "repositoryTopics_list": [
             "shadow",
-            "vuforia-realistic-shadows",
+            "vuforia",
             "video",
             "intensity",
             "unity3d",
             "unity-tutorial",
             "unity-asset",
             "unity-scripts",
-            "unity3d-plugin",
+            "unity3d",
             "virtual-reality",
             "augmented",
             "vuforia",
@@ -25480,7 +25477,7 @@
             "unity",
             "unity-tutorial",
             "unity-asset",
-            "unity3d-plugin",
+            "unity3d",
             "unity-scripts",
             "gui",
             "vuforia",
@@ -25528,12 +25525,11 @@
         "createdAt": "2019-03-27T23:54:51Z",
         "nameWithOwner": "walidabazo/Unity-3D-AR-to-get-drug-information",
         "stargazerCount": 8,
-        "description": "xrtk Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
+        "description": "unity3d xrtk Tutorial  Unity learning:    * Unity 3d is integrated with the Vuforia Engine to create Augmented reality AR . * How to use unity  canvas camera Augmented Reality AR . * unity 3d raycast hit object With Augmented Reality AR . * Unity 3d AR Multi Language on GUI. * Unity 3D Support Arabic language. * Simple ideas for get drug information for professionals and consumers By Augmented reality AR.   Note :  If you need  wonder Developer Create the Same Demo but information Drug On:  1- SQL lite Database (offline data). 2- Online Database used Json. 3- Open Website On canvas.  Please told me on comment  ",
         "repositoryTopics_list": [
             "augmentedreality",
             "augmented-reality",
             "unity3d",
-            "unity3d-script",
             "vuforia",
             "arabic",
             "arabic-language",
@@ -25556,7 +25552,7 @@
         "createdAt": "2017-08-23T19:18:19Z",
         "nameWithOwner": "walidabazo/Unity-shadow-Augmented-Reality",
         "stargazerCount": 8,
-        "description": "webar arkit Unity 3d Create shadow to 3d model on  Augmented Reality ",
+        "description": "unity webar arkit Unity 3d Create shadow to 3d model on  Augmented Reality ",
         "repositoryTopics_list": [
             "shadow",
             "unity3d",
@@ -25572,7 +25568,7 @@
             "ar",
             "pagackes",
             "unlitshadowreceive",
-            "unity-3d",
+            "unity3d",
             "3d-model",
             "webar",
             "webarkit"
@@ -25761,7 +25757,7 @@
         "repositoryTopics_list": [
             "webar",
             "augmented-reality",
-            "vuejs",
+            "vue-js",
             "a-frame",
             "three-js"
         ],
@@ -25792,7 +25788,7 @@
         "createdAt": "2018-03-26T03:22:13Z",
         "nameWithOwner": "wilmol/Mixed-Reality-Piano-Tutor",
         "stargazerCount": 6,
-        "description": "A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
+        "description": "vive A Gamified Piano Practice Environment. SOFTENG700AB Honours Research Project (A+) https://ieeexplore.ieee.org/abstract/document/8706474",
         "repositoryTopics_list": [
             "mixed-reality",
             "zed-mini",
@@ -26006,7 +26002,7 @@
         "createdAt": "2020-09-29T13:36:55Z",
         "nameWithOwner": "yankai364/Pirate-Dash-360-Tutorial",
         "stargazerCount": 3,
-        "description": "A tutorial on how to create an Augmented Reality (AR) Puzzle Platformer Game using Spark AR Studio and JavaScript.",
+        "description": "A tutorial on how to create an Augmented Reality (AR) Puzzle Platformer Game using sparkar AR Studio and JavaScript.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -26159,7 +26155,7 @@
         "stargazerCount": 3,
         "description": "ARDebug: an augmented reality tool for analysing and debugging the behaviour of swarm robotic systems",
         "repositoryTopics_list": [
-            "swarm-robotics",
+            "robotics",
             "multi-robot",
             "debugging",
             "debugging-tool",
@@ -26210,8 +26206,7 @@
             "augmented-reality",
             "augmented-reality-applications",
             "robot-operating-system",
-            "ros-kinetic",
-            "ros-industrial",
+            "ros",
             "industrial-automation",
             "industrial-robot"
         ],
