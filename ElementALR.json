@@ -58,7 +58,7 @@
         "createdAt": "2018-11-12T22:37:47Z",
         "nameWithOwner": "5un/MagicLeap-EyesForTheBlind",
         "stargazerCount": 4,
-        "description": "Use Magic Leap's spatial computing abilities to help the visually impaired navigate around unfamiliar environments",
+        "description": "magicleap Use Magic Leap's spatial computing abilities to help the visually impaired navigate around unfamiliar environments",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -322,7 +322,7 @@
         "createdAt": "2017-02-06T16:29:35Z",
         "nameWithOwner": "ASPePeX/AR-Marker-Generator",
         "stargazerCount": 21,
-        "description": "A processing sketch that generates markers for Augmented Reality applications like Vuforia.",
+        "description": "marker A processing sketch that generates marker for Augmented Reality applications like Vuforia.",
         "repositoryTopics_list": [
             "processing",
             "augmented-reality",
@@ -393,17 +393,17 @@
         "createdAt": "2017-06-10T23:04:52Z",
         "nameWithOwner": "AcroMace/DreamBig",
         "stargazerCount": 23,
-        "description": "☁🌝☁ 3D emoji drawing iPad app with ARKit and the Apple Pencil ☁🌝☁",
+        "description": "☁🌝☁ 3D emoji drawing ipados app with ARKit and the Apple Pencil ☁🌝☁",
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
             "ios",
             "swift",
-            "ipad",
+            "ipados",
             "emoji",
             "emojis",
             "drawing",
-            "ios11"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -666,7 +666,7 @@
             "android-ar",
             "google-maps-api",
             "location-based-services",
-            "ar-markers"
+            "marker"
         ],
         "primaryLanguage": "Java",
         "languages_list": [
@@ -705,7 +705,7 @@
         "createdAt": "2019-04-04T15:17:12Z",
         "nameWithOwner": "AlexanderKub/arkit-ml-occlusion",
         "stargazerCount": 10,
-        "description": "ml ARKit proof-of-concept project for handle occlusion in augmented reality using a machine learning",
+        "description": "ml ARKit proof-of-concept project for handle occlusion in augmented reality using a ml learning",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -736,7 +736,7 @@
         "repositoryTopics_list": [
             "opencv",
             "opencv",
-            "machine-learning"
+            "ml"
         ],
         "primaryLanguage": "Python",
         "languages_list": [
@@ -962,7 +962,7 @@
         "createdAt": "2018-10-22T18:37:40Z",
         "nameWithOwner": "Apress/beginning-ARKit-iPhone-iPad",
         "stargazerCount": 14,
-        "description": "Source Code for 'Beginning ARKit for iPhone and iPad: Augmented Reality App Development for iOS' by Wallace Wang",
+        "description": "ios ipados Source Code for 'Beginning ARKit for iPhone and ipados : Augmented Reality App Development for iOS' by Wallace Wang",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -1222,7 +1222,7 @@
         "createdAt": "2020-05-25T09:23:50Z",
         "nameWithOwner": "Banuba/videocall-ios-swift",
         "stargazerCount": 5,
-        "description": "The example of Banuba SDK and Agora.io SDK integration to enable augmented reality filters in video calls.",
+        "description": "ios The example of Banuba SDK and Agora.io SDK integration to enable augmented reality filters in video calls.",
         "repositoryTopics_list": [
             "agora",
             "augmented-reality",
@@ -1272,9 +1272,9 @@
             "augmented-reality",
             "swift",
             "arkit",
-            "iphone",
-            "ios-app",
-            "ipad",
+            "ios",
+            "ios",
+            "ipados",
             "berlin"
         ],
         "primaryLanguage": "Swift",
@@ -1357,7 +1357,7 @@
             "unity",
             "wikitude",
             "augmented-reality",
-            "marker-less",
+            "markerless",
             "3d-models",
             "3d-sound"
         ],
@@ -1405,7 +1405,7 @@
         "description": "Virtual stage effects by augmented reality glasses.",
         "repositoryTopics_list": [
             "hololens",
-            "magic-leap",
+            "magicleap",
             "augmented-reality",
             "unity"
         ],
@@ -1479,7 +1479,7 @@
             "arkit",
             "coreml",
             "session-management",
-            "machine-learning",
+            "ml",
             "deep-learning",
             "augmented-reality"
         ],
@@ -2090,7 +2090,7 @@
         "createdAt": "2019-12-12T13:54:23Z",
         "nameWithOwner": "DeepARSDK/quickstart-ios-swift",
         "stargazerCount": 19,
-        "description": "DeepAR SDK for iOS example project",
+        "description": "ios DeepAR SDK for iOS example project",
         "repositoryTopics_list": [
             "ios",
             "swift",
@@ -2129,7 +2129,7 @@
         "createdAt": "2019-12-19T16:20:27Z",
         "nameWithOwner": "DeepARSDK/videocall-ios-swift",
         "stargazerCount": 5,
-        "description": "Video call using Agora.io SDK with face masks provided by DeepAR SDK",
+        "description": "ios Video call using Agora.io SDK with face masks provided by DeepAR SDK",
         "repositoryTopics_list": [
             "augmented-reality",
             "face-filters",
@@ -2553,7 +2553,7 @@
         "createdAt": "2017-02-13T08:26:36Z",
         "nameWithOwner": "EnoxSoftware/MarkerBasedARExample",
         "stargazerCount": 10,
-        "description": "This asset is an Augmented Reality Example that detect and recognize markers and display 3D model in WebCamTexture in real-time.",
+        "description": "This asset is an Augmented Reality Example that detect and recognize marker and display 3D model in WebCamTexture in real-time.",
         "repositoryTopics_list": [
             "unity",
             "opencv",
@@ -2571,7 +2571,7 @@
         "createdAt": "2017-02-13T05:02:43Z",
         "nameWithOwner": "EnoxSoftware/MarkerLessARExample",
         "stargazerCount": 18,
-        "description": "This asset is a Marker-Less Augmented Reality Example using the actual environment as input instead of printed square markers and display 3d model in WebCamTexture in real-time.",
+        "description": "This asset is a markerless Augmented Reality Example using the actual environment as input instead of printed square marker and display 3d model in WebCamTexture in real-time.",
         "repositoryTopics_list": [
             "unity",
             "opencv",
@@ -2912,7 +2912,7 @@
         "createdAt": "2017-03-14T01:27:17Z",
         "nameWithOwner": "GLUD/trascendentAR",
         "stargazerCount": 7,
-        "description": "Integración de ARToolkit con libGDX para Android. Website: https://glud.github.io/trascendentAR/",
+        "description": "Integración de ARToolkit con opengl para Android. Website: https://glud.github.io/trascendentAR/",
         "repositoryTopics_list": [
             "libgdx",
             "augmented-reality",
@@ -2937,7 +2937,7 @@
         "createdAt": "2019-02-01T22:39:11Z",
         "nameWithOwner": "GTSupplyChainAR/Perspectives-Magic-Leap-Order-Picking",
         "stargazerCount": 3,
-        "description": "null",
+        "description": "magicleap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -3389,7 +3389,7 @@
             "ibm-watson",
             "ibm-visual-recognition",
             "cloudant-nosql-database",
-            "ios11",
+            "ios",
             "arkit",
             "ibmcode"
         ],
@@ -3475,7 +3475,7 @@
         "createdAt": "2019-10-17T06:50:38Z",
         "nameWithOwner": "Igloo302/iVision",
         "stargazerCount": 8,
-        "description": "An assistive system for the blind based on augmented reality and machine learning",
+        "description": "An assistive system for the blind based on augmented reality and ml learning",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -4467,7 +4467,7 @@
         "createdAt": "2019-10-30T18:42:25Z",
         "nameWithOwner": "MagicLeapDevs/Magic-Leap-Toolkit",
         "stargazerCount": 25,
-        "description": "null",
+        "description": "magicleap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -4644,7 +4644,7 @@
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "ios11",
+            "ios",
             "avplayer",
             "video-player",
             "video-streaming",
@@ -4797,7 +4797,7 @@
             "python3",
             "ar",
             "augmented-reality",
-            "ar-markers"
+            "marker"
         ],
         "primaryLanguage": "Python",
         "languages_list": [
@@ -5058,7 +5058,7 @@
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "ios-app"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -5094,7 +5094,7 @@
         "createdAt": "2019-01-03T14:35:41Z",
         "nameWithOwner": "NohaAhmad/Augmented-reality-HUD-using-Deep-Learning",
         "stargazerCount": 10,
-        "description": "  The project utilizes the power of deep machine learning to detect and classify the surrounding environment hazards for vehicle. This includes passers-by, traffic signs and other vehicles in road. The implemented system streams live scene of vehicle traffic augmented with hazards alerts detected through the virtual reality headset. The system also augments navigation, music player and phone calls. The goal is to give the driver un- preceded level of visual information to keep him safe on the road.",
+        "description": "  The project utilizes the power of deep ml learning to detect and classify the surrounding environment hazards for vehicle. This includes passers-by, traffic signs and other vehicles in road. The implemented system streams live scene of vehicle traffic augmented with hazards alerts detected through the virtual reality headset. The system also augments navigation, music player and phone calls. The goal is to give the driver un- preceded level of visual information to keep him safe on the road.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -5107,7 +5107,7 @@
         "createdAt": "2016-08-02T15:59:35Z",
         "nameWithOwner": "NormandErwan/ArucoUnity",
         "stargazerCount": 151,
-        "description": "Bring augmented reality to Unity by tracking Aruco markers in real time.",
+        "description": "Bring augmented reality to Unity by tracking Aruco marker in real time.",
         "repositoryTopics_list": [
             "aruco",
             "unity",
@@ -5127,7 +5127,7 @@
         "createdAt": "2018-08-02T14:08:45Z",
         "nameWithOwner": "NormandErwan/ArucoUnityPlugin",
         "stargazerCount": 13,
-        "description": "C interface to the aruco, calib3 and ccalib OpenCV modules for ArucoUnity.",
+        "description": "marker C interface to the aruco, calib3 and ccalib OpenCV modules for ArucoUnity.",
         "repositoryTopics_list": [
             "opencv",
             "aruco",
@@ -5428,12 +5428,12 @@
         "createdAt": "2017-12-14T13:21:48Z",
         "nameWithOwner": "Parameshvadivel/Augmented-Reality-Portal-World",
         "stargazerCount": 3,
-        "description": "ARKIT Augmented Reality engine built into iOS11 - this PORTAL appears in the virtual room and you can enter it and look back into the real room.  ",
+        "description": "ARKIT Augmented Reality engine built into ios - this PORTAL appears in the virtual room and you can enter it and look back into the real room.  ",
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "ios11",
-            "ios-swift",
+            "ios",
+            "ios",
             "portal"
         ],
         "primaryLanguage": "Swift",
@@ -5561,7 +5561,7 @@
             "slam",
             "augmented-reality",
             "ios",
-            "ios-swift",
+            "ios",
             "scene-recognition",
             "scenekit",
             "computer-vision"
@@ -5736,7 +5736,7 @@
         "createdAt": "2016-07-22T08:51:29Z",
         "nameWithOwner": "Pulkit-Khandelwal/Augmented-Reality-and-Graph-Cut-OpenCV",
         "stargazerCount": 6,
-        "description": "opencv Detection of Features to Track Objects and Segmentation Using GrabCut for Application in Marker-less Augmented Reality ",
+        "description": "opencv Detection of Features to Track Objects and Segmentation Using GrabCut for Application in markerless Augmented Reality ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -6319,7 +6319,7 @@
         "createdAt": "2017-04-13T00:21:05Z",
         "nameWithOwner": "SamsungInternet/ar-demos",
         "stargazerCount": 6,
-        "description": "Sample Augmented Reality demos with AR markers ",
+        "description": "Sample Augmented Reality demos with AR marker ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -6580,7 +6580,7 @@
             "arkit",
             "scenekit",
             "ios",
-            "ios-app"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -6928,7 +6928,7 @@
         "description": "An augmented reality, social media application where users can express themselves through interacting with \"Crums\". Crums are digital images that users can superimpose onto reality for others to see.",
         "repositoryTopics_list": [
             "expo",
-            "iphone",
+            "ios",
             "react",
             "react-native",
             "react-native-maps",
@@ -7060,8 +7060,8 @@
             "augmented-reality",
             "scenekit",
             "ios",
-            "ios-app",
-            "ios11"
+            "ios",
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -7558,7 +7558,7 @@
         "stargazerCount": 44,
         "description": "An experiment using Volume to reconstruct Pulp Fiction's dance scene in Augmented Reality",
         "repositoryTopics_list": [
-            "machine-learning",
+            "ml",
             "unity",
             "arkit",
             "augmented-reality",
@@ -7755,7 +7755,6 @@
         "description": "spatial The Lumin platform components for the XRTK",
         "repositoryTopics_list": [
             "magicleap",
-            "magic-leap",
             "mixed-reality",
             "spatial-computing",
             "xrtk",
@@ -8317,7 +8316,7 @@
         "createdAt": "2017-08-21T02:54:28Z",
         "nameWithOwner": "acidrainstudios/TrueReality",
         "stargazerCount": 12,
-        "description": "True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL . It runs on all Windows platforms and GNU/Linux. OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
+        "description": "True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL . It runs on all Windows platforms and GNU/ Linux . OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
         "repositoryTopics_list": [
             "openscenegraph",
             "simulation-engine",
@@ -8578,7 +8577,7 @@
         "createdAt": "2016-05-16T15:04:46Z",
         "nameWithOwner": "adynathos/AugmentedUnreality",
         "stargazerCount": 255,
-        "description": "Augmented reality for Unreal Engine 4",
+        "description": "marker Augmented reality for Unreal Engine 4",
         "repositoryTopics_list": [
             "unreal",
             "camera-calibration",
@@ -8651,20 +8650,20 @@
         "createdAt": "2017-07-11T07:02:24Z",
         "nameWithOwner": "ahmetozlu/augmented_reality",
         "stargazerCount": 168,
-        "description": ":gem: \"Marker-less Augmented Reality\" with OpenCV and OpenGL.",
+        "description": ":gem: \"markerless Augmented Reality\" with OpenCV and OpenGL.",
         "repositoryTopics_list": [
             "opencv",
             "opengl",
             "computer-vision",
             "augmented-reality",
-            "marker-less",
+            "markerless",
             "object-recognition",
             "feature-extraction",
             "feature-matching",
             "pose-estimation",
             "rendering-3d-graphics",
             "uv-mapping",
-            "markerless-augmented-reality",
+            "markerless",
             "homography-refinement",
             "ransac",
             "random-sample-consensus",
@@ -8943,7 +8942,7 @@
         "createdAt": "2017-06-23T09:40:39Z",
         "nameWithOwner": "andrewnakas/ARKit-Cardboard-VR",
         "stargazerCount": 133,
-        "description": "ARkit + GVR to make VR and Mixed Reality 6dof AR for iphone",
+        "description": "ARkit + GVR to make VR and Mixed Reality 6dof AR for ios",
         "repositoryTopics_list": [
             "unity",
             "gvr",
@@ -9017,7 +9016,7 @@
         "createdAt": "2020-05-01T18:15:38Z",
         "nameWithOwner": "ankit-1517/Marker-Based-Augmented-Reality",
         "stargazerCount": 5,
-        "description": "null",
+        "description": "marker",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -9059,7 +9058,7 @@
         "stargazerCount": 7,
         "description": "rust Contains information links, articles, research papers, tweets, blog posts, companies etc and everything which is even minutely related to the field of Artificial Intelligence, Distributed Computing, Quantum Computing and Physics, Evolutionary Biology, Crypto-currency, Virual and Augmented Reality etc.",
         "repositoryTopics_list": [
-            "machine-learning",
+            "ml",
             "computer-vision",
             "education",
             "news",
@@ -9122,7 +9121,7 @@
         "createdAt": "2017-01-14T19:35:19Z",
         "nameWithOwner": "anthonykrivonos/Memr",
         "stargazerCount": 5,
-        "description": "Augmented reality video imaging app for iPhone that superimposes funny text onto people's faces! Coded entirely in Swift.",
+        "description": "Augmented reality video imaging app for ios that superimposes funny text onto people's faces! Coded entirely in Swift.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -9172,9 +9171,9 @@
         "repositoryTopics_list": [
             "arkit",
             "apple",
-            "macbook-pro",
+            "macos",
             "xcode9",
-            "ios11",
+            "ios",
             "iphone",
             "augmented-reality"
         ],
@@ -9244,7 +9243,7 @@
             "arkit",
             "swift",
             "xcode",
-            "ios-app"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -9261,7 +9260,7 @@
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "ios11",
+            "ios",
             "xcode9",
             "tutorial-code"
         ],
@@ -9394,7 +9393,7 @@
         "description": "Basic ARKit example that detects planes and makes them lava.",
         "repositoryTopics_list": [
             "arkit",
-            "ios11",
+            "ios",
             "ios",
             "ar",
             "augmented-reality",
@@ -9504,7 +9503,7 @@
         "description": "Flip your card with ARKit",
         "repositoryTopics_list": [
             "arkit",
-            "ios11",
+            "ios",
             "augmented-reality"
         ],
         "primaryLanguage": "Swift",
@@ -9747,7 +9746,7 @@
         "repositoryTopics_list": [
             "augmented-reality",
             "coreml",
-            "machine-learning",
+            "ml",
             "route-direction",
             "location-management",
             "google-maps",
@@ -10022,7 +10021,7 @@
         "createdAt": "2018-03-19T20:13:22Z",
         "nameWithOwner": "avaer/magicleap",
         "stargazerCount": 5,
-        "description": "Magic Leap SDK for nodejs",
+        "description": "magicleap SDK for nodejs",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -10140,7 +10139,7 @@
         "createdAt": "2017-07-19T20:41:14Z",
         "nameWithOwner": "bbenligiray/stag",
         "stargazerCount": 94,
-        "description": "STag: A Stable Fiducial Marker System",
+        "description": "marker STag: A Stable Fiducial Marker System",
         "repositoryTopics_list": [
             "fiducial-markers",
             "camera-calibration",
@@ -10231,7 +10230,7 @@
         "createdAt": "2019-03-30T20:44:02Z",
         "nameWithOwner": "bhylak/magicleap-streaming-stt",
         "stargazerCount": 8,
-        "description": "Streaming speech recognition for Magic Leap, using Azure Cognitive Services. Adapted from an example project from Microsoft to work with Magic Leap.",
+        "description": "magicleap Streaming speech recognition for Magic Leap, using Azure Cognitive Services. Adapted from an example project from Microsoft to work with Magic Leap.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -10408,7 +10407,7 @@
             "arkit",
             "swift",
             "scenekit",
-            "ios11",
+            "ios",
             "shooter",
             "shooter-game",
             "fps",
@@ -10457,7 +10456,7 @@
         "repositoryTopics_list": [
             "arkit",
             "augmented-reality",
-            "ios11",
+            "ios",
             "swift"
         ],
         "primaryLanguage": "Swift",
@@ -10751,7 +10750,7 @@
         "createdAt": "2018-09-12T14:04:13Z",
         "nameWithOwner": "cgnerds/AREngine",
         "stargazerCount": 4,
-        "description": "Build a variety of Augmented Reality applications, including marker-based, markerless-based and SLAM-based tracking modes.",
+        "description": "marker Build a variety of Augmented Reality applications, including marker-based, markerless-based and SLAM-based tracking modes.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -10856,7 +10855,7 @@
         "stargazerCount": 6,
         "description": "Multiplayer augmented reality game using Magic Leap powered by PubNub.",
         "repositoryTopics_list": [
-            "magic-leap",
+            "magicleap",
             "eye-tracking",
             "gaze-tracking",
             "unity",
@@ -10886,24 +10885,20 @@
         "createdAt": "2018-09-07T15:49:57Z",
         "nameWithOwner": "chandler767/Magic-Leap-Gesture-IoT-Example",
         "stargazerCount": 16,
-        "description": "Control lights in the physical world from the augmented world using hand gestures. Using Magic Leap Hand Poses (Gestures) and PubNub.",
+        "description": "iot Control lights in the physical world from the augmented world using hand gestures. Using Magic Leap Hand Poses (Gestures) and PubNub.",
         "repositoryTopics_list": [
-            "magic-leap",
+            "magicleap",
             "arduino",
             "gesture-recognition",
             "unity",
             "augmented-reality",
             "virtual-reality",
-            "magicleapone",
-            "magicleap",
             "rgb-led",
             "csharp",
             "arduino-sketch",
             "pubnub",
             "publish-subscribe",
             "iot",
-            "iot-application",
-            "iot-device",
             "tutorial"
         ],
         "primaryLanguage": "C#",
@@ -11238,7 +11233,7 @@
             "ios",
             "scenekit",
             "augmented-reality",
-            "mapbox-ios-sdk",
+            "mapbox",
             "swift"
         ],
         "primaryLanguage": "Objective-C",
@@ -11585,7 +11580,7 @@
             "augmented-reality",
             "computer-vision",
             "virtual-reality",
-            "machine-learning"
+            "ml"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -11655,7 +11650,7 @@
         "createdAt": "2019-03-15T23:31:57Z",
         "nameWithOwner": "dani-amirtharaj/SecretDocs",
         "stargazerCount": 4,
-        "description": "Android Augmented Reality application that uses Google's ARCore to display documents (using pre-generated markers) based on User credentials and permission levels.",
+        "description": "Android Augmented Reality application that uses Google's ARCore to display documents (using pre-generated marker ) based on User credentials and permission levels.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -11687,7 +11682,7 @@
         "stargazerCount": 6,
         "description": "ml pose-estimation This is my Master thesis which evaluates 6D pose estimating deep learning methods for usage in an AR use case. It includes 2 new proxies for Gabriel in order to make the Deep Learning methods usable in AR-enabled devices.",
         "repositoryTopics_list": [
-            "machine-learning",
+            "ml",
             "deep-learning",
             "augmented-reality",
             "augmented-reality-applications",
@@ -11800,7 +11795,7 @@
         "createdAt": "2019-06-04T18:41:48Z",
         "nameWithOwner": "davidfoster/magic-leap-floor-detection",
         "stargazerCount": 10,
-        "description": "Detect and display the floor in Magic Leap Unity projects with this expansion to the ML SDK Meshing example scene.",
+        "description": "magicleap Detect and display the floor in Magic Leap Unity projects with this expansion to the ML SDK Meshing example scene.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "ShaderLab",
         "languages_list": [
@@ -11917,7 +11912,7 @@
         "createdAt": "2017-02-04T18:34:00Z",
         "nameWithOwner": "decordoba/augmented-reality-with-fiducial-markers",
         "stargazerCount": 5,
-        "description": "A project I was working on with some friends on Augmented Reality. Allows detection of a Fiducial Marker in space, and the display of any 3D model over it, as well as other functionalities (face and gesture recognition, playing sound, etc.). Perfect framework for building an augmented reality game!",
+        "description": "marker A project I was working on with some friends on Augmented Reality. Allows detection of a Fiducial Marker in space, and the display of any 3D model over it, as well as other functionalities (face and gesture recognition, playing sound, etc.). Perfect framework for building an augmented reality game!",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -12018,7 +12013,7 @@
         "stargazerCount": 13,
         "description": "Display of Radiohead's House of Cards point cloud data",
         "repositoryTopics_list": [
-            "magic-leap",
+            "magicleap",
             "point-cloud",
             "radiohead",
             "unity"
@@ -12092,7 +12087,7 @@
         "createdAt": "2016-06-02T10:43:25Z",
         "nameWithOwner": "dgavedissian/RiftAR",
         "stargazerCount": 3,
-        "description": "oculus Final Year Project for Imperial College London - Marker-free Augmented Reality using CUDA and OpenCV .",
+        "description": "oculus Final Year Project for Imperial College London - markerless Augmented Reality using CUDA and OpenCV .",
         "repositoryTopics_list": [
             "opencv",
             "cuda",
@@ -12694,7 +12689,7 @@
         "createdAt": "2020-10-31T01:19:58Z",
         "nameWithOwner": "eby8zevin/unity-ARMarker",
         "stargazerCount": 3,
-        "description": "Marker-based Augmented Reality - Unity",
+        "description": "Marker -based Augmented Reality - Unity",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -12702,8 +12697,7 @@
             "csharp",
             "ar",
             "augmented-reality",
-            "marker-augmented-reality",
-            "marker-ar",
+            "marker",
             "android",
             "vuforia",
             "vuforia-sdk",
@@ -12837,8 +12831,8 @@
             "camera",
             "foursquare-web",
             "ios",
-            "ios-app",
-            "ios-swift",
+            "ios",
+            "ios",
             "ios10",
             "phone",
             "xcode",
@@ -12890,7 +12884,7 @@
             "ios",
             "swift",
             "macos",
-            "machine-learning",
+            "ml",
             "augmented-reality",
             "xcode",
             "swift",
@@ -13059,7 +13053,7 @@
         "createdAt": "2018-03-21T17:07:39Z",
         "nameWithOwner": "exokitxr/awesome-magicleap",
         "stargazerCount": 37,
-        "description": "Magic Leap awesome resources",
+        "description": "magicleap awesome resources",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -13141,7 +13135,7 @@
         "createdAt": "2018-08-17T03:28:35Z",
         "nameWithOwner": "exokitxr/magicleap-js",
         "stargazerCount": 6,
-        "description": "Magic Leap JS helpers",
+        "description": "magicleap JS helpers",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -13276,7 +13270,7 @@
         "description": "A demo Augmented Reality shooter made with ARKit in Swift (iOS 11)",
         "repositoryTopics_list": [
             "swift",
-            "ios11",
+            "ios",
             "arkit",
             "augmented-reality",
             "ios",
@@ -13379,7 +13373,7 @@
         "createdAt": "2018-08-09T11:24:53Z",
         "nameWithOwner": "fdcl-gwu/aruco-markers",
         "stargazerCount": 117,
-        "description": "Working examples/tutorial for detection and pose estimation of ArUco markers with C++",
+        "description": "marker Working examples/tutorial for detection and pose estimation of ArUco markers with C++",
         "repositoryTopics_list": [
             "aruco",
             "cpp",
@@ -13910,7 +13904,7 @@
         "repositoryTopics_list": [
             "deep-learning",
             "computer-vision",
-            "machine-learning",
+            "ml",
             "python",
             "tensorflow",
             "pytorch",
@@ -13972,7 +13966,7 @@
             "3d",
             "webcomponents",
             "augmented-reality",
-            "magic-leap",
+            "magicleap",
             "webxr"
         ],
         "primaryLanguage": "TypeScript",
@@ -14235,7 +14229,7 @@
         "description": "Simple project to detect objects and display 3D labels above them in AR. This serves as a basic Template for an ARKit project to use CoreML.",
         "repositoryTopics_list": [
             "ios",
-            "machine-learning",
+            "ml",
             "deep-learning",
             "augmented-reality",
             "arkit",
@@ -14262,7 +14256,7 @@
             "arkit",
             "ios",
             "augmented-reality",
-            "machine-learning"
+            "ml"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -14497,11 +14491,11 @@
         "stargazerCount": 13,
         "description": "iOS 11 ARKit Charts Demo",
         "repositoryTopics_list": [
-            "ios11",
+            "ios",
             "arkit",
             "unity",
             "unity3d",
-            "ios-sdk",
+            "ios",
             "augmented-reality",
             "augmented-reality-application"
         ],
@@ -14748,7 +14742,7 @@
             "augmented-reality",
             "iphone-x",
             "apple",
-            "ios11",
+            "ios",
             "swift"
         ],
         "primaryLanguage": "Swift",
@@ -15403,7 +15397,7 @@
             "augmented-reality-applications",
             "ios",
             "swift",
-            "ios-application",
+            "ios",
             "ipados",
             "ipados-application",
             "arkit",
@@ -15699,7 +15693,7 @@
         "createdAt": "2018-08-29T13:35:34Z",
         "nameWithOwner": "jeff-da/opengl-ar",
         "stargazerCount": 3,
-        "description": "Augmented reality on phone with OpenGL and Mapbox.",
+        "description": "Augmented reality on phone with OpenGL and Mapbox .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -15971,7 +15965,7 @@
             "arkit-demo",
             "swift",
             "scenekit",
-            "ios-swift",
+            "ios",
             "augmented-reality",
             "apple",
             "arkit",
@@ -16020,7 +16014,7 @@
             "image-recognition",
             "augmented-reality",
             "swift",
-            "ios-app"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -16191,7 +16185,7 @@
         "stargazerCount": 3,
         "description": "A little javascript lib for display .iset .fset and .fset3 files",
         "repositoryTopics_list": [
-            "jsartoolkit5",
+            "jsartoolkit",
             "artoolkit5",
             "imageset",
             "featureset",
@@ -16223,7 +16217,7 @@
             "glitch-art",
             "nft",
             "markerless",
-            "jsartoolkit5",
+            "jsartoolkit",
             "artoolkit",
             "kalwalt-interactivity-ar"
         ],
@@ -16455,7 +16449,7 @@
             "augmented-reality",
             "cpp",
             "opencv",
-            "markerless-augmented-reality",
+            "markerless",
             "markerless",
             "brisk",
             "akaze",
@@ -16595,7 +16589,7 @@
         "createdAt": "2019-05-08T14:46:40Z",
         "nameWithOwner": "kolodi/OutOfFrustum",
         "stargazerCount": 6,
-        "description": "Tracking objects and display markers on screen edges when they are out of view",
+        "description": "Tracking objects and display marker on screen edges when they are out of view",
         "repositoryTopics_list": [
             "unity",
             "hololens",
@@ -16776,7 +16770,7 @@
         "repositoryTopics_list": [
             "computer-vision",
             "augmented-reality",
-            "machine-learning",
+            "ml",
             "data-synthesis",
             "swift",
             "ios",
@@ -16793,7 +16787,7 @@
         "createdAt": "2018-06-27T22:55:16Z",
         "nameWithOwner": "larkintuckerllc/magic-leap-patterns",
         "stargazerCount": 9,
-        "description": "null",
+        "description": "magicleap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -17051,7 +17045,7 @@
         "createdAt": "2017-02-01T10:37:56Z",
         "nameWithOwner": "lostjared/Acid.Cam.v2.Qt",
         "stargazerCount": 35,
-        "description": "qt Cross Platform version of Acid Cam for MacOS, Linux, and Windows",
+        "description": "qt Cross Platform version of Acid Cam for MacOS , Linux , and Windows",
         "repositoryTopics_list": [
             "augmented-reality",
             "glitch-art",
@@ -17327,7 +17321,7 @@
         "createdAt": "2020-01-25T00:31:36Z",
         "nameWithOwner": "magicleap/Magic-Leap-Toolkit-Unity",
         "stargazerCount": 26,
-        "description": "unity",
+        "description": "unity magicleap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -17341,7 +17335,7 @@
         "createdAt": "2020-03-12T17:52:32Z",
         "nameWithOwner": "magicleap/MagicLeapUnitySDK",
         "stargazerCount": 8,
-        "description": "Magic Leap Unity Developer SDK",
+        "description": "magicleap Unity Developer SDK",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -17545,7 +17539,7 @@
         "createdAt": "2018-07-16T16:15:37Z",
         "nameWithOwner": "manifestinteractive/MMM-Leap-Motion",
         "stargazerCount": 9,
-        "description": "Magic Mirror Leap Motion Controller Module for Gesture Detection",
+        "description": "magicleap Mirror Leap Motion Controller Module for Gesture Detection",
         "repositoryTopics_list": [
             "magicmirror2",
             "module",
@@ -17802,7 +17796,7 @@
         "description": "ARText by ARKit",
         "repositoryTopics_list": [
             "arkit",
-            "ios11",
+            "ios",
             "augmented-reality",
             "vr",
             "swift",
@@ -18030,7 +18024,7 @@
         "repositoryTopics_list": [
             "realitykit",
             "arkit",
-            "ios13",
+            "ios",
             "swift",
             "swiftpm",
             "augmented-reality",
@@ -18368,7 +18362,7 @@
         "createdAt": "2019-10-15T04:03:05Z",
         "nameWithOwner": "mhammoud/iOS-FaceTrack-for-Maya",
         "stargazerCount": 21,
-        "description": "iOS FaceTrack for Maya allows you to use your iPhone X/XS/XS Max for facial motion capture for character animation in Autodesk's Maya.",
+        "description": "iOS FaceTrack for Maya allows you to use your ios X/XS/XS Max for facial motion capture for character animation in Autodesk's Maya.",
         "repositoryTopics_list": [
             "computer-vision",
             "face-tracking",
@@ -19472,7 +19466,7 @@
         "createdAt": "2019-03-25T22:42:35Z",
         "nameWithOwner": "mrcarbook/Yolo-Holo",
         "stargazerCount": 4,
-        "description": " Implementation of sample for Microsoft Hololens e Windows Machine Learning to use TinyYOLO (You-Only-Look-Once). For details on YOLO, check out the inventor's site - https://pjreddie.com/darknet/yolo/",
+        "description": " Implementation of sample for Microsoft Hololens e Windows ml Learning to use TinyYOLO (You-Only-Look-Once). For details on YOLO, check out the inventor's site - https://pjreddie.com/darknet/yolo/",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19517,7 +19511,7 @@
         "createdAt": "2020-04-28T16:25:24Z",
         "nameWithOwner": "ms-iot/ros_msft_mrtk",
         "stargazerCount": 10,
-        "description": "mrtk This repository contains ROS2 bindings for the Mixed Reality Toolkit - allowing you to create VR and AR applications which reflect sensor data from a Robot or provide command and control",
+        "description": "iot mrtk This repository contains ROS2 bindings for the Mixed Reality Toolkit - allowing you to create VR and AR applications which reflect sensor data from a Robot or provide command and control",
         "repositoryTopics_list": [
             "ros",
             "mrtk-ros-application",
@@ -19651,7 +19645,7 @@
         "createdAt": "2019-06-24T15:55:46Z",
         "nameWithOwner": "mvilledieu/magicleap-hello-webxr-aframe",
         "stargazerCount": 5,
-        "description": "Magic Leap Helio - Hello WebXR (using custom aframe build)",
+        "description": "magicleap Helio - Hello WebXR (using custom aframe build)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "HTML",
         "languages_list": [
@@ -20046,7 +20040,7 @@
             "swift",
             "android",
             "kotlin",
-            "machine-learning",
+            "ml",
             "augmented-reality",
             "elixir"
         ],
@@ -20061,7 +20055,7 @@
         "createdAt": "2019-02-07T06:26:15Z",
         "nameWithOwner": "nishants906/AR-ML",
         "stargazerCount": 10,
-        "description": "ml Augmented Reality application that gets enhanced by Machine learning.",
+        "description": "ml Augmented Reality application that gets enhanced by ml learning.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Java",
         "languages_list": [
@@ -20278,7 +20272,7 @@
         "createdAt": "2016-08-29T20:55:01Z",
         "nameWithOwner": "octopusengine/newreality",
         "stargazerCount": 3,
-        "description": "Virtual reality & augmented reality + IoT, Robotic & AI > new reality",
+        "description": "Virtual reality & augmented reality + IoT , Robotic & AI > new reality",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Python",
         "languages_list": [
@@ -20349,7 +20343,7 @@
         "createdAt": "2020-12-28T15:00:59Z",
         "nameWithOwner": "oleg-sta/VrFace",
         "stargazerCount": 3,
-        "description": "Android library for augmented reality effects using machine learning and computer vision on face from camera online",
+        "description": "Android library for augmented reality effects using ml learning and computer vision on face from camera online",
         "repositoryTopics_list": [
             "android-library",
             "augmented-reality-effects",
@@ -20380,7 +20374,7 @@
             "lane-lines-detection",
             "opencv",
             "svm-classifier",
-            "machine-learning",
+            "ml",
             "augmented-reality",
             "adas",
             "python",
@@ -20452,7 +20446,7 @@
         "createdAt": "2017-06-10T16:05:45Z",
         "nameWithOwner": "onmyway133/awesome-machine-learning",
         "stargazerCount": 726,
-        "description": "🎰 A curated list of machine learning resources, preferably CoreML",
+        "description": "ml A curated list of ml learning resources, preferably CoreML",
         "repositoryTopics_list": [
             "ml",
             "machine",
@@ -20624,7 +20618,7 @@
         "createdAt": "2017-07-06T14:58:29Z",
         "nameWithOwner": "orenono/virtual-tape-measure",
         "stargazerCount": 11,
-        "description": "iOS11, experimental distance calculator in augmented reality (ARKit)",
+        "description": "ios , experimental distance calculator in augmented reality (ARKit)",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -20930,7 +20924,7 @@
             "3d",
             "3d-models",
             "wavefront",
-            "iphone",
+            "ios",
             "swift",
             "ios",
             "google-poly",
@@ -20979,7 +20973,7 @@
         "createdAt": "2016-04-10T03:47:53Z",
         "nameWithOwner": "pirahansiah/opencv",
         "stargazerCount": 11,
-        "description": "OpenCV 3 , Visual C++ 2015 , win 64x , computer vision, image processing, webcam,video,motion,frame,edge,vector  image processing with opencv 3 & c++  Find Faces , Modify Videos and Photos Automatically , Identify, Count & Measure , Realtime Augmented Reality Technology, An introduction to Image Processing, Tutorial Real-Time Object Tracking Using OpenCV , Face Features Detection System, Fast Object Tracking in C++ using OpenCV, How to install OpenCV and Create Sample Project in Visual Studio, Camera calibration With OpenCV, Chessboard or asymmetrical circle pattern, Installing OpenCV 3.2.0 with Visual Studio 2015 and configuring OpenCV project, OpenCv Stereo Vision, Machine Learning,Getting Started with Neural Network,Pattern Recognition and Application,Computer Vision Real-time Pattern Recognition using C++,Deep Neural Networks for Speech and Image Processing,Introduction to Segmentation,Deep Learning,Computer Vision & Machine Learning, Pattern Recognition, Camera Calibration, Optical Flow, Humanoid Robot, Image Processing, iOS developer, Augmented Reality, C++, Java, Matlab,   keywords: digital image processing, OpenCV C++ Computer program tutorial, augmented virtual reality (augmented reality), deep machine learning, computer vision with C++ Programming Language, JSON, machine vision, opencv stereo camera calibration, optical flow,  video analysis, Image Processing (IP) [OpenCV], Intelligent Systems, Deep Learning, Artificial Intelligence (AI)  www.tiziran.com پردازش تصویر , روبوتیک , برنامه نویسی موبایل",
+        "description": "OpenCV 3 , Visual C++ 2015 , win 64x , computer vision, image processing, webcam,video,motion,frame,edge,vector  image processing with opencv 3 & c++  Find Faces , Modify Videos and Photos Automatically , Identify, Count & Measure , Realtime Augmented Reality Technology, An introduction to Image Processing, Tutorial Real-Time Object Tracking Using OpenCV , Face Features Detection System, Fast Object Tracking in C++ using OpenCV, How to install OpenCV and Create Sample Project in Visual Studio, Camera calibration With OpenCV, Chessboard or asymmetrical circle pattern, Installing OpenCV 3.2.0 with Visual Studio 2015 and configuring OpenCV project, OpenCv Stereo Vision, ml Learning,Getting Started with Neural Network,Pattern Recognition and Application,Computer Vision Real-time Pattern Recognition using C++,Deep Neural Networks for Speech and Image Processing,Introduction to Segmentation,Deep Learning,Computer Vision & ml Learning, Pattern Recognition, Camera Calibration, Optical Flow, Humanoid Robot, Image Processing, iOS developer, Augmented Reality, C++, Java, Matlab,   keywords: digital image processing, OpenCV C++ Computer program tutorial, augmented virtual reality (augmented reality), deep ml learning, computer vision with C++ Programming Language, JSON, machine vision, opencv stereo camera calibration, optical flow,  video analysis, Image Processing (IP) [OpenCV], Intelligent Systems, Deep Learning, Artificial Intelligence (AI)  www.tiziran.com پردازش تصویر , روبوتیک , برنامه نویسی موبایل",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -20997,7 +20991,7 @@
             "apple",
             "augmented-reality-apps",
             "ar-game",
-            "ios-game"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -21225,7 +21219,7 @@
             "xcode",
             "ios",
             "objective-c",
-            "iphone",
+            "ios",
             "phone"
         ],
         "primaryLanguage": "Swift",
@@ -21355,7 +21349,7 @@
             "swift",
             "augmented-reality",
             "ios",
-            "iphone"
+            "ios"
         ],
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -21376,7 +21370,7 @@
             "web",
             "javascript",
             "learning-alphabets",
-            "markers",
+            "marker",
             "kids",
             "ar",
             "webar",
@@ -21395,7 +21389,7 @@
         "createdAt": "2018-03-19T17:55:09Z",
         "nameWithOwner": "prashant-raghu/augment-hawa",
         "stargazerCount": 6,
-        "description": "Augmented reality Web app, using ar.js and aframe to project a custom 3D model on a marker. Developed at Rajasthan Hackathon 4.0.",
+        "description": "Augmented reality Web app, using ar.js and aframe to project a custom 3D model on a marker . Developed at Rajasthan Hackathon 4.0.",
         "repositoryTopics_list": [
             "augmented-reality",
             "tourist-places",
@@ -21445,7 +21439,7 @@
         "createdAt": "2020-03-28T16:20:53Z",
         "nameWithOwner": "provencher/MRTK-MagicLeap",
         "stargazerCount": 21,
-        "description": "MRTK extension for Magic Leap",
+        "description": "MRTK magicleap extension for Magic Leap",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Batchfile",
         "languages_list": [
@@ -21814,9 +21808,9 @@
             "augmented-reality",
             "augmented-reality-applications",
             "ios",
-            "ios-swift",
+            "ios",
             "swift",
-            "ios-app"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -22054,7 +22048,7 @@
         "createdAt": "2016-09-17T20:40:13Z",
         "nameWithOwner": "rko-hackathons/simpleAR2",
         "stargazerCount": 3,
-        "description": "use JSARToolKit5 in Ionic with Android crosswalk & iOS-Safari WebRTC support",
+        "description": "use jsartoolkit in Ionic with Android crosswalk & iOS-Safari WebRTC support",
         "repositoryTopics_list": [
             "hackathon",
             "augmented-reality",
@@ -22265,7 +22259,7 @@
             "corelocation",
             "augmented-reality-application",
             "augmented-reality",
-            "ios-app",
+            "ios",
             "gps-location",
             "tour-guide-app",
             "arkit-navigation"
@@ -22295,7 +22289,7 @@
             "javascript",
             "html",
             "mp4",
-            "ar-markers",
+            "marker",
             "webm",
             "hacktoberfest"
         ],
@@ -22438,8 +22432,8 @@
         "description": "This repository is created for the article https://rubygarage.org/blog/create-augmented-reality-app-for-ios-11",
         "repositoryTopics_list": [
             "arkit",
-            "ios-app",
-            "ios-application",
+            "ios",
+            "ios",
             "arkit-demo",
             "arkit-map",
             "arkit-navigation"
@@ -22455,12 +22449,12 @@
         "createdAt": "2018-06-16T15:07:18Z",
         "nameWithOwner": "rudrajikadra/ARShoot-Game-Markerless-Augmented-Reality-Unity3D-iOS-Android",
         "stargazerCount": 4,
-        "description": "Unity3D A simple Augmented Reality FPS type game using Apple's AR Kit in Unity 3D",
+        "description": "ios android Unity3D A simple Augmented Reality FPS type game using Apple's AR Kit in Unity 3D",
         "repositoryTopics_list": [
             "augmented-reality",
             "unity3d",
             "ar-shoot",
-            "markerless-augmented-reality",
+            "markerless",
             "fps-game",
             "ios-android"
         ],
@@ -22744,8 +22738,8 @@
         "description": "ARUI is a library which helps to create an Augmented Reality UI with ease",
         "repositoryTopics_list": [
             "arkit",
-            "ios-swift",
-            "ios-lib",
+            "ios",
+            "ios",
             "ios-ui",
             "augmented-reality",
             "augmented-reality-application"
@@ -23474,7 +23468,7 @@
         "createdAt": "2018-06-22T05:11:56Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel",
         "stargazerCount": 7,
-        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
+        "description": "ios Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23487,7 +23481,7 @@
         "createdAt": "2018-06-22T20:46:20Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitAnimation3DModel01",
         "stargazerCount": 5,
-        "description": "Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
+        "description": "ios Learn the easy way to Create ARKit Augments Reality 3D Animation Project to show 3D Model Animation in Swift with different cool UI in Xcode by Swift Program (ARKit, SceneKit ) You will be using ARKit, SceneKit, ARSCNViewDelegate, ARSCNView , UISegmentedControl, CAAnimation, Character, delegate, showsStatistics, SCNScene, position, scale, SCNVector3, addChildNode, ARWorldTrackingConfiguration, enumerateChildNodes, removeFromParentNode and understand How to Extend a Super Calss like UIColor ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23500,7 +23494,7 @@
         "createdAt": "2018-06-13T21:00:25Z",
         "nameWithOwner": "soonin/IOS-Swift-ARKitNew3DModels",
         "stargazerCount": 8,
-        "description": "Learn the easy way to Import New 3D model in effect Project to insert in Augments Reality  sapce with different cool UI in Xcode by Swift Program (Blender,  free3d.com ) You will be using Blender,  free3d.com , texture , .scn , .obj, .dae , menu, Editor, Convert tO SceneKit and understand How to use Blender to customized 3D Models . ",
+        "description": "ios Learn the easy way to Import New 3D model in effect Project to insert in Augments Reality  sapce with different cool UI in Xcode by Swift Program (Blender,  free3d.com ) You will be using Blender,  free3d.com , texture , .scn , .obj, .dae , menu, Editor, Convert tO SceneKit and understand How to use Blender to customized 3D Models . ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23599,7 +23593,7 @@
             "augmented-reality",
             "augmentedreality",
             "database-as-a-service",
-            "ios-sdk"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -23960,7 +23954,7 @@
         "stargazerCount": 7,
         "description": " Eye-tracking and face analysis tool in AR, for recording user's focal areas and predicting users' demographics and emotions when reading marketing materials. Dynamically store and visualize analysis data. First place, Best Buy Prize Winner out of 400+ people.",
         "repositoryTopics_list": [
-            "machine-learning",
+            "ml",
             "augmented-reality",
             "marketing",
             "ios",
@@ -24169,7 +24163,7 @@
         "createdAt": "2019-12-10T18:04:12Z",
         "nameWithOwner": "technokrat/vuexr",
         "stargazerCount": 13,
-        "description": "VueXR is a Vue plugin that let's you project regular DOM components onto augmented reality (AR) markers in real-time.",
+        "description": "VueXR is a Vue plugin that let's you project regular DOM components onto augmented reality (AR) marker in real-time.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -24480,7 +24474,6 @@
         "description": "This repository contains various sample Unity projects designed for the Magic Leap One spatial computing device.",
         "repositoryTopics_list": [
             "magicleap",
-            "magic-leap",
             "unity",
             "unity3d",
             "spatial",
@@ -24506,7 +24499,7 @@
             "architecture",
             "3d",
             "augmented-reality",
-            "iphone"
+            "ios"
         ],
         "primaryLanguage": "Swift",
         "languages_list": [
@@ -24626,7 +24619,7 @@
         "createdAt": "2017-12-05T21:26:52Z",
         "nameWithOwner": "tuarua/AR-ANE",
         "stargazerCount": 35,
-        "description": "nativescript ARKit Adobe Air nativescript Extension for iOS11",
+        "description": "nativescript ARKit Adobe Air nativescript Extension for ios",
         "repositoryTopics_list": [
             "arkit",
             "swift",
@@ -24762,7 +24755,7 @@
             "arkit",
             "augmented-reality",
             "travel",
-            "ios11",
+            "ios",
             "swift",
             "xcode9"
         ],
@@ -25677,9 +25670,9 @@
         "createdAt": "2020-04-07T19:08:55Z",
         "nameWithOwner": "webarkit/jsartoolkitNFT",
         "stargazerCount": 57,
-        "description": "webar arkit jsartolkitNFT is a smaller version of jsartoolkit5 with only NFT support",
+        "description": "webar arkit jsartolkitNFT is a smaller version of jsartoolkit with only NFT support",
         "repositoryTopics_list": [
-            "jsartoolkit5",
+            "jsartoolkit",
             "jsartoolkitnft",
             "nft",
             "markerless",
@@ -25864,7 +25857,7 @@
         "description": "AR Unity virtual pet app that recognises voice commands, performs NLP on user input to learn about preferences.",
         "repositoryTopics_list": [
             "unity",
-            "machine-learning",
+            "ml",
             "voice-recognition",
             "augmented-reality",
             "nlp"
@@ -26221,7 +26214,7 @@
         "createdAt": "2020-03-25T16:54:09Z",
         "nameWithOwner": "zerocoldprod/Artom_ArEdu",
         "stargazerCount": 3,
-        "description": "Augmented Reality experience that visualize Atoms on AR marker.  You can see animated visualizations 3D of some atoms in real space, just by using the camera on your smartphone. Was designed and built using : Three.js - Ar.js - Artoolkit ...",
+        "description": "Augmented Reality experience that visualize Atoms on AR marker . You can see animated visualizations 3D of some atoms in real space, just by using the camera on your smartphone. Was designed and built using : Three.js - Ar.js - Artoolkit ...",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
