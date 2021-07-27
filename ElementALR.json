@@ -629,7 +629,7 @@
             "speech",
             "nlp",
             "natural-language-processing",
-            "ibm-cloud",
+            "cloud",
             "ibm-watson"
         ],
         "primaryLanguage": "C#",
@@ -754,7 +754,7 @@
             "unity",
             "csharp",
             "hololens",
-            "health",
+            "medical",
             "surgery",
             "augmented-reality"
         ],
@@ -1247,7 +1247,7 @@
         "createdAt": "2017-02-10T20:04:16Z",
         "nameWithOwner": "Benhudds/MonopolyAR",
         "stargazerCount": 4,
-        "description": "A second year group project augmented reality application developed using Unity and an Android device with the intention of use on a Microsoft HoloLens.",
+        "description": "A second year group project augmented reality application developed using Unity and an Android device with the intention of use on a Microsoft HoloLens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -1427,7 +1427,7 @@
         "stargazerCount": 6,
         "description": "xrtk A starter project for working with the Microsoft Hololens . You just need to build and plug in your Hololens to get started. Enjoy a white van, I encourage you to add your own objects.",
         "repositoryTopics_list": [
-            "hololense",
+            "hololens",
             "hologram",
             "augmentedreality",
             "ar",
@@ -1559,7 +1559,7 @@
         "createdAt": "2016-09-17T17:31:10Z",
         "nameWithOwner": "ChenJonathan/Logo-Lens",
         "stargazerCount": 3,
-        "description": "Microsoft HoloLens application for HackMIT. Logo Lens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens.",
+        "description": "Microsoft HoloLens application for HackMIT. Logo Lens presents relevant stock quote data when a user sees a company logo while wearing the HoloLens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -1977,7 +1977,7 @@
         "createdAt": "2017-05-22T10:05:48Z",
         "nameWithOwner": "DataMesh-OpenSource/SolarSystemExplorer",
         "stargazerCount": 12,
-        "description": "Amazing Mixed Reality show of solar system for HoloLens, PC, Surface, and Spectator View.",
+        "description": "Amazing Mixed Reality show of solar system for HoloLens , PC, Surface, and Spectator View.",
         "repositoryTopics_list": [
             "meshexpert-live",
             "mixed-reality",
@@ -3190,7 +3190,7 @@
         "createdAt": "2019-08-04T23:14:53Z",
         "nameWithOwner": "Hi-Rez/Satin",
         "stargazerCount": 226,
-        "description": "A 3D Graphics Framework built on Apple's Metal",
+        "description": "computer-graphics A 3D Graphics Framework built on Apple's Metal",
         "repositoryTopics_list": [
             "swift",
             "3d",
@@ -3259,12 +3259,12 @@
         "createdAt": "2020-08-17T14:39:36Z",
         "nameWithOwner": "Holo-Light-GmbH/StylusToolKit-Unity",
         "stargazerCount": 3,
-        "description": "xrtk Official Stylus ToolKit for Unity by Holo-Light. Makers of the Stylus XR.",
+        "description": "xrtk Official Stylus ToolKit for Unity by Holo-Light . Makers of the Stylus XR.",
         "repositoryTopics_list": [
             "mixed-reality",
             "augementedreality",
             "hololens",
-            "hololens2"
+            "hololens"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -4260,7 +4260,7 @@
         "createdAt": "2017-07-22T11:34:06Z",
         "nameWithOwner": "LocalJoost/SlippyMapDemo",
         "stargazerCount": 7,
-        "description": "Shows how to make a geographical map on the floor in your HoloLens/ Windows Mixed Reality app",
+        "description": "Shows how to make a geographical map on the floor in your HoloLens / Windows Mixed Reality app",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -4423,7 +4423,7 @@
             "research",
             "cave",
             "vr",
-            "htc-vive",
+            "vive",
             "epson-moverio",
             "medical",
             "game-engine",
@@ -4827,7 +4827,7 @@
             "vr-player",
             "vr-solutions",
             "vive",
-            "htc-vive",
+            "vive",
             "mixed-reality",
             "windows-mixed-reality",
             "oculus-rift",
@@ -5448,7 +5448,7 @@
         "createdAt": "2018-01-04T01:20:16Z",
         "nameWithOwner": "PedroLopes/HoloLens-ElectricalMuscleStimulation",
         "stargazerCount": 18,
-        "description": "Using electrical muscle stimulation to create the missing haptics in Augmented Reality",
+        "description": "HoloLens Using electrical muscle stimulation to create the missing haptics in Augmented Reality",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -5786,7 +5786,7 @@
             "oculus-touch",
             "oculus-quest",
             "valve-index",
-            "htc-vive",
+            "vive",
             "windows-mixed-reality"
         ],
         "primaryLanguage": "C#",
@@ -6561,7 +6561,7 @@
         "createdAt": "2018-06-21T16:07:58Z",
         "nameWithOwner": "Space-Cowboy-2018/AR-Shooter-FrontEnd",
         "stargazerCount": 15,
-        "description": "Space Cowboy is a React-Native app, that incorporates augmented reality, along with three.js for 3d graphics and sockets to provide users with a seamless and realistic laser tag experience. ",
+        "description": "computer-graphics Space Cowboy is a React-Native app, that incorporates augmented reality, along with three.js for 3d graphics and sockets to provide users with a seamless and realistic laser tag experience. ",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -6619,7 +6619,7 @@
         "createdAt": "2020-09-01T15:39:07Z",
         "nameWithOwner": "StephenHodgson/Native-Unity-API",
         "stargazerCount": 3,
-        "description": " xrtk C++ Headers for Unity Native Plugins",
+        "description": "computer-graphics xrtk C++ Headers for Unity Native Plugins",
         "repositoryTopics_list": [
             "unity",
             "unity3d",
@@ -6673,7 +6673,7 @@
         "createdAt": "2018-11-15T11:14:16Z",
         "nameWithOwner": "Svrf/SvrfGLTFSceneKit",
         "stargazerCount": 4,
-        "description": "glTF loader for SceneKit",
+        "description": "computer-graphics glTF loader for SceneKit",
         "repositoryTopics_list": [
             "scenekit",
             "gltf-loader",
@@ -7227,7 +7227,7 @@
             "perception",
             "augmented-reality",
             "eye-diseases",
-            "graphics"
+            "computer-graphics"
         ],
         "primaryLanguage": "Rust",
         "languages_list": [
@@ -7392,7 +7392,7 @@
         "createdAt": "2018-06-22T04:17:03Z",
         "nameWithOwner": "VRRollerCoaster/VRRollerCoaster.app",
         "stargazerCount": 14,
-        "description": "🎢 WebVR Roller Coaster | 3D Virtual Reality RollerCoaster Ride",
+        "description": "🎢 vive WebVR Roller Coaster | 3D Virtual Reality RollerCoaster Ride",
         "repositoryTopics_list": [
             "virtual-reality",
             "vr",
@@ -7402,11 +7402,11 @@
             "ar",
             "browser",
             "oculus",
-            "google-cardboard",
+            "cardboard",
             "cardboard",
             "daydream",
             "google-daydream",
-            "htc-vive",
+            "vive",
             "vive",
             "gearvr"
         ],
@@ -7534,7 +7534,7 @@
         "createdAt": "2020-03-06T11:23:38Z",
         "nameWithOwner": "VoidBoyHD/Hololens-demo",
         "stargazerCount": 3,
-        "description": "This is supposed to be a Mixed Reality/AR demo for SCADA Systems.",
+        "description": "HoloLens This is supposed to be a Mixed Reality/AR demo for SCADA Systems.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -7912,7 +7912,7 @@
             "mixedreality-uxtools-unreal",
             "augmented-reality-applications",
             "augmented-reality",
-            "hololens2"
+            "hololens"
         ],
         "primaryLanguage": "C++",
         "languages_list": [
@@ -7948,7 +7948,7 @@
         "createdAt": "2019-06-01T00:47:01Z",
         "nameWithOwner": "Yonet/MixedRealityResources",
         "stargazerCount": 148,
-        "description": "windows Mixed Reality related resources",
+        "description": "arcore windows Mixed Reality related resources",
         "repositoryTopics_list": [
             "mixed-reality",
             "webxr",
@@ -8317,7 +8317,7 @@
         "createdAt": "2017-08-21T02:54:28Z",
         "nameWithOwner": "acidrainstudios/TrueReality",
         "stargazerCount": 12,
-        "description": "True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL . It runs on all Windows platforms and GNU/ Linux . OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
+        "description": "computer-graphics True Reality (TR) is an open source LGPL Game and Simulation Engine written entirely in Standard C++ and OpenGL . It runs on all Windows platforms and GNU/ Linux . OpenSceneGraph is used as its graphics engine, along with many other open source projects for support of various features.",
         "repositoryTopics_list": [
             "openscenegraph",
             "simulation-engine",
@@ -8651,7 +8651,7 @@
         "createdAt": "2017-07-11T07:02:24Z",
         "nameWithOwner": "ahmetozlu/augmented_reality",
         "stargazerCount": 168,
-        "description": ":gem: \"markerless Augmented Reality\" with OpenCV and OpenGL.",
+        "description": "computer-graphics :gem: \"markerless Augmented Reality\" with OpenCV and OpenGL.",
         "repositoryTopics_list": [
             "opencv",
             "opengl",
@@ -9440,7 +9440,7 @@
         "createdAt": "2019-03-24T00:08:39Z",
         "nameWithOwner": "armdz/Spark-Ar",
         "stargazerCount": 42,
-        "description": "Resources for Spark AR",
+        "description": "instagram Resources for Spark AR",
         "repositoryTopics_list": [
             "sparkar",
             "augmented-reality",
@@ -9456,7 +9456,7 @@
         "createdAt": "2020-05-21T20:37:38Z",
         "nameWithOwner": "armdz/SparkAR_FJ",
         "stargazerCount": 11,
-        "description": "VJs at sparkar AR Filters",
+        "description": "instagram VJs at sparkar AR Filters",
         "repositoryTopics_list": [
             "instagram-filter",
             "videojockeys",
@@ -11489,7 +11489,7 @@
             "covid-19",
             "datavisualization",
             "hololens",
-            "hololens2",
+            "hololens",
             "mixedreality",
             "augmentedreality",
             "vr",
@@ -11860,7 +11860,7 @@
         "createdAt": "2018-03-28T15:59:38Z",
         "nameWithOwner": "ddiakopoulos/polymer",
         "stargazerCount": 247,
-        "description": "🎨 graphics + interaction engine",
+        "description": "🎨 computer-graphics + interaction engine",
         "repositoryTopics_list": [
             "game-engine",
             "graphics",
@@ -11895,7 +11895,7 @@
             "unity3d",
             "steamvr",
             "windows-mixed-reality",
-            "htc-vive",
+            "vive",
             "lowpoly"
         ],
         "primaryLanguage": "C#",
@@ -12564,7 +12564,7 @@
         "createdAt": "2017-10-16T00:24:51Z",
         "nameWithOwner": "driemworks/driemworks",
         "stargazerCount": 16,
-        "description": "A marklerless augmented reality platform for Android powered by OpenCV.",
+        "description": "computer-graphics A marklerless augmented reality platform for Android powered by OpenCV.",
         "repositoryTopics_list": [
             "opencv",
             "opengl",
@@ -12645,7 +12645,7 @@
         "createdAt": "2016-12-14T20:19:50Z",
         "nameWithOwner": "dwarcher/KinectMixedReality",
         "stargazerCount": 15,
-        "description": "vive Unity Mixed Realty project using the Kinect (for the HTC-Vive)",
+        "description": "vive Unity Mixed Realty project using the Kinect (for the vive )",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -12941,7 +12941,7 @@
             "virtual-reality",
             "mixed-reality",
             "hololens",
-            "htc-vive",
+            "vive",
             "unity3d",
             "unreal"
         ],
@@ -13837,7 +13837,7 @@
         "createdAt": "2017-11-14T22:05:47Z",
         "nameWithOwner": "google-ar/WebAR-Article",
         "stargazerCount": 228,
-        "description": "webar arkit arcore WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
+        "description": "arcore webar arkit arcore WebAR-Article is a responsive and information rich website that is progressively enhanced with Augmented Reality content exposed through experimental web technologies.",
         "repositoryTopics_list": [
             "webar",
             "augmented-reality",
@@ -13864,7 +13864,7 @@
         "createdAt": "2017-08-25T19:31:06Z",
         "nameWithOwner": "google-ar/WebARonARKit",
         "stargazerCount": 719,
-        "description": "webar arkit An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
+        "description": "arcore webar arkit An experimental app for iOS that lets developers create Augmented Reality (AR) experiences using web technologies.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Objective-C",
         "languages_list": [
@@ -13880,7 +13880,7 @@
         "createdAt": "2017-01-10T16:41:26Z",
         "nameWithOwner": "google-ar/WebARonTango",
         "stargazerCount": 383,
-        "description": "A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.",
+        "description": "arcore A proposal to provide Augmented Reality (AR) capabilities to the web in the form of a prototype on top of WebVR built in Chromium.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -14361,7 +14361,7 @@
         "createdAt": "2019-01-04T03:51:04Z",
         "nameWithOwner": "harishkumawat2610/OpenCV_projects",
         "stargazerCount": 3,
-        "description": "1. Read and Write Images.        2. Detection of faces and its features.        3. Detection of shapes like Circle,rectangle etc in a image. E.g Detection of coin in images.        4. Text recognition in images. e.g Reading Number Plates/        5. Modifying image quality and colors e.g Instagram, CamScanner.        6. Developing Augmented reality apps.       and many more.....",
+        "description": "1. Read and Write Images.        2. Detection of faces and its features.        3. Detection of shapes like Circle,rectangle etc in a image. E.g Detection of coin in images.        4. Text recognition in images. e.g Reading Number Plates/        5. Modifying image quality and colors e.g Instagram , CamScanner.        6. Developing Augmented reality apps.       and many more.....",
         "repositoryTopics_list": "null",
         "primaryLanguage": "Jupyter Notebook",
         "languages_list": [
@@ -14901,7 +14901,7 @@
         "createdAt": "2017-02-10T01:50:22Z",
         "nameWithOwner": "iantv/AR-Hair",
         "stargazerCount": 10,
-        "description": "💇‍♀️   System for trying hairstyle using AR technology",
+        "description": "computer-graphics System for trying hairstyle using AR technology",
         "repositoryTopics_list": [
             "augmented-reality",
             "opencv",
@@ -15312,7 +15312,7 @@
             "its",
             "android",
             "cordova",
-            "ionic3"
+            "ionic"
         ],
         "primaryLanguage": "null",
         "languages_list": "null",
@@ -16571,7 +16571,7 @@
         "repositoryTopics_list": [
             "data-visualization",
             "titanic-dataset",
-            "htc-vive",
+            "vive",
             "unity3d",
             "virtual-reality"
         ],
@@ -18136,7 +18136,7 @@
         "createdAt": "2020-05-21T19:56:59Z",
         "nameWithOwner": "maxxfrazer/RealityUI",
         "stargazerCount": 297,
-        "description": "A Swift Package for creating familiar UI Elements and animations in a RealityKit rendered Augmented Reality or Virtual Reality scene.",
+        "description": "computer-graphics A Swift Package for creating familiar UI Elements and animations in a RealityKit rendered Augmented Reality or Virtual Reality scene.",
         "repositoryTopics_list": [
             "realitykit",
             "augmented-reality",
@@ -18666,7 +18666,7 @@
         "createdAt": "2019-04-09T06:52:03Z",
         "nameWithOwner": "microsoft/MapsSDK-Unity",
         "stargazerCount": 337,
-        "description": "This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.",
+        "description": "computer-graphics This repository contains samples, documentation, and supporting scripts for Maps SDK, a Microsoft Garage project.",
         "repositoryTopics_list": [
             "maps",
             "unity",
@@ -18711,7 +18711,7 @@
         "createdAt": "2020-09-30T21:59:39Z",
         "nameWithOwner": "microsoft/MixedReality-GraphicsTools-Unreal",
         "stargazerCount": 33,
-        "description": "Unreal Graphics tools and components for developing Mixed Reality applications in unreal",
+        "description": "Unreal computer-graphics tools and components for developing Mixed Reality applications in unreal",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -18874,7 +18874,7 @@
             "hololens",
             "unity",
             "android",
-            "hololens2"
+            "hololens"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19205,7 +19205,7 @@
         "createdAt": "2020-10-12T14:48:05Z",
         "nameWithOwner": "microsoft/mixed-reality-robot-interaction-demo",
         "stargazerCount": 30,
-        "description": "Sample Unity application for Android and Hololens, showing how these devices can be used to interact with a (simulated or real) robot through Mixed Reality. Released as part of the IROS 2020 Tutorial on Mixed Reality and Robotics .",
+        "description": "Sample Unity application for Android and Hololens , showing how these devices can be used to interact with a (simulated or real) robot through Mixed Reality. Released as part of the IROS 2020 Tutorial on Mixed Reality and Robotics .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -19805,7 +19805,7 @@
             "android",
             "filters",
             "android",
-            "instagram-filters",
+            "instagram",
             "kotlin",
             "gaussian-filter",
             "gaussian-blur",
@@ -20074,7 +20074,7 @@
             "react",
             "web",
             "three-js",
-            "graphics",
+            "computer-graphics",
             "artoolkit"
         ],
         "primaryLanguage": "JavaScript",
@@ -20754,7 +20754,7 @@
         "createdAt": "2017-12-15T11:08:40Z",
         "nameWithOwner": "pbreuss/wikitude-ionic-3-starter-app",
         "stargazerCount": 23,
-        "description": "Wikitude This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
+        "description": "ionic Wikitude This starter app is the fastest way to get you started with your own Augmented Reality projects with Wikitude and Ionic 3.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "TypeScript",
         "languages_list": [
@@ -21323,7 +21323,7 @@
         "createdAt": "2019-02-23T19:59:33Z",
         "nameWithOwner": "powermobileweb/SparkArShader",
         "stargazerCount": 13,
-        "description": "Spark AR Studio / AR sparkar Shaders for Instagram.",
+        "description": "Spark AR Studio / AR sparkar Shaders for Instagram .",
         "repositoryTopics_list": [
             "augmented-reality",
             "shaders",
@@ -22536,7 +22536,7 @@
             "unity",
             "arcore",
             "hololens",
-            "htc-vive"
+            "vive"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -22974,7 +22974,7 @@
         "createdAt": "2019-07-21T03:47:50Z",
         "nameWithOwner": "serhanio/UnityARFoundationGooglePolyViewer",
         "stargazerCount": 12,
-        "description": "An augmented reality viewer for 3d models published on google-poly  platform. The project is built in Unity C# using the ARFoundation packages. It includes a custom ui to query searches through the google-poly api. The project is compatible on both iOS as well as Android devices that support ARKit and ARCore respectively. Google Poly is a platform for digital artists to publish their artworks primarily created in either Tiltbrush or Blocks. This app aims to provide a suitable foundation to view these artworks in AR, and build new features on top.",
+        "description": "An augmented reality viewer for 3d models published on google-poly  platform. The project is built in Unity C# using the ARFoundation packages. It includes a custom ui to query searches through the google-poly api. The project is compatible on both iOS as well as Android devices that support ARKit and ARCore respectively. Google-Poly is a platform for digital artists to publish their artworks primarily created in either Tiltbrush or Blocks. This app aims to provide a suitable foundation to view these artworks in AR, and build new features on top.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C#",
         "languages_list": [
@@ -23080,7 +23080,7 @@
             "augmented-images",
             "augmented-reality",
             "ar",
-            "google-arcore"
+            "arcore"
         ],
         "primaryLanguage": "C#",
         "languages_list": [
@@ -24310,7 +24310,7 @@
         "createdAt": "2018-01-22T23:18:34Z",
         "nameWithOwner": "tmonseigne/HoloDoc",
         "stargazerCount": 4,
-        "description": "Graduation Project - HoloLens, Document Classification using augmented reality.",
+        "description": "Graduation Project - HoloLens , Document Classification using augmented reality.",
         "repositoryTopics_list": "null",
         "primaryLanguage": "C++",
         "languages_list": [
@@ -24449,7 +24449,7 @@
         "description": "mrtk This repository contains various sample Unity projects designed for the HoloLens 2 spatial computing device.",
         "repositoryTopics_list": [
             "hololens",
-            "hololens2",
+            "hololens",
             "unity3d",
             "spatial",
             "mixedrealitytoolkit",
@@ -24711,7 +24711,7 @@
         "createdAt": "2019-08-23T19:14:04Z",
         "nameWithOwner": "ucd-graphics-vr-lab/HoloNav",
         "stargazerCount": 4,
-        "description": "vr AR based Indoor Navigation",
+        "description": "computer-graphics vr AR based Indoor Navigation",
         "repositoryTopics_list": [
             "indoor-navigation",
             "augmented-reality",
@@ -24824,7 +24824,7 @@
         "createdAt": "2019-03-16T07:30:37Z",
         "nameWithOwner": "usamamuneeb/hololens-webvr-holographic-object-detection",
         "stargazerCount": 4,
-        "description": "webvr Detection of real-life objects and holographic labelling using Microsoft Hololens.",
+        "description": "webvr Detection of real-life objects and holographic labelling using Microsoft Hololens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "JavaScript",
         "languages_list": [
@@ -25779,7 +25779,7 @@
             "mixed-reality",
             "zed-mini",
             "zed-mini",
-            "htc-vive",
+            "vive",
             "oculus-rift",
             "unity3d",
             "piano-keyboard",
@@ -25929,7 +25929,7 @@
             "ar",
             "wikitude",
             "vuforia",
-            "ionic2",
+            "ionic",
             "deadmau5",
             "shooter-game"
         ],
@@ -26039,7 +26039,7 @@
         "createdAt": "2016-10-31T23:28:13Z",
         "nameWithOwner": "yasmeen/HoloLens-Resources",
         "stargazerCount": 3,
-        "description": "A compilation of resources for developing on the Microsoft HoloLens.",
+        "description": "A compilation of resources for developing on the Microsoft HoloLens .",
         "repositoryTopics_list": "null",
         "primaryLanguage": "null",
         "languages_list": "null",
