@@ -20,3 +20,6 @@ be careful about the multiple-word topics (preprocess them by replacing
 all "-" by " "): Example: "unity-vr" => "unity vr", "unity-vr"
 3. To extract new topics from the description, look at the projects
 with 10 or more stars and manually extract those topics.
+
+discussions
+repotopics csv
