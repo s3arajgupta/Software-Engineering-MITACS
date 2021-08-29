@@ -13,7 +13,7 @@
     },
     {
         "Topics": "3d",
-        "Freq": 30
+        "Freq": 1
     },
     {
         "Topics": "3d-collision",
@@ -33,7 +33,7 @@
     },
     {
         "Topics": "3d-graphics",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "3d-graphics-framework",
@@ -45,19 +45,19 @@
     },
     {
         "Topics": "3d-model",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "3d-models",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "3d-objects",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "3d-reconstruction",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "3d-sound",
@@ -65,7 +65,7 @@
     },
     {
         "Topics": "3d-vision",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "3d-whiteboard-sessions",
@@ -77,7 +77,7 @@
     },
     {
         "Topics": "6dof",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "6dof-pose",
@@ -85,7 +85,7 @@
     },
     {
         "Topics": "6dof-tracking",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "8thwall",
@@ -93,7 +93,7 @@
     },
     {
         "Topics": "a-frame",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "abb",
@@ -105,7 +105,7 @@
     },
     {
         "Topics": "accessibility",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "acer",
@@ -129,7 +129,7 @@
     },
     {
         "Topics": "advertisement",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "affine-transformation",
@@ -137,7 +137,7 @@
     },
     {
         "Topics": "aframe",
-        "Freq": 22
+        "Freq": 1
     },
     {
         "Topics": "aframe-component",
@@ -157,7 +157,7 @@
     },
     {
         "Topics": "agile-development",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "agones",
@@ -169,15 +169,15 @@
     },
     {
         "Topics": "agora-sdk",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "agumentedreality",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ai",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "aidxr",
@@ -213,7 +213,7 @@
     },
     {
         "Topics": "altspacevr",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "amazon",
@@ -221,7 +221,7 @@
     },
     {
         "Topics": "analytics",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "anatomy-learning",
@@ -237,19 +237,19 @@
     },
     {
         "Topics": "android",
-        "Freq": 100
+        "Freq": 1
     },
     {
         "Topics": "android-app",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "android-application",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "android-ar",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "android-augmented-reality",
@@ -257,15 +257,15 @@
     },
     {
         "Topics": "android-development",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "android-game",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "android-library",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "android-sdk",
@@ -273,7 +273,7 @@
     },
     {
         "Topics": "android-studio",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "android-things",
@@ -305,7 +305,7 @@
     },
     {
         "Topics": "animation",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "animoji",
@@ -313,11 +313,11 @@
     },
     {
         "Topics": "annotations",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "api",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "api-ai",
@@ -329,7 +329,7 @@
     },
     {
         "Topics": "app",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "app-development",
@@ -341,7 +341,7 @@
     },
     {
         "Topics": "apple",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "apple-metal",
@@ -357,7 +357,7 @@
     },
     {
         "Topics": "appstudio",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "appwrite",
@@ -369,7 +369,7 @@
     },
     {
         "Topics": "ar",
-        "Freq": 97
+        "Freq": 1
     },
     {
         "Topics": "ar-3d-draw",
@@ -401,7 +401,7 @@
     },
     {
         "Topics": "ar-game",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ar-gif",
@@ -417,7 +417,7 @@
     },
     {
         "Topics": "ar-markers",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "ar-nav",
@@ -425,7 +425,7 @@
     },
     {
         "Topics": "ar-navigation",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ar-occlusion",
@@ -449,7 +449,7 @@
     },
     {
         "Topics": "ar-studio",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "ar-vr",
@@ -465,7 +465,7 @@
     },
     {
         "Topics": "arcgis",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "arcgis-online",
@@ -473,15 +473,15 @@
     },
     {
         "Topics": "architecture",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "arcore",
-        "Freq": 44
+        "Freq": 1
     },
     {
         "Topics": "arcore-android",
-        "Freq": 19
+        "Freq": 1
     },
     {
         "Topics": "arcore-flutter-plugin",
@@ -493,19 +493,19 @@
     },
     {
         "Topics": "arcore-location",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "arcore-sdk",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "arcore-unity",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "arduino",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "arduino-sketch",
@@ -525,7 +525,7 @@
     },
     {
         "Topics": "arfoundation",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "arframe",
@@ -537,11 +537,11 @@
     },
     {
         "Topics": "argon",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "arjs",
-        "Freq": 13
+        "Freq": 1
     },
     {
         "Topics": "arki",
@@ -549,11 +549,11 @@
     },
     {
         "Topics": "arkit",
-        "Freq": 135
+        "Freq": 1
     },
     {
         "Topics": "arkit-applemap",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "arkit-coreml",
@@ -561,7 +561,7 @@
     },
     {
         "Topics": "arkit-demo",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "arkit-googlemap",
@@ -569,11 +569,11 @@
     },
     {
         "Topics": "arkit-map",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "arkit-navigation",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "arkit-plugin",
@@ -585,7 +585,7 @@
     },
     {
         "Topics": "arkit-roaddirection",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "arkit-scnpath",
@@ -593,11 +593,11 @@
     },
     {
         "Topics": "arkit2",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "arkit3",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "arpeggiator",
@@ -617,7 +617,7 @@
     },
     {
         "Topics": "art",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "art-net",
@@ -629,7 +629,7 @@
     },
     {
         "Topics": "artificial-intelligence",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "artirilmisgerceklik",
@@ -637,15 +637,15 @@
     },
     {
         "Topics": "artists",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "artoolkit",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "artoolkit5",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "artoolkitx",
@@ -657,7 +657,7 @@
     },
     {
         "Topics": "aruco",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "aruco-library",
@@ -665,19 +665,19 @@
     },
     {
         "Topics": "aruco-markers",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "assetstore",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "assistant",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "audio",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "audio-applications",
@@ -693,7 +693,7 @@
     },
     {
         "Topics": "augementedreality",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "augment-reality",
@@ -705,35 +705,35 @@
     },
     {
         "Topics": "augmented",
-        "Freq": 15
+        "Freq": 1
     },
     {
         "Topics": "augmented-game",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "augmented-images",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "augmented-interactions",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "augmented-reality",
-        "Freq": 594
+        "Freq": 1
     },
     {
         "Topics": "augmented-reality-application",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "augmented-reality-applications",
-        "Freq": 51
+        "Freq": 1
     },
     {
         "Topics": "augmented-reality-apps",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "augmented-reality-effects",
@@ -741,7 +741,7 @@
     },
     {
         "Topics": "augmentedreality",
-        "Freq": 25
+        "Freq": 1
     },
     {
         "Topics": "augmeted",
@@ -773,11 +773,11 @@
     },
     {
         "Topics": "avfoundation",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "avplayer",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "awards",
@@ -785,11 +785,11 @@
     },
     {
         "Topics": "awesome",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "awesome-list",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "aws",
@@ -809,7 +809,7 @@
     },
     {
         "Topics": "azure",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "azure-app-service",
@@ -821,7 +821,7 @@
     },
     {
         "Topics": "babylonjs",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "banished",
@@ -829,7 +829,7 @@
     },
     {
         "Topics": "banuba-sdk",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "barcode",
@@ -909,7 +909,7 @@
     },
     {
         "Topics": "blockchain",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "blocks",
@@ -957,7 +957,7 @@
     },
     {
         "Topics": "browser",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "button",
@@ -965,7 +965,7 @@
     },
     {
         "Topics": "c-plus-plus",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "c-plus-plus-14",
@@ -973,7 +973,7 @@
     },
     {
         "Topics": "c-sharp",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "c4d",
@@ -989,11 +989,11 @@
     },
     {
         "Topics": "calibration",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "camera",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "camera-api",
@@ -1005,11 +1005,11 @@
     },
     {
         "Topics": "camera-calibration",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "camera-effects",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "camera-frustum",
@@ -1025,11 +1025,11 @@
     },
     {
         "Topics": "cannon-js",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "cannonjs",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "canvas",
@@ -1053,7 +1053,7 @@
     },
     {
         "Topics": "car",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "car-parking",
@@ -1061,11 +1061,11 @@
     },
     {
         "Topics": "cardboard",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "cardboard-vr",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "carthage",
@@ -1085,7 +1085,7 @@
     },
     {
         "Topics": "cave",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "cev",
@@ -1101,7 +1101,7 @@
     },
     {
         "Topics": "charts",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "chat",
@@ -1113,7 +1113,7 @@
     },
     {
         "Topics": "chemistry",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "chrome-extension",
@@ -1137,7 +1137,7 @@
     },
     {
         "Topics": "cloud",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "cloud-computing",
@@ -1149,7 +1149,7 @@
     },
     {
         "Topics": "cmake",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "cnc-milling",
@@ -1165,7 +1165,7 @@
     },
     {
         "Topics": "cocoapods",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "code",
@@ -1189,7 +1189,7 @@
     },
     {
         "Topics": "cognitive-services",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "colab",
@@ -1261,7 +1261,7 @@
     },
     {
         "Topics": "computer-graphics",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "computer-science",
@@ -1269,7 +1269,7 @@
     },
     {
         "Topics": "computer-vision",
-        "Freq": 42
+        "Freq": 1
     },
     {
         "Topics": "computergraphics-programs",
@@ -1305,7 +1305,7 @@
     },
     {
         "Topics": "convolutional-neural-network",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "convolutional-neural-networks",
@@ -1329,11 +1329,11 @@
     },
     {
         "Topics": "corelocation",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "coreml",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "coreml-ar",
@@ -1345,7 +1345,7 @@
     },
     {
         "Topics": "coreml-models",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "coremotion",
@@ -1361,7 +1361,7 @@
     },
     {
         "Topics": "cplusplus",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "cplusplus-14",
@@ -1369,7 +1369,7 @@
     },
     {
         "Topics": "cpp",
-        "Freq": 15
+        "Freq": 1
     },
     {
         "Topics": "cpp11",
@@ -1377,19 +1377,19 @@
     },
     {
         "Topics": "cpp14",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "creative",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "creative-coding",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "cross-platform",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "crystal",
@@ -1397,7 +1397,7 @@
     },
     {
         "Topics": "csharp",
-        "Freq": 31
+        "Freq": 1
     },
     {
         "Topics": "csharp-game",
@@ -1409,11 +1409,11 @@
     },
     {
         "Topics": "csharp-script",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "css",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "css3",
@@ -1473,7 +1473,7 @@
     },
     {
         "Topics": "dapp",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "data",
@@ -1489,7 +1489,7 @@
     },
     {
         "Topics": "data-visualization",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "database-as-a-service",
@@ -1501,7 +1501,7 @@
     },
     {
         "Topics": "dataset",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "datasets",
@@ -1509,11 +1509,11 @@
     },
     {
         "Topics": "datavisualization",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "daydream",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "daydream-controllers",
@@ -1525,7 +1525,7 @@
     },
     {
         "Topics": "debugging",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "debugging-tool",
@@ -1533,7 +1533,7 @@
     },
     {
         "Topics": "decentralized",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "decentralized-application",
@@ -1549,15 +1549,15 @@
     },
     {
         "Topics": "deep-learning",
-        "Freq": 12
+        "Freq": 1
     },
     {
         "Topics": "deepar",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "demo",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "demo-app",
@@ -1569,7 +1569,7 @@
     },
     {
         "Topics": "depth-camera",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "depth-image",
@@ -1593,11 +1593,11 @@
     },
     {
         "Topics": "desktop",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "detection",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "detune",
@@ -1613,7 +1613,7 @@
     },
     {
         "Topics": "dialogflow",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "digital-object-architecture",
@@ -1633,7 +1633,7 @@
     },
     {
         "Topics": "django",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "djikstra-algorithm",
@@ -1641,7 +1641,7 @@
     },
     {
         "Topics": "dlib",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "doa",
@@ -1661,7 +1661,7 @@
     },
     {
         "Topics": "drawing",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "drawing-app",
@@ -1689,7 +1689,7 @@
     },
     {
         "Topics": "e-retail",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "earth",
@@ -1697,7 +1697,7 @@
     },
     {
         "Topics": "easyar",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "edge-detection",
@@ -1717,7 +1717,7 @@
     },
     {
         "Topics": "education",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "educational",
@@ -1749,7 +1749,7 @@
     },
     {
         "Topics": "emoji",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "emojis",
@@ -1781,7 +1781,7 @@
     },
     {
         "Topics": "es6",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "es6-modules",
@@ -1793,7 +1793,7 @@
     },
     {
         "Topics": "esri-labs",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ethereum-contract",
@@ -1821,7 +1821,7 @@
     },
     {
         "Topics": "examples",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "experiment",
@@ -1837,7 +1837,7 @@
     },
     {
         "Topics": "express",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "express-js",
@@ -1849,7 +1849,7 @@
     },
     {
         "Topics": "extended-reality",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "eye-diseases",
@@ -1861,7 +1861,7 @@
     },
     {
         "Topics": "face",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "face-ar",
@@ -1873,11 +1873,11 @@
     },
     {
         "Topics": "face-detection",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "face-filters",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "face-landmarks",
@@ -1885,15 +1885,15 @@
     },
     {
         "Topics": "face-recognition",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "face-tracking",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "facebook",
-        "Freq": 14
+        "Freq": 1
     },
     {
         "Topics": "facebook-api",
@@ -1921,7 +1921,7 @@
     },
     {
         "Topics": "faceswap",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "facial",
@@ -1941,7 +1941,7 @@
     },
     {
         "Topics": "feature-extraction",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "feature-matching",
@@ -1949,7 +1949,7 @@
     },
     {
         "Topics": "feature-tracking",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "featureset",
@@ -1961,7 +1961,7 @@
     },
     {
         "Topics": "fiducial-markers",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "fileformat",
@@ -1977,7 +1977,7 @@
     },
     {
         "Topics": "filter",
-        "Freq": 4
+        "Freq": null
     },
     {
         "Topics": "filterjockeys",
@@ -1985,7 +1985,7 @@
     },
     {
         "Topics": "filters",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "finance",
@@ -1993,11 +1993,11 @@
     },
     {
         "Topics": "fingertip-detection",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "firebase",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "firebase-auth",
@@ -2053,7 +2053,7 @@
     },
     {
         "Topics": "flutter",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "flutter-app",
@@ -2077,7 +2077,7 @@
     },
     {
         "Topics": "food",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "food-delivery",
@@ -2097,7 +2097,7 @@
     },
     {
         "Topics": "fps",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "fps-game",
@@ -2109,7 +2109,7 @@
     },
     {
         "Topics": "framework",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "freesoftware",
@@ -2137,7 +2137,7 @@
     },
     {
         "Topics": "game",
-        "Freq": 21
+        "Freq": 1
     },
     {
         "Topics": "game-2d",
@@ -2149,11 +2149,11 @@
     },
     {
         "Topics": "game-development",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "game-engine",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "gamedev",
@@ -2169,7 +2169,7 @@
     },
     {
         "Topics": "gamepad",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "gameplaykit",
@@ -2193,7 +2193,7 @@
     },
     {
         "Topics": "gaming",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ganache-cli",
@@ -2221,11 +2221,11 @@
     },
     {
         "Topics": "gear-vr",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "gearvr",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "geocoding",
@@ -2241,7 +2241,7 @@
     },
     {
         "Topics": "geolocation",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "geometric-features",
@@ -2261,7 +2261,7 @@
     },
     {
         "Topics": "gesture-recognition",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "getusermedia",
@@ -2285,7 +2285,7 @@
     },
     {
         "Topics": "gis",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "git",
@@ -2305,7 +2305,7 @@
     },
     {
         "Topics": "glb",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "glitch",
@@ -2313,7 +2313,7 @@
     },
     {
         "Topics": "glitch-art",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "glm",
@@ -2325,7 +2325,7 @@
     },
     {
         "Topics": "gltf",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "gltf-loader",
@@ -2333,7 +2333,7 @@
     },
     {
         "Topics": "gltf2",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "glud",
@@ -2349,7 +2349,7 @@
     },
     {
         "Topics": "google",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "google-api",
@@ -2357,7 +2357,7 @@
     },
     {
         "Topics": "google-ar",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "google-ar-sdk",
@@ -2365,7 +2365,7 @@
     },
     {
         "Topics": "google-arcore",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "google-cardboard",
@@ -2381,11 +2381,11 @@
     },
     {
         "Topics": "google-glass",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "google-maps",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "google-maps-api",
@@ -2397,7 +2397,7 @@
     },
     {
         "Topics": "google-poly",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "google-sheets",
@@ -2405,7 +2405,7 @@
     },
     {
         "Topics": "googlevr",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "gorilla",
@@ -2421,7 +2421,7 @@
     },
     {
         "Topics": "gps",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "gps-coordinates",
@@ -2429,7 +2429,7 @@
     },
     {
         "Topics": "gps-data",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "gps-location",
@@ -2449,7 +2449,7 @@
     },
     {
         "Topics": "graphics",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "graphics-engine",
@@ -2457,7 +2457,7 @@
     },
     {
         "Topics": "graphs",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "graphviz",
@@ -2473,7 +2473,7 @@
     },
     {
         "Topics": "gui",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "guitar",
@@ -2481,7 +2481,7 @@
     },
     {
         "Topics": "gustavo-guanabara",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "gustavoguanabara",
@@ -2497,11 +2497,11 @@
     },
     {
         "Topics": "hackathon",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "hackathon-project",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "hackday",
@@ -2513,7 +2513,7 @@
     },
     {
         "Topics": "hacktoberfest",
-        "Freq": 12
+        "Freq": 1
     },
     {
         "Topics": "hacktoberfest2018",
@@ -2521,7 +2521,7 @@
     },
     {
         "Topics": "hacktoberfest2020",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "hairstyle",
@@ -2529,7 +2529,7 @@
     },
     {
         "Topics": "hand-detection",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "hand-keypoint-detection",
@@ -2537,7 +2537,7 @@
     },
     {
         "Topics": "hand-tracking",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "haptics",
@@ -2545,11 +2545,11 @@
     },
     {
         "Topics": "hardware",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "harry-potter",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "hci",
@@ -2565,11 +2565,11 @@
     },
     {
         "Topics": "heads-up-display",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "health",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "healthcare",
@@ -2609,11 +2609,11 @@
     },
     {
         "Topics": "hololens",
-        "Freq": 71
+        "Freq": 1
     },
     {
         "Topics": "hololens-applications",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "hololens-companion-kit",
@@ -2625,7 +2625,7 @@
     },
     {
         "Topics": "hololens2",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "hololense",
@@ -2633,7 +2633,7 @@
     },
     {
         "Topics": "holotoolkit",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "holotoolkit-unity",
@@ -2641,7 +2641,7 @@
     },
     {
         "Topics": "homography-matrix",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "homography-refinement",
@@ -2657,11 +2657,11 @@
     },
     {
         "Topics": "htc-vive",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "html",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "html-css",
@@ -2669,11 +2669,11 @@
     },
     {
         "Topics": "html5",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "human-computer-interaction",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "human-robot-collaboration",
@@ -2681,7 +2681,7 @@
     },
     {
         "Topics": "human-robot-interaction",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ibex-dashboard",
@@ -2697,7 +2697,7 @@
     },
     {
         "Topics": "ibm-watson",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ibmcode",
@@ -2737,11 +2737,11 @@
     },
     {
         "Topics": "image-processing",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "image-recognition",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "image-retrieval",
@@ -2749,7 +2749,7 @@
     },
     {
         "Topics": "image-tracking",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "imageset",
@@ -2769,7 +2769,7 @@
     },
     {
         "Topics": "incubation",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "indoor-localisation",
@@ -2781,11 +2781,11 @@
     },
     {
         "Topics": "indoor-navigation",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "indoor-positioning",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "industrial-automation",
@@ -2801,7 +2801,7 @@
     },
     {
         "Topics": "information",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "initial-positions",
@@ -2821,7 +2821,7 @@
     },
     {
         "Topics": "instagram",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "instagram-feed",
@@ -2833,7 +2833,7 @@
     },
     {
         "Topics": "instagram-filters",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "instant-messaging",
@@ -2889,7 +2889,7 @@
     },
     {
         "Topics": "ionic",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "ionic-framework",
@@ -2913,7 +2913,7 @@
     },
     {
         "Topics": "ios",
-        "Freq": 106
+        "Freq": 1
     },
     {
         "Topics": "ios-android",
@@ -2921,11 +2921,11 @@
     },
     {
         "Topics": "ios-app",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "ios-application",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ios-game",
@@ -2937,11 +2937,11 @@
     },
     {
         "Topics": "ios-sdk",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ios-swift",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "ios-ui",
@@ -2949,23 +2949,23 @@
     },
     {
         "Topics": "ios10",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ios11",
-        "Freq": 18
+        "Freq": 1
     },
     {
         "Topics": "ios12",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ios13",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "iot",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "iot-application",
@@ -2981,7 +2981,7 @@
     },
     {
         "Topics": "ipad",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ipados",
@@ -2993,11 +2993,11 @@
     },
     {
         "Topics": "iphone",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "iphone-x",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ismar",
@@ -3029,7 +3029,7 @@
     },
     {
         "Topics": "java",
-        "Freq": 14
+        "Freq": 1
     },
     {
         "Topics": "javafx",
@@ -3037,7 +3037,7 @@
     },
     {
         "Topics": "javascript",
-        "Freq": 41
+        "Freq": 1
     },
     {
         "Topics": "javascript-framework",
@@ -3069,11 +3069,11 @@
     },
     {
         "Topics": "jsartoolkit",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "jsartoolkit5",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "jsartoolkitnft",
@@ -3117,7 +3117,7 @@
     },
     {
         "Topics": "kotlin",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "kudan",
@@ -3153,7 +3153,7 @@
     },
     {
         "Topics": "leap-motion",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "leap-motion-controller",
@@ -3161,7 +3161,7 @@
     },
     {
         "Topics": "learning",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "learning-alphabets",
@@ -3189,7 +3189,7 @@
     },
     {
         "Topics": "library",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "lighting",
@@ -3197,7 +3197,7 @@
     },
     {
         "Topics": "lighting-estimation",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "lighting-model-estimation",
@@ -3209,7 +3209,7 @@
     },
     {
         "Topics": "linux",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "lionel",
@@ -3225,7 +3225,7 @@
     },
     {
         "Topics": "list",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "litescenejs",
@@ -3241,7 +3241,7 @@
     },
     {
         "Topics": "liyasthomas",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "lmao",
@@ -3261,19 +3261,19 @@
     },
     {
         "Topics": "location-ar",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "location-augmented-reality",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "location-based",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "location-based-services",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "location-management",
@@ -3325,23 +3325,23 @@
     },
     {
         "Topics": "machine-learning",
-        "Freq": 16
+        "Freq": 1
     },
     {
         "Topics": "macos",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "magic-leap",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "magicleap",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "magicleapone",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "magicmirror2",
@@ -3365,7 +3365,7 @@
     },
     {
         "Topics": "mapbox",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mapbox-gl-js",
@@ -3381,7 +3381,7 @@
     },
     {
         "Topics": "mapkit",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "mapmyindia",
@@ -3389,11 +3389,11 @@
     },
     {
         "Topics": "mapping",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "maps",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "maps-api",
@@ -3421,15 +3421,15 @@
     },
     {
         "Topics": "marker-less",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "markerless",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "markerless-augmented-reality",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "markers",
@@ -3437,11 +3437,11 @@
     },
     {
         "Topics": "marketing",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "marvel",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "master-thesis",
@@ -3477,7 +3477,7 @@
     },
     {
         "Topics": "medical",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "medicare",
@@ -3489,7 +3489,7 @@
     },
     {
         "Topics": "medium-article",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "menu",
@@ -3497,7 +3497,7 @@
     },
     {
         "Topics": "mesh",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "meshexpert",
@@ -3517,11 +3517,11 @@
     },
     {
         "Topics": "meta2",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "metal",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "metalapi",
@@ -3529,11 +3529,11 @@
     },
     {
         "Topics": "metalkit",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "metaverse",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "micds",
@@ -3541,7 +3541,7 @@
     },
     {
         "Topics": "microsoft",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "microsoft-bot-framework",
@@ -3553,7 +3553,7 @@
     },
     {
         "Topics": "microsoft-hololens",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "microsoftgraph",
@@ -3577,11 +3577,11 @@
     },
     {
         "Topics": "mixed",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "mixed-reality",
-        "Freq": 91
+        "Freq": 1
     },
     {
         "Topics": "mixed-reality-applications",
@@ -3597,11 +3597,11 @@
     },
     {
         "Topics": "mixed-reality-toolkit",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mixedreality",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "mixedreality-uxtools-unreal",
@@ -3609,11 +3609,11 @@
     },
     {
         "Topics": "mixedrealitytookit-unity",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "mixedrealitytoolkit",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "mixedrealitytoolkit-unity",
@@ -3637,23 +3637,23 @@
     },
     {
         "Topics": "mobile",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "mobile-app",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "mobile-development",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mobile-game",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mobile-vr",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mobileapp",
@@ -3665,11 +3665,11 @@
     },
     {
         "Topics": "model",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "model-viewer",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "modelio",
@@ -3681,7 +3681,7 @@
     },
     {
         "Topics": "mongodb",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "monoslam",
@@ -3693,7 +3693,7 @@
     },
     {
         "Topics": "motion-capture",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "motion-tracking",
@@ -3709,11 +3709,11 @@
     },
     {
         "Topics": "movies",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mozilla",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mp4",
@@ -3721,7 +3721,7 @@
     },
     {
         "Topics": "mr",
-        "Freq": 13
+        "Freq": 1
     },
     {
         "Topics": "mr-recording",
@@ -3733,7 +3733,7 @@
     },
     {
         "Topics": "mrtk",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "mrtk-ros-application",
@@ -3765,7 +3765,7 @@
     },
     {
         "Topics": "multipeerconnectivity",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "multiplatform",
@@ -3773,11 +3773,11 @@
     },
     {
         "Topics": "multiplayer",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "multiplayer-game",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "multiple-faces",
@@ -3789,7 +3789,7 @@
     },
     {
         "Topics": "music",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "mvvm",
@@ -3801,7 +3801,7 @@
     },
     {
         "Topics": "nasa",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "nasaspaceapps",
@@ -3813,7 +3813,7 @@
     },
     {
         "Topics": "native-development",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "native-extension",
@@ -3841,7 +3841,7 @@
     },
     {
         "Topics": "navigation",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "navigation-app",
@@ -3857,7 +3857,7 @@
     },
     {
         "Topics": "ndk",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "ndk-cmake",
@@ -3869,7 +3869,7 @@
     },
     {
         "Topics": "nerf",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "nerf-in-the-wild",
@@ -3885,11 +3885,11 @@
     },
     {
         "Topics": "network",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "networking",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "neural",
@@ -3897,11 +3897,11 @@
     },
     {
         "Topics": "neural-network",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "neural-radiance-fields",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "news",
@@ -3913,7 +3913,7 @@
     },
     {
         "Topics": "nft",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "nft-marker-creator",
@@ -3925,7 +3925,7 @@
     },
     {
         "Topics": "nlp",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "nltk",
@@ -3933,7 +3933,7 @@
     },
     {
         "Topics": "node",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "node-js",
@@ -3949,7 +3949,7 @@
     },
     {
         "Topics": "nodejs",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "non-unity",
@@ -3961,7 +3961,7 @@
     },
     {
         "Topics": "north-calibration",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "nv21",
@@ -3985,7 +3985,7 @@
     },
     {
         "Topics": "object-detection",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "object-localization",
@@ -3993,19 +3993,19 @@
     },
     {
         "Topics": "object-recognition",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "object-tracking",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "objective-c",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "occlusion",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ocr",
@@ -4017,7 +4017,7 @@
     },
     {
         "Topics": "oculus",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "oculus-browser",
@@ -4025,15 +4025,15 @@
     },
     {
         "Topics": "oculus-quest",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "oculus-rift",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "oculus-touch",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "oculus-vr-sdk",
@@ -4045,7 +4045,7 @@
     },
     {
         "Topics": "oepncv",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "omnidirectional",
@@ -4061,7 +4061,7 @@
     },
     {
         "Topics": "opencv",
-        "Freq": 44
+        "Freq": 1
     },
     {
         "Topics": "opencv-android-sdk",
@@ -4073,7 +4073,7 @@
     },
     {
         "Topics": "opencv-python",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "opencv4android",
@@ -4085,15 +4085,15 @@
     },
     {
         "Topics": "opengl",
-        "Freq": 19
+        "Freq": 1
     },
     {
         "Topics": "opengl-es",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "opengles",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "openpose",
@@ -4117,11 +4117,11 @@
     },
     {
         "Topics": "openvr",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "openxr",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "openxr-cts",
@@ -4133,7 +4133,7 @@
     },
     {
         "Topics": "openxr-loader",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "openxr-sample",
@@ -4149,11 +4149,11 @@
     },
     {
         "Topics": "orb",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "orb-slam2",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "order-food",
@@ -4189,7 +4189,7 @@
     },
     {
         "Topics": "papers",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "paradigm-shift",
@@ -4237,7 +4237,7 @@
     },
     {
         "Topics": "persistence",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "person-segmentation",
@@ -4257,7 +4257,7 @@
     },
     {
         "Topics": "photogrammetry",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "photon-pun",
@@ -4273,7 +4273,7 @@
     },
     {
         "Topics": "physics",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "piano",
@@ -4329,7 +4329,7 @@
     },
     {
         "Topics": "planet",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "planning",
@@ -4361,7 +4361,7 @@
     },
     {
         "Topics": "plugin",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "poc",
@@ -4377,7 +4377,7 @@
     },
     {
         "Topics": "point-of-interest",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "pokemon",
@@ -4389,7 +4389,7 @@
     },
     {
         "Topics": "poly",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "polyfill",
@@ -4397,7 +4397,7 @@
     },
     {
         "Topics": "polymer",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "polymer-3",
@@ -4405,11 +4405,11 @@
     },
     {
         "Topics": "portal",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "pose-estimation",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "poster",
@@ -4425,7 +4425,7 @@
     },
     {
         "Topics": "privacy",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "privacy-aware",
@@ -4449,7 +4449,7 @@
     },
     {
         "Topics": "processing",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "profiler",
@@ -4461,7 +4461,7 @@
     },
     {
         "Topics": "project",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "project-tango",
@@ -4469,15 +4469,15 @@
     },
     {
         "Topics": "projection",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "projective-geometry",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "projector",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "projeto-google-glass",
@@ -4501,7 +4501,7 @@
     },
     {
         "Topics": "pubnub",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "pubsub",
@@ -4517,7 +4517,7 @@
     },
     {
         "Topics": "python",
-        "Freq": 13
+        "Freq": 1
     },
     {
         "Topics": "python2",
@@ -4525,11 +4525,11 @@
     },
     {
         "Topics": "python3",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "pytorch",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "pytorch-lightning",
@@ -4537,7 +4537,7 @@
     },
     {
         "Topics": "qml",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "qr",
@@ -4549,11 +4549,11 @@
     },
     {
         "Topics": "qrcode",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "qt",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "qt5",
@@ -4609,11 +4609,11 @@
     },
     {
         "Topics": "ransac",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "raspberry-pi",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ray-tracing",
@@ -4633,7 +4633,7 @@
     },
     {
         "Topics": "react",
-        "Freq": 16
+        "Freq": 1
     },
     {
         "Topics": "react-ar",
@@ -4641,11 +4641,11 @@
     },
     {
         "Topics": "react-native",
-        "Freq": 16
+        "Freq": 1
     },
     {
         "Topics": "react-native-maps",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "react-navigation",
@@ -4653,7 +4653,7 @@
     },
     {
         "Topics": "reactjs",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "real-estate",
@@ -4665,7 +4665,7 @@
     },
     {
         "Topics": "real-time-communications",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "real-time-face-detection",
@@ -4681,11 +4681,11 @@
     },
     {
         "Topics": "reality",
-        "Freq": 14
+        "Freq": 1
     },
     {
         "Topics": "realitykit",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "realsense",
@@ -4721,11 +4721,11 @@
     },
     {
         "Topics": "reconstruction",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "redux",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "refinement",
@@ -4745,7 +4745,7 @@
     },
     {
         "Topics": "rendering",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "rendering-3d-graphics",
@@ -4789,7 +4789,7 @@
     },
     {
         "Topics": "robotics",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "robotics-algorithms",
@@ -4809,7 +4809,7 @@
     },
     {
         "Topics": "ros",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "ros-development",
@@ -4825,7 +4825,7 @@
     },
     {
         "Topics": "ros2",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "rosberry",
@@ -4845,7 +4845,7 @@
     },
     {
         "Topics": "rstats",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "rtc",
@@ -4917,7 +4917,7 @@
     },
     {
         "Topics": "scene-recognition",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "scenebuilder",
@@ -4925,11 +4925,11 @@
     },
     {
         "Topics": "sceneform",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "sceneform-sdk",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "scenegraph",
@@ -4937,7 +4937,7 @@
     },
     {
         "Topics": "scenekit",
-        "Freq": 36
+        "Freq": 1
     },
     {
         "Topics": "scenekit-arkit",
@@ -4953,7 +4953,7 @@
     },
     {
         "Topics": "sdk",
-        "Freq": 14
+        "Freq": 1
     },
     {
         "Topics": "seamless",
@@ -4961,7 +4961,7 @@
     },
     {
         "Topics": "security",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "segmentation",
@@ -4989,11 +4989,11 @@
     },
     {
         "Topics": "sfm",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "shader",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "shaderlab",
@@ -5001,11 +5001,11 @@
     },
     {
         "Topics": "shaders",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "shadow",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "shadows",
@@ -5049,11 +5049,11 @@
     },
     {
         "Topics": "shooter",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "shooter-game",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "shopbot",
@@ -5069,7 +5069,7 @@
     },
     {
         "Topics": "simulation",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "simulation-engine",
@@ -5101,7 +5101,7 @@
     },
     {
         "Topics": "slam",
-        "Freq": 11
+        "Freq": 1
     },
     {
         "Topics": "slam-algorithms",
@@ -5133,7 +5133,7 @@
     },
     {
         "Topics": "snapchat",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "sobel",
@@ -5153,7 +5153,7 @@
     },
     {
         "Topics": "social-media",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "social-network",
@@ -5221,11 +5221,11 @@
     },
     {
         "Topics": "spark",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "spark-ar",
-        "Freq": 14
+        "Freq": 1
     },
     {
         "Topics": "spark-ar-creators",
@@ -5233,15 +5233,15 @@
     },
     {
         "Topics": "spark-ar-studio",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "sparkar",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "spatial",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "spatial-audio",
@@ -5253,7 +5253,7 @@
     },
     {
         "Topics": "spatial-computing",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "spatialcanvas",
@@ -5269,7 +5269,7 @@
     },
     {
         "Topics": "speech",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "speech-framework",
@@ -5277,7 +5277,7 @@
     },
     {
         "Topics": "speech-recognition",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "speech-to-text",
@@ -5297,7 +5297,7 @@
     },
     {
         "Topics": "spritekit",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "sql-db",
@@ -5325,7 +5325,7 @@
     },
     {
         "Topics": "steamvr",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "steamvr-plugin",
@@ -5337,7 +5337,7 @@
     },
     {
         "Topics": "stereokit",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "stereoscopic-videos",
@@ -5389,7 +5389,7 @@
     },
     {
         "Topics": "svrf",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "swarm-robotics",
@@ -5397,19 +5397,19 @@
     },
     {
         "Topics": "swift",
-        "Freq": 83
+        "Freq": 1
     },
     {
         "Topics": "swift-3",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "swift-4",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "swift-package-manager",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "swift-playgrounds",
@@ -5421,7 +5421,7 @@
     },
     {
         "Topics": "swift4",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "swift5",
@@ -5433,11 +5433,11 @@
     },
     {
         "Topics": "swiftpm",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "swiftui",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "sxsw",
@@ -5469,7 +5469,7 @@
     },
     {
         "Topics": "tango",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "tapestry",
@@ -5493,11 +5493,11 @@
     },
     {
         "Topics": "template",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "tensorflow",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "tensorflow-lite",
@@ -5525,7 +5525,7 @@
     },
     {
         "Topics": "tetromino",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "text",
@@ -5545,11 +5545,11 @@
     },
     {
         "Topics": "three-js",
-        "Freq": 12
+        "Freq": 1
     },
     {
         "Topics": "threejs",
-        "Freq": 26
+        "Freq": 1
     },
     {
         "Topics": "ti1k-dataset",
@@ -5569,11 +5569,11 @@
     },
     {
         "Topics": "tool",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "toolkit",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "toolkit-unity",
@@ -5621,7 +5621,7 @@
     },
     {
         "Topics": "tracking",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "tracking-algorithm",
@@ -5649,7 +5649,7 @@
     },
     {
         "Topics": "travel",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "tree-generator",
@@ -5669,7 +5669,7 @@
     },
     {
         "Topics": "tutorial",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "tutorial-code",
@@ -5681,7 +5681,7 @@
     },
     {
         "Topics": "typescript",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "ubuntu-server",
@@ -5717,15 +5717,15 @@
     },
     {
         "Topics": "unity",
-        "Freq": 133
+        "Freq": 1
     },
     {
         "Topics": "unity-3d",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "unity-android",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "unity-ar-distance",
@@ -5737,11 +5737,11 @@
     },
     {
         "Topics": "unity-asset",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "unity-editor",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "unity-game",
@@ -5757,7 +5757,7 @@
     },
     {
         "Topics": "unity-scripts",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "unity-sdk",
@@ -5765,7 +5765,7 @@
     },
     {
         "Topics": "unity-tutorial",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "unity-ui",
@@ -5773,7 +5773,7 @@
     },
     {
         "Topics": "unity-webxr-exporter",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "unity2d",
@@ -5781,7 +5781,7 @@
     },
     {
         "Topics": "unity3d",
-        "Freq": 103
+        "Freq": 1
     },
     {
         "Topics": "unity3d-game",
@@ -5789,11 +5789,11 @@
     },
     {
         "Topics": "unity3d-games",
-        "Freq": 7
+        "Freq": 1
     },
     {
         "Topics": "unity3d-plugin",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "unity3d-script",
@@ -5813,11 +5813,11 @@
     },
     {
         "Topics": "unreal-engine",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "unreal-engine-4",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "unrealengine",
@@ -5825,11 +5825,11 @@
     },
     {
         "Topics": "upm",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "upm-package",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "ur5",
@@ -5837,7 +5837,7 @@
     },
     {
         "Topics": "urban-planning",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "urho3d",
@@ -5853,11 +5853,11 @@
     },
     {
         "Topics": "usdz",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "user-experience",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "user-interaction",
@@ -5877,7 +5877,7 @@
     },
     {
         "Topics": "uwp",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "ux",
@@ -5905,11 +5905,11 @@
     },
     {
         "Topics": "video",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "video-call",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "video-chat",
@@ -5933,7 +5933,7 @@
     },
     {
         "Topics": "video-processing",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "video-streaming",
@@ -5961,7 +5961,7 @@
     },
     {
         "Topics": "viro",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "viro-community",
@@ -5973,7 +5973,7 @@
     },
     {
         "Topics": "viro-react",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "virocore",
@@ -5981,11 +5981,11 @@
     },
     {
         "Topics": "viromedia",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "virtual",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "virtual-button",
@@ -6005,11 +6005,11 @@
     },
     {
         "Topics": "virtual-reality",
-        "Freq": 93
+        "Freq": 1
     },
     {
         "Topics": "virtual-reality-experiences",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "virtualization",
@@ -6017,11 +6017,11 @@
     },
     {
         "Topics": "virtualreality",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "vision",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "vision-api",
@@ -6041,7 +6041,7 @@
     },
     {
         "Topics": "visual-studio",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "visualiser",
@@ -6049,7 +6049,7 @@
     },
     {
         "Topics": "visualization",
-        "Freq": 13
+        "Freq": 1
     },
     {
         "Topics": "visualizer",
@@ -6061,7 +6061,7 @@
     },
     {
         "Topics": "vive",
-        "Freq": 8
+        "Freq": 1
     },
     {
         "Topics": "vive-controller",
@@ -6073,7 +6073,7 @@
     },
     {
         "Topics": "vivetracker",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "voice-recognition",
@@ -6081,7 +6081,7 @@
     },
     {
         "Topics": "volume-rendering",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "volumetric-video",
@@ -6089,7 +6089,7 @@
     },
     {
         "Topics": "vr",
-        "Freq": 62
+        "Freq": 1
     },
     {
         "Topics": "vr-locomotion",
@@ -6125,7 +6125,7 @@
     },
     {
         "Topics": "vuejs",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "vuex",
@@ -6133,11 +6133,11 @@
     },
     {
         "Topics": "vuforia",
-        "Freq": 55
+        "Freq": 1
     },
     {
         "Topics": "vuforia-engine",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "vuforia-realistic-shadows",
@@ -6145,7 +6145,7 @@
     },
     {
         "Topics": "vuforia-sdk",
-        "Freq": 12
+        "Freq": 1
     },
     {
         "Topics": "w3c",
@@ -6193,7 +6193,7 @@
     },
     {
         "Topics": "waveengine",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "waveengine-mrtk",
@@ -6201,7 +6201,7 @@
     },
     {
         "Topics": "wavefront",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "wavefront-obj",
@@ -6209,7 +6209,7 @@
     },
     {
         "Topics": "web",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "web-api",
@@ -6217,7 +6217,7 @@
     },
     {
         "Topics": "web-ar",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "web-component",
@@ -6225,11 +6225,11 @@
     },
     {
         "Topics": "webapp",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "webar",
-        "Freq": 24
+        "Freq": 1
     },
     {
         "Topics": "webarchive-discovery",
@@ -6237,7 +6237,7 @@
     },
     {
         "Topics": "webarkit",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "webarkitorg",
@@ -6249,7 +6249,7 @@
     },
     {
         "Topics": "webaronarkit",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "webassembly",
@@ -6265,7 +6265,7 @@
     },
     {
         "Topics": "webcam",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "webcam-capture",
@@ -6281,7 +6281,7 @@
     },
     {
         "Topics": "webgl",
-        "Freq": 20
+        "Freq": 1
     },
     {
         "Topics": "webgl-shader",
@@ -6301,15 +6301,15 @@
     },
     {
         "Topics": "webpack",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "webrtc",
-        "Freq": 5
+        "Freq": 1
     },
     {
         "Topics": "website",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "websocket",
@@ -6321,11 +6321,11 @@
     },
     {
         "Topics": "webvr",
-        "Freq": 18
+        "Freq": 1
     },
     {
         "Topics": "webxr",
-        "Freq": 38
+        "Freq": 1
     },
     {
         "Topics": "webxr-unity",
@@ -6353,7 +6353,7 @@
     },
     {
         "Topics": "wikitude",
-        "Freq": 6
+        "Freq": 1
     },
     {
         "Topics": "windowbuilder",
@@ -6361,11 +6361,11 @@
     },
     {
         "Topics": "windows",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "windows-10",
-        "Freq": 3
+        "Freq": 1
     },
     {
         "Topics": "windows-10-mobile",
@@ -6377,7 +6377,7 @@
     },
     {
         "Topics": "windows-mixed-reality",
-        "Freq": 9
+        "Freq": 1
     },
     {
         "Topics": "windows-phone",
@@ -6413,7 +6413,7 @@
     },
     {
         "Topics": "wwdc",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "wwdc17",
@@ -6433,7 +6433,7 @@
     },
     {
         "Topics": "wwdc2020",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "wwt-hackathon",
@@ -6449,11 +6449,11 @@
     },
     {
         "Topics": "xamarin",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "xamarin-forms",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "xamarin-ios",
@@ -6465,7 +6465,7 @@
     },
     {
         "Topics": "xcode",
-        "Freq": 10
+        "Freq": 1
     },
     {
         "Topics": "xcode10",
@@ -6473,15 +6473,15 @@
     },
     {
         "Topics": "xcode9",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "xml",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "xr",
-        "Freq": 15
+        "Freq": 1
     },
     {
         "Topics": "xr-applications-tracker",
@@ -6493,7 +6493,7 @@
     },
     {
         "Topics": "xrtk",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "yale-university",
@@ -6517,7 +6517,7 @@
     },
     {
         "Topics": "youtube",
-        "Freq": 2
+        "Freq": 1
     },
     {
         "Topics": "yuv",
@@ -6525,7 +6525,7 @@
     },
     {
         "Topics": "zed-camera",
-        "Freq": 4
+        "Freq": 1
     },
     {
         "Topics": "zed-mini",

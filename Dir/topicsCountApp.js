@@ -1,6 +1,6 @@
 var fs = require('fs');
 var repos = require('./uniqueRepos.json');
-var result = 'Dir/topicsCount.json';
+var output = 'Dir/allData/topicsCount.json';
 var topics = [];
 
 var n = repos.length;
@@ -19,11 +19,32 @@ function uniq(a) {
     });
 }
 _topics = uniq(topics);
-//console.log(Topics);
+// console.log(_topics);
 
 
+//Finding frequency of all Topics!!
+var result = [];
+var list = [];
+var m = topics.length;
 
-let ijson = JSON.stringify(_topics, null, 4)
-fs.writeFile(result, ijson, 'utf8', function () { });
+for (var i = 0; i < m; i++) {
 
-// exports.array = Description;
+    if (!result[topics[i]])
+        result[topics[i]] = 0;
+    ++result[topics[i]];
+}
+// console.log(result);
+
+for (var key in result) {
+    if (result.hasOwnProperty(key)) {
+        var obj = {}
+        var tags = key;
+        var freq = result[key]
+        obj = { tags, freq }
+        // console.log(obj);
+        list.push(obj);
+    }
+}
+
+let ijson = JSON.stringify(list, null, 4)
+fs.writeFile(output, ijson, 'utf8', function () { });
