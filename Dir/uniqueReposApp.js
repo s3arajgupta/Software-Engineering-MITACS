@@ -18,44 +18,44 @@ for (var i = 0; i < repos.length; i++) {
     if (description == null) description = "null";
     let diskUsage = node.diskUsage;
     let languages = node.languages;
-    let languages_list = [];
+    let languagesList = [];
     if (languages.edges[0] == undefined){
-        languages_list = "null";
+        languagesList = "null";
         //console.log(i + '\t' + languages_list);
     }
     else{
         //console.log(i + "\t" + languages.edges.length);
         for (let j = 0; j < languages.edges.length; j++){
-            languages_list.push(languages.edges[j].node.name);
+            languagesList.push(languages.edges[j].node.name);
         }
         // console.log(i + '\t' + languages_list);
     }
 
     let repositoryTopics = node.repositoryTopics;
-    let repositoryTopics_list = [];
-    let relatedTopics_list = [];
-    if (repositoryTopics.edges[0] == undefined) repositoryTopics_list = "null";
+    let repositoryTopicsList = [];
+    let relatedTopicsList = [];
+    if (repositoryTopics.edges[0] == undefined) repositoryTopicsList = "null";
     else{
         //console.log(i + "\t" + repositoryTopics.edges.length);
         for (let k = 0; k < repositoryTopics.edges.length; k++){
-            repositoryTopics_list.push(repositoryTopics.edges[k].node.topic.name);
+            repositoryTopicsList.push(repositoryTopics.edges[k].node.topic.name);
             //console.log(i + "\t" + repositoryTopics.edges.length);
             let relatedTopics = repositoryTopics.edges[k].node.topic.relatedTopics;
             if (relatedTopics == undefined) continue;
             else{
                 for(let x = 0; x < relatedTopics.length; x++){
                     //console.log(i + "\t" + x + "\t" +  relatedTopics[x].name);
-                    relatedTopics_list.push(relatedTopics[x].name);
+                    relatedTopicsList.push(relatedTopics[x].name);
                 }
             }
         }
         /*
         For Simplicity assigning relatedTopics to "null"
         */
-        relatedTopics_list = "null";
+        relatedTopicsList = "null";
     }
-    if (relatedTopics_list.length == 0) {
-        relatedTopics_list = "null";
+    if (relatedTopicsList.length == 0) {
+        relatedTopicsList = "null";
         //console.log(i + '\t' + relatedTopics_list);
     }
 
@@ -66,7 +66,7 @@ for (var i = 0; i < repos.length; i++) {
         //console.log(i + '\t' + primaryLanguage);
 
     if (stargazerCount >= 3) {
-        output.push({createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list});
+        output.push({ createdAt, nameWithOwner, stargazerCount, description, repositoryTopicsList, primaryLanguage, languagesList, diskUsage, relatedTopicsList});
     }
 
 }
