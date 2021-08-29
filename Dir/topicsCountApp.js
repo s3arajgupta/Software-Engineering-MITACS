@@ -38,9 +38,9 @@ for (var i = 0; i < m; i++) {
 for (var key in result) {
     if (result.hasOwnProperty(key)) {
         var obj = {}
-        var tags = key;
-        var freq = result[key]
-        obj = { tags, freq }
+        var Topics = key;
+        var Freq = result[key]
+        obj = { Topics, Freq }
         // console.log(obj);
         list.push(obj);
     }
