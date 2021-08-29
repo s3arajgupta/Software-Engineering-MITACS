@@ -1,6 +1,3 @@
-var fs = require('fs');
-var AR = require('./Result.json');
-var result = 'Element.json';
 var output = [];
 var n = AR.length;
 

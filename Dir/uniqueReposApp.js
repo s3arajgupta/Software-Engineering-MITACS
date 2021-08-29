@@ -1,14 +1,12 @@
 var fs = require('fs');
-var AR = require('./AR.json');
-var result = 'Result.json';
+var repos = require('./data/cumilativeRepos.json');
+var result = 'hello.json';
 var output = [];
 
-for (var i = 0; i < AR.length; i++) {
-    //  for (var j = 0; j < AR[i].search.edges.length; j++) {
-    //  console.log(json[i].search.edges[j].node.id)
-    let node = AR[i].search.edges[0].node;
+for (var i = 0; i < repos.length; i++) {
+
+    let node = repos[i].search.edges[0].node;
     if (node == undefined) continue;
-    
     //let databaseId = node.databaseId;
     let createdAt = node.createdAt;
     let nameWithOwner = node.nameWithOwner;
@@ -16,7 +14,6 @@ for (var i = 0; i < AR.length; i++) {
     let description = node.description;
     if (description == null) description = "null";
     let diskUsage = node.diskUsage;
-
     let languages = node.languages;
     let languages_list = [];
     if (languages.edges[0] == undefined){
@@ -49,8 +46,10 @@ for (var i = 0; i < AR.length; i++) {
                 }
             }
         }
-        //console.log(repositoryTopics_list);
-        //console.log(i + "\t" + relatedTopics_list);
+        /*
+        For Simplicity assigning relatedTopics to "null"
+        */
+        relatedTopics_list = "null";
     }
     if (relatedTopics_list.length == 0) {
         relatedTopics_list = "null";
@@ -63,10 +62,49 @@ for (var i = 0; i < AR.length; i++) {
         primaryLanguage = primaryLanguage.name;
         //console.log(i + '\t' + primaryLanguage);
 
-    output.push({createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list});
-    
+    if (stargazerCount >= 3) {
+        output.push({createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list});
+    }
 
 }
 
-let ijson = JSON.stringify(output, null, 4)
+//Removing Duplicates
+
+var n = output.length;
+
+function GetSortOrder(prop) {
+    return function (a, b) {
+        if (a[prop] > b[prop]) {
+            return 1;
+        } else if (a[prop] < b[prop]) {
+            return -1;
+        }
+        return 0;
+    }
+}
+output.sort(GetSortOrder("nameWithOwner"));
+
+function removeDuplicates(arr, n) {
+    
+    let newArray = [];
+    let uniqueObject = {};
+
+    for (let i in arr) {
+        title = arr[i]['nameWithOwner'];
+
+        // Use the title as the index
+        uniqueObject[title] = arr[i];
+    }
+
+    // Loop to push unique object into array
+    for (i in uniqueObject) {
+        newArray.push(uniqueObject[i]);
+    }
+
+    return newArray;
+}
+uniqueRepos = removeDuplicates(output, n);
+// console.log(output);
+
+let ijson = JSON.stringify(uniqueRepos, null, 4)
 fs.writeFile(result, ijson, 'utf8', function () { });
