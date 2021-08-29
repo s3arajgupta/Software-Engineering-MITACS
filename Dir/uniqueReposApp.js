@@ -1,5 +1,8 @@
+//Removed 8 abnormal repos from ./allData/reposFromQuerry
+//Can be added back at discretion from ./allData/reposFromQuerry
+
 var fs = require('fs');
-var repos = require('./data/cumilativeRepos.json');
+var repos = require('./allData/cumilativeRepos.json');
 var result = 'Dir/uniqueRepos.json';
 var output = [];
 
