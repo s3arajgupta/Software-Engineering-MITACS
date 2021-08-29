@@ -17,7 +17,7 @@ var getTagsInDescription = function(dict, description) {
         //    res.push(_topic);
         //else {
             var splittedDescription = description.split(" ");
-            if (arrayWithinArray(splittedTag, splittedDescription))
+        if (keyWordPresent(splittedTag, splittedDescription, _topic))
                 res.push(_topic)
         //}
     }
@@ -25,10 +25,11 @@ var getTagsInDescription = function(dict, description) {
 }
 
 
-var arrayWithinArray = function(arr1, arr2){
+var keyWordPresent = function(arr1, arr2, keyword){
     var res = false;
     if (arr1.length==0) return false;
     for (var j = 0; j < arr2.length; j++) {
+        if (arr2[j] == keyword) return true;
         if (arr2[j] == arr1[0]) {
             var matched = 1;
             for (var i = 1; i < arr1.length && (j + i) < arr2.length; i++)

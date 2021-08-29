@@ -21,6 +21,7 @@
     {
         "Tags": [
             "immersive",
+            "mixed-reality",
             "unity"
         ],
         "createdAt": "2020-05-01T00:55:06Z",
@@ -251,6 +252,7 @@
         "Tags": [
             "augmented",
             "augmented-reality",
+            "location-based",
             "reality"
         ],
         "createdAt": "2017-11-23T15:09:21Z",
@@ -965,7 +967,8 @@
         "Tags": [
             "application",
             "ar",
-            "doa"
+            "doa",
+            "react-native"
         ],
         "createdAt": "2018-11-19T20:48:27Z",
         "nameWithOwner": "BLKKKBVSIK/AR_DOA",
@@ -1306,6 +1309,7 @@
         "Tags": [
             "augmented",
             "augmented-reality",
+            "qr-code",
             "reality"
         ],
         "createdAt": "2017-04-29T16:59:02Z",
@@ -1503,6 +1507,7 @@
     },
     {
         "Tags": [
+            "comic-con",
             "virtual"
         ],
         "createdAt": "2018-10-12T03:15:27Z",
@@ -2249,6 +2254,7 @@
             "3d-model",
             "augmented",
             "augmented-reality",
+            "marker-less",
             "markers",
             "model",
             "reality"
@@ -2283,6 +2289,7 @@
         "Tags": [
             "ar",
             "framework",
+            "real-time",
             "ros",
             "simulation",
             "systems",
@@ -2786,6 +2793,7 @@
     },
     {
         "Tags": [
+            "a-frame",
             "framework"
         ],
         "createdAt": "2018-06-21T07:54:20Z",
@@ -3676,6 +3684,7 @@
             "location-based",
             "navigation",
             "point-of-interest",
+            "real-time",
             "reality"
         ],
         "createdAt": "2017-11-11T07:24:41Z",
@@ -4078,6 +4087,7 @@
     },
     {
         "Tags": [
+            "a-frame",
             "android",
             "augmented",
             "augmented-reality",
@@ -4300,7 +4310,9 @@
     },
     {
         "Tags": [
-            "browser"
+            "augmented-reality",
+            "browser",
+            "virtual-reality"
         ],
         "createdAt": "2018-01-17T19:47:04Z",
         "nameWithOwner": "MozillaReality/FirefoxReality",
@@ -5171,6 +5183,7 @@
             "augmented",
             "augmented-reality",
             "detection",
+            "marker-less",
             "reality",
             "segmentation"
         ],
@@ -5291,7 +5304,8 @@
     },
     {
         "Tags": [
-            "app"
+            "app",
+            "real-time"
         ],
         "createdAt": "2018-06-16T17:50:07Z",
         "nameWithOwner": "RajPathare/ARNotes",
@@ -5440,7 +5454,8 @@
             "magic-leap",
             "mixed",
             "mixed-reality",
-            "reality"
+            "reality",
+            "speech-to-text"
         ],
         "createdAt": "2019-01-18T04:16:21Z",
         "nameWithOwner": "RealityVirtually2019/heAR",
@@ -5930,6 +5945,7 @@
             "augmented-reality",
             "camera",
             "framework",
+            "open-source",
             "pose-estimation",
             "reality",
             "solar"
@@ -6178,6 +6194,7 @@
     {
         "Tags": [
             "azure",
+            "cross-platform",
             "development",
             "mixed",
             "mixed-reality",
@@ -6596,6 +6613,7 @@
     {
         "Tags": [
             "ar",
+            "cross-platform",
             "framework",
             "mobile",
             "talk"
@@ -6655,6 +6673,7 @@
         "Tags": [
             "augmented",
             "augmented-reality",
+            "out-of-view",
             "reality"
         ],
         "createdAt": "2017-08-11T21:01:17Z",
@@ -6913,6 +6932,7 @@
     },
     {
         "Tags": [
+            "augmented-reality",
             "virtual"
         ],
         "createdAt": "2020-07-06T20:05:44Z",
@@ -6961,6 +6981,7 @@
     {
         "Tags": [
             "application",
+            "cross-platform",
             "development",
             "xr"
         ],
@@ -7249,6 +7270,7 @@
         "Tags": [
             "app",
             "computer-vision",
+            "cross-platform",
             "mobile",
             "native",
             "react",
@@ -7720,6 +7742,7 @@
             "arcore",
             "audio",
             "experiment",
+            "real-time",
             "unity",
             "visualization"
         ],
@@ -8287,7 +8310,9 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "augmented-reality"
+        ],
         "createdAt": "2017-07-02T12:25:56Z",
         "nameWithOwner": "aporto/cassapa",
         "stargazerCount": 23,
@@ -8906,6 +8931,7 @@
             "augmented",
             "augmented-reality",
             "depth",
+            "open-source",
             "reality",
             "software"
         ],
@@ -9651,7 +9677,8 @@
     },
     {
         "Tags": [
-            "help"
+            "help",
+            "soccer-practice-application"
         ],
         "createdAt": "2020-01-17T21:27:40Z",
         "nameWithOwner": "cch230/Augmented-Reality-Soccer-Practice-Application",
@@ -9918,6 +9945,7 @@
     },
     {
         "Tags": [
+            "a-frame",
             "ar",
             "augmented",
             "augmented-reality",
@@ -10200,6 +10228,7 @@
         "Tags": [
             "3d",
             "maps",
+            "mixed-reality",
             "solar"
         ],
         "createdAt": "2017-03-14T20:06:15Z",
@@ -10376,6 +10405,7 @@
     },
     {
         "Tags": [
+            "covid-19",
             "data",
             "data-visualization",
             "hololens",
@@ -11234,6 +11264,7 @@
             "augmented",
             "augmented-reality",
             "navigation",
+            "real-time",
             "reality",
             "tracker"
         ],
@@ -11249,6 +11280,7 @@
     },
     {
         "Tags": [
+            "augmented-reality",
             "drawing",
             "ios"
         ],
@@ -12260,6 +12292,7 @@
             "augmented-reality",
             "ios",
             "ios-app",
+            "react-native",
             "reality"
         ],
         "createdAt": "2018-01-24T20:17:11Z",
@@ -12279,6 +12312,7 @@
             "augmented-reality",
             "ios",
             "ios-app",
+            "react-native",
             "reality"
         ],
         "createdAt": "2018-01-31T20:06:27Z",
@@ -12452,6 +12486,7 @@
         "Tags": [
             "nvidia-optix",
             "ray-tracing",
+            "real-time",
             "xr"
         ],
         "createdAt": "2020-11-17T20:43:22Z",
@@ -12940,7 +12975,8 @@
     },
     {
         "Tags": [
-            "hololens"
+            "hololens",
+            "real-time"
         ],
         "createdAt": "2019-04-22T00:47:49Z",
         "nameWithOwner": "hanseuljun/kinect-to-hololens",
@@ -12994,6 +13030,7 @@
     {
         "Tags": [
             "framework",
+            "mixed-reality",
             "web"
         ],
         "createdAt": "2017-11-21T17:22:16Z",
@@ -13365,6 +13402,7 @@
             "augmented",
             "augmented-reality",
             "information",
+            "location-based",
             "reality",
             "university"
         ],
@@ -13906,6 +13944,7 @@
     {
         "Tags": [
             "arkit",
+            "real-time",
             "tool",
             "visualization"
         ],
@@ -14411,6 +14450,7 @@
             "augmented-reality",
             "reality",
             "realtime",
+            "skeleton-tracking",
             "unity"
         ],
         "createdAt": "2020-09-24T05:22:54Z",
@@ -14576,7 +14616,9 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "augmented-reality"
+        ],
         "createdAt": "2017-11-01T02:21:18Z",
         "nameWithOwner": "joshhewlett/Capstone2017",
         "stargazerCount": 3,
@@ -14669,6 +14711,7 @@
             "augmented-reality",
             "image",
             "image-recognition",
+            "real-time",
             "reality",
             "recognition",
             "unity"
@@ -14795,6 +14838,7 @@
     {
         "Tags": [
             "architecture",
+            "art-net",
             "deep",
             "geometric-features",
             "neural",
@@ -14889,6 +14933,7 @@
             "game",
             "mobile",
             "mobile-game",
+            "real-time",
             "reality"
         ],
         "createdAt": "2018-07-06T22:37:01Z",
@@ -15151,7 +15196,8 @@
     {
         "Tags": [
             "nerf",
-            "nerf-in-the-wild"
+            "nerf-in-the-wild",
+            "pytorch-lightning"
         ],
         "createdAt": "2020-04-12T14:12:06Z",
         "nameWithOwner": "kwea123/nerf_pl",
@@ -17085,6 +17131,7 @@
             "help",
             "mixed",
             "mixed-reality",
+            "real-time",
             "reality",
             "video"
         ],
@@ -17226,6 +17273,7 @@
         "Tags": [
             "app",
             "app-development",
+            "cross-platform",
             "development",
             "mixed",
             "mixed-reality",
@@ -17557,6 +17605,7 @@
             "object-detection",
             "pose-estimation",
             "python",
+            "real-time",
             "realtime",
             "research",
             "tensorflow",
@@ -17612,6 +17661,7 @@
             "augmented",
             "augmented-reality",
             "augmented-reality-application",
+            "open-source",
             "reality"
         ],
         "createdAt": "2019-10-02T14:43:10Z",
@@ -17879,6 +17929,7 @@
             "app",
             "augmented",
             "augmented-reality",
+            "orb-slam2",
             "reality"
         ],
         "createdAt": "2018-03-28T06:59:10Z",
@@ -18155,6 +18206,7 @@
             "augmented",
             "library",
             "lightweight",
+            "location-based",
             "web"
         ],
         "createdAt": "2019-07-11T08:56:04Z",
@@ -18343,7 +18395,8 @@
     },
     {
         "Tags": [
-            "android"
+            "android",
+            "mixed-reality"
         ],
         "createdAt": "2018-01-22T12:41:20Z",
         "nameWithOwner": "nordprojects/lantern",
@@ -18931,6 +18984,7 @@
             "audio",
             "azure",
             "mixed",
+            "real-time",
             "translator",
             "unity",
             "websocket"
@@ -18992,6 +19046,7 @@
             "information",
             "iot",
             "medical",
+            "real-time",
             "reality"
         ],
         "createdAt": "2018-03-20T16:50:41Z",
@@ -19073,6 +19128,7 @@
             "photos",
             "processing",
             "project",
+            "real-time",
             "reality",
             "realtime",
             "recognition",
@@ -19622,6 +19678,7 @@
             "augmented-reality",
             "reality",
             "speech",
+            "speech-to-text",
             "text"
         ],
         "createdAt": "2017-03-08T19:04:17Z",
@@ -20193,6 +20250,7 @@
         "Tags": [
             "3d",
             "3d-objects",
+            "augmented-reality",
             "library",
             "superimpose-3d-objects"
         ],
@@ -20802,7 +20860,9 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "e-retail"
+        ],
         "createdAt": "2017-02-05T06:34:22Z",
         "nameWithOwner": "satwikkansal/horaFeliz",
         "stargazerCount": 3,
@@ -21323,6 +21383,7 @@
         "Tags": [
             "augmented",
             "augmented-reality",
+            "location-based",
             "reality"
         ],
         "createdAt": "2020-09-05T11:41:53Z",
@@ -21785,7 +21846,9 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "a-frame"
+        ],
         "createdAt": "2020-03-15T19:21:03Z",
         "nameWithOwner": "stspanho/aframe-hit-test",
         "stargazerCount": 37,
@@ -21868,6 +21931,7 @@
     },
     {
         "Tags": [
+            "eye-tracking",
             "face",
             "marketing",
             "tool"
@@ -22003,6 +22067,7 @@
         "Tags": [
             "augmented",
             "augmented-reality",
+            "capture-the-flag",
             "game",
             "geolocation",
             "mobile",
@@ -22536,6 +22601,7 @@
     },
     {
         "Tags": [
+            "augmented-reality",
             "gps",
             "navigation"
         ],
@@ -22578,7 +22644,9 @@
         "relatedTopics_list": "null"
     },
     {
-        "Tags": [],
+        "Tags": [
+            "augmented-reality"
+        ],
         "createdAt": "2018-02-13T19:55:46Z",
         "nameWithOwner": "unleashalicia/final_transmissions",
         "stargazerCount": 3,
@@ -22942,6 +23010,7 @@
     },
     {
         "Tags": [
+            "cross-platform",
             "virocore"
         ],
         "createdAt": "2017-11-15T05:52:05Z",
