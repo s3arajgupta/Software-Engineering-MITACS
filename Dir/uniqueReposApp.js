@@ -1,6 +1,6 @@
 var fs = require('fs');
 var repos = require('./data/cumilativeRepos.json');
-var result = 'hello.json';
+var result = 'Dir/uniqueRepos.json';
 var output = [];
 
 for (var i = 0; i < repos.length; i++) {
