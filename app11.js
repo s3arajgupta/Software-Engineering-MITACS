@@ -1,6 +1,6 @@
 var fs = require('fs');
-var AR = require('./ElementALR.json');
-var result = 'Tags_file_Final_2nd.json';
+var AR = require('./Dir/uniqueRepos.json');
+var result = './Dir/tagged.json';
 var output = [];
 
 var possible = require('./RepoTopics_copy.json');
