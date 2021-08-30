@@ -104,7 +104,6 @@ for (var i = 0; i < repos.length; i++) {
     let tags = tagsFromDescription.concat(tagsFromRepositoryTopicsList);
     tags.sort();
     _tags = uniq(tags);
-    // console.log(tags);
     
     // output.push({ _tags, createdAt, nameWithOwner, description});
     output.push({ _tags, createdAt, nameWithOwner, stargazerCount, description, repositoryTopicsList, primaryLanguage, languagesList, diskUsage, relatedTopicsList });

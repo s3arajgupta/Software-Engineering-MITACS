@@ -49,10 +49,12 @@ for (var i = 0; i < repos.length; i++) {
                 }
             }
         }
+
         /*
         For Simplicity assigning relatedTopics to "null"
         */
-        relatedTopicsList = "null";
+        // relatedTopicsList = "null";
+        
     }
     if (relatedTopicsList.length == 0) {
         relatedTopicsList = "null";
