@@ -1,12 +1,10 @@
 var fs = require('fs');
 var output = [];
-var result = 'getTagsInDescription1.json';
+var result = './Dir/tagged.json';
 
 var repos = require('./uniqueRepos.json');
 var allTopics = require('./allData/allTopics.json');
 var key = require('./allData/topicsFreqKey.json');
-
-
 
 var getTagsInDescription = function (dict, description) {
     let res = [];
@@ -17,11 +15,9 @@ var getTagsInDescription = function (dict, description) {
         //console.log(variant2)
         //if (description.indexOf(variant1)!=-1) 
         //    res.push(_topic);
-        //else {
         var splittedDescription = description.split(" ");
         if (keyWordPresent(splittedTag, splittedDescription, _topic))
             res.push(_topic)
-        //}
     }
     return res;
 }
@@ -47,12 +43,13 @@ function uniq(a) {
     });
 }
 
-//Test
+{//Test
 // testDict = ["3d", "3d-graphics", "unity", "unity3d"];
 // testDescription = "this is a 3d graphics project made with unity";
 // 3d-graphics, look  for 3d-graphics or work with ["3d", "graphics"] try to find it in ["this", "is", 
 // testTags = getTagsInDescription(testDict, testDescription);
 // console.log(JSON.stringify(testTags));
+}
 
 for (var i = 0; i < repos.length; i++) {
 
@@ -62,57 +59,56 @@ for (var i = 0; i < repos.length; i++) {
     let description = repos[i].description.toLowerCase();
     description = description.replace(/[^a-zA-Z ]/g, "");
     let repositoryTopicsList = repos[i].repositoryTopicsList
+    stringfyRepositoryTopicsList = JSON.stringify(repositoryTopicsList);
+    _stringfyRepositoryTopicsList = stringfyRepositoryTopicsList.replace(/[^a-zA-Z ]/g, " ");
     let primaryLanguage = repos[i].primaryLanguage;
     let languagesList = repos[i].languagesList;
     let diskUsage = repos[i].diskUsage;
     let relatedTopicsList = repos[i].relatedTopicsList;
 
-    let tags = [];
-    let TOP = [];
-
-    tags = getTagsInDescription(allTopics, description)
-    tags.sort();
-    Tags = uniq(tags);
+    let tagsInDescription = [];
+    tagsInDescription = getTagsInDescription(allTopics, description)
+    tagsInDescription.sort();
+    _tagsInDescription = uniq(tagsInDescription);
+    let tagsFromDescription = [];
 
     //key Evaluate
     for (var k = 0; k < key.length ; k++){
-        for (var j = 0; j < Tags.length; j++) {
-            Temp = key[k].key;
-            if(Temp == Tags[j]){
-                TOP.push(Temp);
+        for (var j = 0; j < _tagsInDescription.length; j++) {
+            temp = key[k].Key;
+            // console.log(temp);
+            if (temp == _tagsInDescription[j]){
+                tagsFromDescription.push(key[k].Key);
             }
-            // console.log(TOP)
-            // console.log(Tags[j])
         }
     }
-    TOP = uniq(TOP);
 
-    RP = getTagsInDescription(allTopics, JSON.stringify(repositoryTopicsList))
+    let tagsInRepositoryTopicsList = [];
+    tagsInRepositoryTopicsList = getTagsInDescription(allTopics, _stringfyRepositoryTopicsList);
+    tagsInRepositoryTopicsList.sort();
+    _tagsInRepositoryTopicsList = uniq(tagsInRepositoryTopicsList);
+    let tagsFromRepositoryTopicsList = [];
 
+    //key Evaluate
     for (var k = 0; k < key.length; k++) {
-        for (var j = 0; j < RP.length; j++) {
-            Temp = key[k].key;
-            if (Temp == RP[j]) {
-                TOP.push(Temp);
+        for (var j = 0; j < _tagsInRepositoryTopicsList.length; j++) {
+            temp = key[k].Key;
+            // console.log(temp);
+            if (temp == _tagsInRepositoryTopicsList[j]) {
+                tagsFromRepositoryTopicsList.push(key[k].Key);
             }
-            console.log(RP)
-            // console.log(Tags[j])
         }
     }
-    TOP = uniq(TOP);
 
-    relatedTopics_list = "null";
-    repositoryTopics_list = "null";
-    languages_list = "null";
+
+    let tags = tagsFromDescription.concat(tagsFromRepositoryTopicsList);
+    tags.sort();
+    _tags = uniq(tags);
+    // console.log(tags);
     
-    // output.push({ Tags, createdAt, nameWithOwner, description});
-    // output.push({ Tags, createdAt, nameWithOwner, stargazerCount, description, repositoryTopics_list, primaryLanguage, languages_list, diskUsage, relatedTopics_list });
-    output.push({ tags, description, nameWithOwner});
-    
+    // output.push({ _tags, createdAt, nameWithOwner, description});
+    output.push({ _tags, createdAt, nameWithOwner, stargazerCount, description, repositoryTopicsList, primaryLanguage, languagesList, diskUsage, relatedTopicsList });
 }
 
 let ijson = JSON.stringify(output, null, 4);
-
-////console.log(ijson)
-
 fs.writeFile(result, ijson, 'utf8', function () { });
