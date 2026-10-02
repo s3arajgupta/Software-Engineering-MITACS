@@ -7,14 +7,27 @@ const csv = require("csv-writer").createObjectCsvWriter;
 const MAXRESULTS = 1000; // This is the maximum number of results GitHub can provide from a query. If the query returns more than this number, the date range will be split into smaller batches.
 const REQUEST_TIMEOUT = 0; // Set the request timeout in milliseconds
 
-// Add as many tokens as needed, considering the amount of data
+try {
+  require("dotenv").config();
+} catch (e) {
+  // dotenv is optional
+}
 
-const tokens = [
-  "PERSONAL_ACCESS_TOKEN_1",
-  "PERSONAL_ACCESS_TOKEN_2",
-  "PERSONAL_ACCESS_TOKEN_3",
-  "PERSONAL_ACCESS_TOKEN_..."
-];
+// Add as many tokens as needed, or configure via GITHUB_TOKENS in .env
+const cliToken = argv.token;
+const envTokens = process.env.GITHUB_TOKENS
+  ? process.env.GITHUB_TOKENS.split(",").map((t) => t.trim()).filter(Boolean)
+  : (process.env.GITHUB_TOKEN ? [process.env.GITHUB_TOKEN.trim()] : []);
+
+const tokens = cliToken
+  ? [cliToken]
+  : (envTokens.length > 0
+    ? envTokens
+    : [
+        "PERSONAL_ACCESS_TOKEN_1",
+        "PERSONAL_ACCESS_TOKEN_2",
+        "PERSONAL_ACCESS_TOKEN_3"
+      ]);
 
 let tokenIndex = 0;
 
@@ -345,6 +358,12 @@ const dateType = argv.date || "created";
 // Construct the search query with the date range
 const completeSearchQuery = `${searchQuery} ${dateType}:${startDate}..${endDate}`;
 console.log("Search Query:", completeSearchQuery);
+
+const isPlaceholder = tokens.every(t => t.startsWith("PERSONAL_ACCESS_TOKEN") || t.startsWith("ghp_SAMPLE"));
+if (isPlaceholder) {
+  console.warn("\n[Notice] No active GitHub Personal Access Token configured.");
+  console.warn("Set your token in .env (GITHUB_TOKENS=...) or pass via CLI (--token <ghp_token>).\n");
+}
 
 // Run and write the extraction
 fetchAllResults()

@@ -1,0 +1,43 @@
+{
+  "name": "github-ar-artifacts-data-mining",
+  "version": "2.0.0",
+  "description": "GitHub AR Artifacts Data Mining & Empirical Software Engineering Topic Taxonomy Analysis Suite (MITACS Globalink Research Project)",
+  "main": "GitHubMiner/index.js",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\"",
+    "mine": "node GitHubMiner/index.js",
+    "analyze:session": "node session.js",
+    "analyze:tagged": "node Dir/tagged.js",
+    "analyze:topics": "node Dir/topicsCountApp.js",
+    "analyze:repos": "node Dir/uniqueReposApp.js"
+  },
+  "keywords": [
+    "github-miner",
+    "software-engineering",
+    "mitacs",
+    "graphql-api",
+    "topic-mining",
+    "empirical-software-engineering",
+    "taxonomy-analysis",
+    "repository-mining"
+  ],
+  "author": "Swaraj Gupta",
+  "contributors": [
+    "Prof. Sègla Kpodjedo",
+    "Óscar Poblete",
+    "Arpit Sharma"
+  ],
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "@octokit/graphql": "^4.6.4",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.4.5",
+    "graphql": "^16.7.1",
+    "graphql-request": "^1.8.2",
+    "minimist": "^1.2.8"
+  }
+}

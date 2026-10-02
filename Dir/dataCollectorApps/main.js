@@ -6,18 +6,22 @@ var startDate = "2016-01-01"
 var endDate = "2020-12-31"
 var currentDate = startDate;
 
-var tokens = [
-    "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",
-    "347209534ea3c5613e5edd9243d6606319775064",
-    "b01ad824da7f15e715968aa3478eb04fd0111943",
-    "0345c9d9665e7f77ba2534794156e36df6bf7c00",
-    "272d41dab204ce9c27d901ed51d398055b039e98",
-    "68549116dbf91b166cbf909247b8bd55fb33ea00",
-    "c9c523aa5b8d139725e8a7b1ce257ad9da5eeadf",
-    "b447ad975076e2960c2bc100aff39a137f292307",
-    "4b6c816dd1719904d06a44bcf58311731ac194ba",
-    "e8ae41e66cb3807b0396b1afd7324d822440bb58"
+try {
+    require('dotenv').config();
+} catch (e) {
+    // dotenv is optional
+}
+
+const envTokens = process.env.GITHUB_TOKENS
+    ? process.env.GITHUB_TOKENS.split(',').map(t => t.trim()).filter(Boolean)
+    : [];
+
+var tokens = envTokens.length > 0 ? envTokens : [
+    "ghp_EXAMPLE_TOKEN_1",
+    "ghp_EXAMPLE_TOKEN_2",
+    "ghp_EXAMPLE_TOKEN_3"
 ];
+
 var tokenReset = [];
 for (var tr = 0; tr < tokens.length; tr++) tokenReset.push("0");
 var tokenRemaining = [];

@@ -1,39 +1,49 @@
-var fs = require('fs');
-var AR = fs.readFileSync('./Tags_file_Ultimate.json');
+/**
+ * Longitudinal Tag Analysis Runner
+ * Processes mined repository datasets and outputs tag frequency distributions by year.
+ */
 
-//var CS = require('./destination.csv')
+const fs = require('fs');
+const path = require('path');
+const { aggregateTagsByYear, toTagYearCsv } = require('./src/tagAggregator');
 
-const JSONToCSV = require("json2csv").parse;
+// Candidate dataset paths
+const candidates = [
+    process.argv[2],
+    path.join(__dirname, 'Dir', 'tagged.json'),
+    path.join(__dirname, 'Tags_file_Ultimate.json')
+].filter(Boolean);
 
-//var csv = JSONToCSV(AR);
-
-var fileData = JSON.parse(AR);
-
-var tagData = {};
-for (var i = 0; i < fileData.length; i++) {
-    var project = fileData[i];
-    var tags = project["tags"]
-    var year = project.createdAt.substring(0,4);
-
-    for (var j = 0; j < tags.length; j++) {
-        var tag = tags[j];
-        if ( !(tag in tagData) )  tagData[tag] = {}
-        if ( !(year in tagData[tag] ) ) tagData[tag][year] = 0;
-        tagData[tag][year]++;
+let inputFile = null;
+for (const p of candidates) {
+    if (fs.existsSync(p)) {
+        inputFile = p;
+        break;
     }
 }
 
-var csvData = "tag,year,count";
-
-for (tag in tagData){
-    for (year in tagData[tag]) {
-        csvData += "\n"+tag+","+year+","+tagData[tag][year];
-    }
+if (!inputFile) {
+    console.error("Error: Could not find input dataset.");
+    console.error("Searched candidates:", candidates);
+    process.exit(1);
 }
 
+console.log(`Processing dataset from: ${inputFile}`);
+const rawData = fs.readFileSync(inputFile, 'utf8');
+const fileData = JSON.parse(rawData);
 
-//var csv = JSONToCSV(tagData);
+console.log(`Loaded ${fileData.length} repository records. Aggregating tags by year...`);
+const tagData = aggregateTagsByYear(fileData);
+const uniqueTagsCount = Object.keys(tagData).length;
+console.log(`Found ${uniqueTagsCount} unique topics across all years.`);
 
-//fs.writeFileSync("./tags.json", JSON.stringify(tagData, null, 4));
+// Save JSON distribution
+const jsonOutPath = path.join(__dirname, 'tags.json');
+fs.writeFileSync(jsonOutPath, JSON.stringify(tagData, null, 4), 'utf8');
+console.log(`Exported JSON distribution to: ${jsonOutPath}`);
 
-fs.writeFileSync("./tagsCSV.csv", csvData);
+// Save CSV distribution
+const csvData = toTagYearCsv(tagData);
+const csvOutPath = path.join(__dirname, 'tagsCSV.csv');
+fs.writeFileSync(csvOutPath, csvData, 'utf8');
+console.log(`Exported CSV distribution to: ${csvOutPath}`);
