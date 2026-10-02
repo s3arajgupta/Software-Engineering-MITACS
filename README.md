@@ -14,9 +14,10 @@
 
 ## Executive Summary
 
-**GitHub AR Artifacts Data Mining** is a specialized research toolchain developed for large-scale empirical studies of open-source augmented reality (AR), virtual reality (VR), and mobile software engineering repositories on GitHub. 
+**GitHub AR Artifacts Data Mining** is a specialized research toolchain developed for large-scale empirical studies of open-source augmented reality (AR), virtual reality (VR), and mobile software engineering repositories on GitHub.
 
 The suite provides:
+
 1. **GitHubMiner**: An automated high-throughput GraphQL extraction engine that overcomes GitHub's strict **1,000-result query limit** via adaptive temporal windowing and multi-token rate-limit pooling.
 2. **Heuristic Topic & Tagging Pipeline**: A natural-language taxonomy mapper that bridges Stack Overflow tags (`dictionary.json`) to uncurated repository titles and descriptions.
 3. **Longitudinal Trend Analyzer**: A multi-year temporal aggregation engine that tracks adoption patterns across emerging technologies (Unity, Virtual Reality, Augmented Reality, Mobile platforms).
@@ -56,21 +57,27 @@ flowchart TD
 ## The Core Technical Challenges
 
 ### 1. Bypassing the GitHub 1,000-Result Search Limit
+
 GitHub's Search API enforces a hard ceiling: **no search query can return more than 1,000 results**, regardless of pagination or cursor positioning. For empirical research analyzing tens of thousands of repositories, this produces severe sampling bias.
 
 **Our Solution — Adaptive Temporal Bisection:**
+
 - `GitHubMiner` executes a preliminary count query on the total date range ($[T_{\text{start}}, T_{\text{end}}]$).
 - If the result count exceeds $1,000$, the date range is automatically bisected into $[T_{\text{start}}, T_{\text{mid}}]$ and $[T_{\text{mid}+1}, T_{\text{end}}]$.
 - The algorithm recursively divides high-density date ranges (down to single-day granularity if necessary) and expands low-density ranges, ensuring **100% data completeness without missing projects**.
 
 ### 2. Multi-Token Pooling with Dynamic Rotation
+
 The GitHub GraphQL API assigns a 5,000-point hourly rate limit per personal access token.
+
 - `TokenRotator` manages a pool of developer tokens in a round-robin schedule.
 - It dynamically inspects the `rateLimit { remaining, resetAt }` response header.
 - If a token approaches its quota floor ($< 10$ points remaining), the system automatically swaps to the next active token in the pool, sustaining continuous multi-day data mining operations.
 
 ### 3. Heuristic Topic Tagging from Unstructured Text
+
 Many GitHub repositories have empty `repositoryTopics` arrays. To classify these projects:
+
 - We compiled a taxonomy dictionary (`dictionary.json`) derived from high-frequency Stack Overflow mobile and graphics tags.
 - The matcher applies regex word-boundary detection (`\b<tag>\b`) to project names and descriptions.
 - It handles compound and hyphenated variants (e.g. matching `unity-vr` against occurrences of `unity vr`).
@@ -81,6 +88,7 @@ Many GitHub repositories have empty `repositoryTopics` arrays. To classify these
 ## Empirical Findings & Dataset
 
 The repository includes a curated empirical dataset analyzed during the research:
+
 - **`Dir/tagged.json`**: 1,368 uniquely identified repositories with metadata, star counts, primary languages, and enriched topics.
 - **`tags.json`**: Frequency distributions across **180 unique technical topics** mapped over project creation years (2016–2020).
 - **`tagsCSV.csv`**: Tabular export ready for statistical modeling in R or Python (pandas).
@@ -144,10 +152,12 @@ Software-Engineering-MITACS/
 ## Getting Started
 
 ### 1. Prerequisites
+
 - **Node.js** v16 or higher (developed with Node.js v24)
 - One or more **GitHub Personal Access Tokens** (read-only `public_repo` scope)
 
 ### 2. Installation
+
 ```bash
 git clone https://github.com/swarajgupta/Software-Engineering-MITACS.git
 cd Software-Engineering-MITACS
@@ -155,33 +165,45 @@ npm install
 ```
 
 ### 3. Environment Configuration
+
 Copy `.env.example` and supply your GitHub token(s):
+
 ```bash
 cp .env.example .env
 ```
+
 In `.env`:
+
 ```ini
 GITHUB_TOKENS=ghp_yourToken1,ghp_yourToken2
 ```
 
 ### 4. Running the Test Suite
+
 Run the 13 automated unit tests:
+
 ```bash
 npm test
 ```
 
 ### 5. Running the Data Miner
+
 Extract repositories matching a query across a date range:
+
 ```bash
 npm run mine -- --query "mobile AND (android OR ios)" --start "2018-01-01" --end "2020-12-31" --filename "mobile_results"
 ```
 
 ### 6. Running Longitudinal Analysis
+
 Aggregate topics across years from the empirical dataset:
+
 ```bash
 npm run analyze:session
 ```
+
 Outputs:
+
 - [`tags.json`](file:///e:/GitHub%20Old/Software-Engineering-MITACS/tags.json)
 - [`tagsCSV.csv`](file:///e:/GitHub%20Old/Software-Engineering-MITACS/tagsCSV.csv)
 
@@ -190,6 +212,7 @@ Outputs:
 ## Research Team & Attribution
 
 Developed under the **MITACS Globalink Research Internship Program**:
+
 - **Prof. Sègla Kpodjedo** — Research Director (Department of Software Engineering, ÉTS Montréal)
 - **Swaraj Gupta** — Research Intern (Data mining, pipeline engineering, topic heuristic development)
 - **Óscar Poblete** & **Arpit Sharma** — Research Contributors (GitHubMiner initial core)
